@@ -1,0 +1,12 @@
+---
+lang: de
+title: Digitale Lange Nacht der Forschung 2020
+date: 2020-10-21T09:01:54+02:00
+page_id: news:digitale-lange-nacht-der-forschung-2020
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2020/10/21/digitale-lange-nacht-der-forschung-2020
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2020/10/21/digital-long-night-of-research-2020
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2021/09/AIST_logo_blue.png
+
+---
+
+Im Rahmen der Langen Nacht der Forschung 2020, welche aufgrund der aktuellen Covid\-19 Pandemie heuer digital stattgefunden hat, durften einige Kollegen aus der Forschungsgruppe Einblicke in den Alltag eines Forschungsmitarbeiters geben\.

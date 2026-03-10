@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p>
+      <strong>{% if site.active_lang == 'de' %}Student{% else %}Student{% endif %}:</strong> {{ page.student }}
+      | <strong>{% if site.active_lang == 'de' %}Jahr{% else %}Year{% endif %}:</strong> {{ page.year }}
+    </p>
+  </header>
+
+  {% if page.project_url %}
+  <p><strong>{% if site.active_lang == 'de' %}Projekt{% else %}Project{% endif %}:</strong> <a href="{{ page.project_url }}">{{ page.project_url }}</a></p>
+  {% endif %}
+
+  <div>
+    {{ content }}
+  </div>
+</article>

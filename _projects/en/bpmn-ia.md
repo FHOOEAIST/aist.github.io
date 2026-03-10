@@ -1,0 +1,20 @@
+---
+lang: en
+title: BPMN.IA
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/bpmnia-1-150x150.png
+page_id: projects:bpmn-ia
+permalink: /projects/bpmn-ia/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/bpmn-ia
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/bpmn-ia
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/02/neurons.jpg
+projects:
+  - title: BPMN.IA
+    laufzeitStart: 01.04.2023
+    laufzeitEnd: 31.12.2023
+    partner: UIA
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+---
+
+## BPMN.IA
+
+In the research project BPMN\.IA, a novel process modeling standard for information and decision modeling is developed as a basis for the selection of Intelligent Automation methods\. The goal of this project is the development of the mentioned standard as an extension of the Business Process Model and Notation \(BPMN\) 2\.0\. Furthermore, in BPMN \(1\) a mapping logic between information and decision models and Intelligent Automation methods shall be developed and \(2\) a mapping logic between the latter Intelligent Automation methods and concrete offers and services of leading providers shall be created\.

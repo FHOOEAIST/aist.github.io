@@ -1,0 +1,63 @@
+title: AIST Research Group
+description: >-
+  Temp desc
+baseurl: ""
+url: "http://localhost:4000"
+
+permalink: /:year/:month/:day/:title:output_ext
+
+languages: ["de", "en"]
+default_lang: "de"
+exclude_from_localization: ["javascript", "images", "css", "assets"]
+parallel_localization: false
+lang_from_path: true
+
+sass:
+  sourcemap: never
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: "/page/:num/"
+  title: ":title - Seite :num"
+  sort_field: "date"
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  publications:
+    output: false
+  theses:
+    output: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-polyglot
+  - jekyll-paginate-v2
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+  - scope:
+      path: ""
+      type: "theses"
+    values:
+      layout: "thesis"

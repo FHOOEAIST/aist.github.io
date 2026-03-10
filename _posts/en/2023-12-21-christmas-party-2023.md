@@ -1,0 +1,22 @@
+---
+lang: en
+date: 2023-12-21T11:47:58+01:00
+page_id: news:weihnachtsfeier-2023
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/12/21/weihnachtsfeier-2023
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/12/21/christmas-party-2023
+title: AIST Christmas Party 2023
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/12/merry_christmas.png
+
+---
+
+Once again this year, we gathered for our annual Christmas party, which took place at the Schloss Restaurant in beautiful Hagenberg\. It was a reflective opportunity for current, former, future employees and colleagues from friendly research groups to celebrate and socialise together\. After a delicious dinner, all employees were once again able to put their knowledge to the test at the AIST Quiz Night\.
+
+We would like to take this opportunity to thank all our project partners and colleagues for their support and collaboration over the past year\. We wish you a peaceful festive season and a successful start to 2024\.
+
+Best wishes and Merry Christmas\!
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/12/20231220-DSC08897-Enhanced-NR-_small.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/12/20231220-DSC08894-Enhanced-NR_small.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/12/20231220-DSC08899-Enhanced-NR_small.jpg)

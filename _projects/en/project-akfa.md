@@ -1,0 +1,22 @@
+---
+lang: en
+title: Project AKFA
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2019/10/akfa_2-150x150.png
+page_id: projects:projekt-akfa
+permalink: /projects/project-akfa/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-akfa
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-akfa
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/parked-trucks-under-clouds-2348359-scaled.jpg
+projects:
+  - title: Project AKFA
+    laufzeitStart: 01.11.2019
+    laufzeitEnd: 31.11.2021
+    partner: STEINBAUER Performance Austria GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+---
+
+## Project AKFA
+
+The project _Aktive Betriebsoptimierung für Fahrzeugflotten_ aims to reduce costs and risks of various larger logistics and fleet companies in Austria\. Among other things, many body damages are caused by reversing too fast, as well as increase in wear on the engine and drive train\. Furthermore, the tire wear, as well as the fuel consumption of the fleet overall is also above average\.
+
+A system is to be researched and developed which enables a fleet operator to continuously adjust and adapt individual driving profiles\. Specially installed electronics continuously measure and/or read data from the vehicle, which is dynamically evaluated to calculate a driving profile that actively modifies the vehicle’s performance in such a way that environmentally friendly, cost\-saving driving is achieved\.

@@ -1,0 +1,16 @@
+---
+lang: de
+title: Tag der offenen Tür 2019
+date: 2019-03-24T08:49:03+01:00
+page_id: news:tag-der-offenen-tuer-2019
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2019/03/24/tag-der-offenen-tuer-2019
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2019/03/23/open-house-2019
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2019/03/tdot2019.png
+
+---
+
+Auch in diesem Jahr präsentierte die Forschungsgruppe AIST wieder Projekte am Tag der offenen Tür der FH Oberösterreich am Campus Hagenberg\.
+
+Unser Kollege David Baumgartner zeigte dabei Ergebnisse zur Video\-basierten Emotionserkennung in Echtzeit\. Die diesjährigen Besucher nutzten hierbei ausgiebig die Chance verschiedenste Gesichtsausdrücke bewerten zu lassen und versuchten mit verschiedenen Grimassen die Erkennung auszutricksen\.
+
+Zu sehen gibt es das Ganze auch wieder auf dem offiziellen Youtube Kanal der FH OÖ Hagenberg\.

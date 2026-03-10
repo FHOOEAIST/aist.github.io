@@ -1,0 +1,20 @@
+---
+lang: en
+title: Bambi
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/bambi-1-150x150.png
+page_id: projects:bambi
+permalink: /projects/bambi/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/bambi
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/bambi
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/deer.jpg
+projects:
+  - title: Bambi
+    laufzeitStart: 01.04.2022
+    laufzeitEnd: 30.04.2025
+    partner: ""
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – AI4Green
+---
+
+## Bambi
+
+Healthy and intact forests, rich in biodiversity, are essential for the well\-being of humans, the health of the entire planet, and play an important role in the fight against climate change\. Sustainable wild\-life\-management strategies to keep forests intact rely on wildlife monitoring for decisions, such as protecting or regulating certain species\. Existing monitoring techniques, however, are either labor\-intensive, suffer from severe inaccuracies, or cannot be applied in dense vegetation\. Within the project [BAMBI](http://www.bambi.eco/) \(Biodiversity Airborne Monitoring Based on Intelligent UAV sampling\) a novel airborne\-light\-field\-sampling technology and an advanced AI classification system for accurate and reliable animal monitoring should be developed, with the potential to fill this gap\. BAMBI’s advantage over alternatives should be its innovative occlusion removal algorithm which makes it possible to identify and classify animals in forests by using uncrewed aerial vehicles \(UAVs\)\. The AIST research group is supporting colleagues of the partner research group, the [Media Interaction Lab](https://mi-lab.org/), in this effort\.

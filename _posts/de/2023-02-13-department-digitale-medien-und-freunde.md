@@ -1,0 +1,19 @@
+---
+lang: de
+title: Department Digitale Medien und Freunde
+date: 2023-02-13T12:30:35+01:00
+page_id: news:department-digitale-medien-und-freunde
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/02/13/department-digitale-medien-und-freunde
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/02/13/department-digital-media-and-friends
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/02/1676044421608.jpg
+
+---
+
+Unter dem Motto „Department digitale Medien und Freunde“ fand vergangene Woche ein Treffen rund um das Department für digitale Medien im Riverresort Donauschlinge statt\. Dabei kam es zum Austausch zwischen den Forschungsgruppen [WinLab](https://www.win-lab.at/), [Playful Interactive Environments Lab](https://pie-lab.at/), [Media Interaction Lab](https://mi-lab.org/), [Embedded Systems Lab](https://www.embedded-lab.at/de/ueber-uns/) und AIST mit dem Fokus auf eine in Zukunft noch weiter verstärkte Zusammenarbeit\.
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/02/1676044423419.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/02/1676044422160.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/02/1676044422313.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/02/1676044421608.jpg)

@@ -1,0 +1,20 @@
+---
+lang: en
+title: Survey Coherence Check
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2024/07/Artboard-1-150x150.png
+page_id: projects:kohaerenzpruefung-von-umfrageergebnissen
+permalink: /projects/survey-coherence-check/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/kohaerenzpruefung-von-umfrageergebnissen
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/survey-coherence-check
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2024/07/redem.jpg
+projects:
+  - title: Survey Coherence Check
+    laufzeitStart: 01.07.2024
+    laufzeitEnd: 31.09.2024
+    partner: Redem GmbH
+    foerdergeber: Land Oberösterreich – easy2innovate
+---
+
+## Survey Coherence Check
+
+The aim of the project cooperation with Redem is to investigate how the coherence of all answers of a survey participant in a quantitative survey can be automatically checked\. By analyzing all question\-answer combinations in the overall context, it is to be checked whether an interview is coherent or credible and evaluated with a score between 0 and 100\.

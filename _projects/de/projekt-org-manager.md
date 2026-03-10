@@ -1,0 +1,20 @@
+---
+lang: de
+title: Projekt ORG-Manager
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2021/01/orgmanager-150x150.png
+page_id: projects:projekt-org-manager
+permalink: /projects/projekt-org-manager/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-org-manager
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-org-manager
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/01/organization.jpg
+projects:
+  - title: Projekt ORG-Manager
+    laufzeitStart: "12.2020"
+    laufzeitEnd: "05.2022"
+    partner: LMNOP
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogram
+---
+
+## Projekt ORG-Manager
+
+Die Firma LMNOP stellt eine Software as a Service zur Verwaltung von Vereinen und Verbänden zur Verfügung\. Der sogeanannte ORG\-Manager bietet diesen die Möglichkeit deren Mitglieder sowie intere Prozesse und Prozessabläufe zu verwalten und zu koordinieren\. Im Zuge des Forschungsprojektes soll diese dabei um weitere Funktionalitäten erweitert werden\. So soll eine Möglichkeit geschaffen werden eine Modularisierung einzelner Komponenten durchführen zu können, sodass ein schrittweise Umstieg für Vereine ermöglicht wird\. Ein zentraler Aspekt stellt hier die Authentifizierung \(Stichwort: OAuth\) dar\. Darüber hinaus soll ein „Morpher Importer“ konzipiert werden\. Dieser soll mittel künstlicher Intelligenz die Möglichkeit schaffen beliebige Datenstrukturen importieren zu können\.

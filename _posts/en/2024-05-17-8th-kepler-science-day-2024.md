@@ -1,0 +1,16 @@
+---
+lang: en
+date: 2024-05-17T09:20:17+02:00
+page_id: news:8-kepler-science-day-2024
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2024/05/17/8-kepler-science-day-2024
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2024/05/17/8th-kepler-science-day-2024
+title: 8th Kepler Science Day (2024)
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2024/05/IMG_8205-2048x2048.jpg
+
+---
+
+As part of this year’s Kepler Science Day at the Medical Faculty of the Johannes Kepler University Linz, our colleagues Simone Sandler, Andreas Pointner and Christoph Praschl had the opportunity to present current results from three of our eHealth research projects\. Simone presented our [collaboration with Treetop Medical](https://aist.fh-hagenberg.at/index.php/en/projects/treetop-medical), Andreas presented the [PAIR project](https://aist.fh-hagenberg.at/index.php/en/projects/pair) and Christoph our [research cooperation with WAKO GMBH](https://aist.fh-hagenberg.at/index.php/en/projects/move)\. It was a great opportunity to present our work in the field of eHealth to a wide audience\.
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/05/IMG_8205-scaled.jpg)

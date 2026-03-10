@@ -1,0 +1,49 @@
+---
+layout: default
+lang: de
+title: Projekte
+permalink: /projekte/
+page_id: projects-index
+---
+
+{% assign de_projects = site.projects | where: "lang", "de" %}
+{% assign now_int = site.time | date: "%Y%m%d" | plus: 0 %}
+
+<h1>Projekte</h1>
+<h2>Laufende Projekte</h2>
+<ul>
+{% for project in de_projects %}
+  {% assign is_active = false %}
+  {% for p in project.projects limit:1 %}
+    {% if p.laufzeitEnd %}
+      {% assign end_parts = p.laufzeitEnd | split: "." %}
+      {% assign end_int = end_parts[2] | append: end_parts[1] | append: end_parts[0] | plus: 0 %}
+      {% if end_int >= now_int %}{% assign is_active = true %}{% endif %}
+    {% else %}
+      {% assign is_active = true %}
+    {% endif %}
+  {% endfor %}
+  {% if is_active %}
+    {% include project-card.html %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+<h2>Abgeschlossene Projekte</h2>
+<ul>
+{% for project in de_projects %}
+  {% assign is_active = false %}
+  {% for p in project.projects limit:1 %}
+    {% if p.laufzeitEnd %}
+      {% assign end_parts = p.laufzeitEnd | split: "." %}
+      {% assign end_int = end_parts[2] | append: end_parts[1] | append: end_parts[0] | plus: 0 %}
+      {% if end_int >= now_int %}{% assign is_active = true %}{% endif %}
+    {% else %}
+      {% assign is_active = true %}
+    {% endif %}
+  {% endfor %}
+  {% unless is_active %}
+    {% include project-card.html %}
+  {% endunless %}
+{% endfor %}
+</ul>

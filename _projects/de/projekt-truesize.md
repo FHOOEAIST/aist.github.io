@@ -1,0 +1,20 @@
+---
+lang: de
+title: Projekt TrueSize
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/truesize_logo-02.svg
+page_id: projects:projekt-truesize
+permalink: /projects/projekt-truesize/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-truesize
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-truesize
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/clothes-scaled.jpg
+projects:
+  - title: Projekt TrueSize
+    laufzeitStart: 01.05.2019
+    laufzeitEnd: 31.07.2021
+    partner: TrueSize
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+---
+
+## Projekt TrueSize
+
+Das Projekt TrueSize verfolgt das Ziel der Körpervermessung mit mobilen Endgeräten\. Dabei werden Videos von Personen etwa mithilfe von Smartphones erstellt und infolgedessen dreidimensionale Informationen extrahiert\. Die so erstellten 3D\-Modelle können im Weiteren etwa zur Verbesserung von Konfektionsgrößen verwendet werden, welche aktuell nur sehr sporadisch aktualisiert und zudem nicht standardisiert durchgeführt werden\. Durch diese Entwicklung hätten Anwender \(Produzenten, Händler, …\) einen Zugang zu aktuellen Maßtabellen, könnten weltweite Veränderungen beobachtet und sofort darauf reagieren\.

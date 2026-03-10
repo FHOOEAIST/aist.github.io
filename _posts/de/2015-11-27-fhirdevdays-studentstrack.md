@@ -1,0 +1,25 @@
+---
+lang: de
+title: FHIRDevDays & StudentsTrack 2015
+date: 2015-11-27T15:02:00+01:00
+page_id: news:fhirdevdays-studentstrack
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2015/11/27/fhirdevdays-studentstrack
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2015/11/27/fhirdevdays-studentstrack-2015
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/FHIRDDay2015.png
+
+---
+
+[Andreas Schuler und Oliver Krauss](http://ehealth.fh-hagenberg.at/index.php/team/) hatten die Möglichkeit die [FHIR DevDays](http://ehealth.fh-hagenberg.at/index.php/team/) in Amsterdam zu besuchen\. Neben einem Hackathon und mehreren FHIR Tracks , gab es sehr viele interessante Vorträge von Mitgliedern der FHIR Community\. Sie können [hier](https://vimeo.com/channels/hl7fhir) Videos von den Präsentationen finden\. Ein großes Dankeschön and die [HL7 Austria](http://hl7.at/) für das Sponsern von Andreas and Oliver\!
+
+Sechs von unseren Studenten hatten ebenfalls die möglichkeit den StudentsTrack zu besuchen\. Dieser wurde organisiert von Marten Smits \(Danke Marten und [Furore](http://fhir.furore.com/) für die tolle Organisation\)\. Studenten von der [Universität Heilbronn](https://www.hs-heilbronn.de/heilbronn-university), der [Medizinischen Universität Wien](https://www.meduniwien.ac.at/web/) und des  [Amsterdam Medical Center \(AMC\)](https://www.amc.nl/web/Zorg.htm) nahmen ebenfalls teil\. Die AMC organisierten einen FHIR\-Tag an dem die Projekte von den verschiedenen Universitäten präsentiert wurden\. Die Studenten durften sich auch ihr Medizinisches Museum ansehen\.
+
+Die Aufgabe für die DevDays war sich ein medizinisches Gerät auszusuchen und von diesen Daten am Smartphone oder PC zu erhalten\. Von dort aus sollten die Daten als Observation Ressourcen zum FHIR\-Server übertragen werden, natürlich mit Patient und dazugehörenden Device\. Die Daten mussten in eine Application dargestellt werden\. Die Aufgabe gab der FHIR\-Community die Möglichkeit zu sehen wie verständlich ihre Dokumentation und auch Tutorials sind\. Unsere Studenten haben gelernt was Interoperabilität bedeutet, als ihnen wärend des Tracks mitgeteilt wurde das sich auch mit den Daten von anderen Teilnehmern umgehen können sollten\. Mit FHIR wie auch mit jedem anderen Interoperablitätsstandard muss man eine gewisse Semantik einhalten um mit anderen Applikationen oder Organisationen arbeiten zu können\.
+
+Wir freuen uns schon auf die DevDays 2016 und können eine [Teilnahme](http://www.fhirdevdays.com/registration/) nur empfehlen\.
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/StudentsTrack.png)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/AMC.png)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/AMC_Outside.png)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/FHIRDDay2015.png)

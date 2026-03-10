@@ -1,0 +1,20 @@
+---
+lang: de
+title: Projektkooperation 506 Data & Performance
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/07/506_ai.png
+page_id: projects:projektkooperation-506-data-performance
+permalink: /projects/projektkooperation-506-data-performance/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projektkooperation-506-data-performance
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/projectcooperation-506-data-performance
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/07/506_title.jpg
+projects:
+  - title: Projektkooperation 506 Data & Performance
+    laufzeitStart: 1.7.2020
+    laufzeitEnd: 31.12.2020
+    partner: 506 Data & Performance GmbH
+    foerdergeber: Easy2Research
+---
+
+## Projektkooperation 506 Data & Performance
+
+Das Forschungsprojekt in Kooperation mit 506 Data & Performance GmbH beschäftigt sich mit dem Scoring von potentielle Kunden \(„Leads“\) in der B2B Neukundengewinnung\. Hierzu sollen Machine Learning Methodiken zur Steuerung des Vertriebsteams und zur effektiven, personalisierten \(automatisierten\) Kommunikation mit potentiellen Neukunden eingesetzt werden\. In dem Forschungsumfeld werden Kunden meist regelbasiert bewertet\. Diese starre Eingliederung soll in dem Forschungsprojekt mithilfe von anonymisierten Daten durch Machine Learning Ansätze verbessert und dynamischer gestaltet werden\.

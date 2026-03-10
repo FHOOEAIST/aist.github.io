@@ -1,0 +1,20 @@
+---
+lang: en
+title: text-it
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2024/05/Artboard-1-150x150.png
+page_id: projects:text-it
+permalink: /projects/text-it/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/text-it
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/text-it
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2024/05/textit.jpg
+projects:
+  - title: text-it
+    laufzeitStart: 01.04.2024
+    laufzeitEnd: 30.07.2024
+    partner: text-it GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
+---
+
+## text-it
+
+As a container format for technical publications, iiRDS standardises the exchange of content via metadata\. And this metadata must be selected and set sensibly\. The project collaboration with text\-it aims to analyse the technical requirements and necessary resources for an AI\-based, automated tool that assigns iiRDS metadata correctly and reliably and expands it independently\.

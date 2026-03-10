@@ -1,0 +1,22 @@
+---
+lang: en
+title: Project Wildboar
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/03/logo-150x150.png
+page_id: projects:projekt-wildschwein
+permalink: /projects/project-wildboar/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-wildschwein
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-wildboar
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2025/03/projekt_wildschwein.jpg
+projects:
+  - title: Project Wildboar
+    laufzeitStart: 01.09.2024
+    laufzeitEnd: 30.08.2025
+    partner: ""
+    foerdergeber: Land Oberösterreich
+---
+
+## Project Wildboar
+
+The ongoing African swine fever \(ASF\) pandemic poses a significant threat to wild boar populations and domestic pig farming\. Early detection of infected carcasses in forested areas is crucial to mitigate the spread of the disease\. “Project Wildboar – Adapting a digital nose for the detection of volatile organic compounds to locate wild boar carcasses in forests” builds upon the findings of the [DigitalNose](https://pure.fh-ooe.at/en/projects/diginase-development-of-a-digital-nose-for-early-detection-of-tre) project, adapting its technology for detecting volatile organic compounds \(VOCs\) released during the decomposition of wild boar carcasses\. This technology should be deployed via drones and/or ground\-based sensor networks, enabling rapid and efficient localization of carcasses\.
+
+The AIST research group is supporting colleagues from the partner research group of the [Digital Media Lab](https://www.digitalmedialab.at/) and [AGR](https://fh-ooe.at/forschung/research-center-wels/forschungsschwerpunkte/lebensmittel-und-biotechnologie/agrartechnologie/projekt-team-agr) in this project\.

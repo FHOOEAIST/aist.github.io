@@ -1,0 +1,20 @@
+---
+lang: de
+title: Doktor der Technik
+date: 2021-04-26T08:46:10+02:00
+page_id: news:doktor-der-technik
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2021/04/26/doktor-der-technik
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2021/04/26/doctor-of-technology
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2021/04/photo_2021-04-28_09-26-50.jpg
+
+---
+
+Unser langjähriger Mitarbeiter, Kollege und Freund Emmanuel Helm hat vergangene Woche sein Rigorosum an der Johannes Kepler Universität \(JKU\) mit „Sehr Gut“ abgeschlossen\.
+
+Damit ist ein weiterer Abschnitt in seiner akademischen Laufbahn gemeistert und er kann sich vollends seiner Position als voll beruflich Lehrender am Department für Medizin und Bioinformatik an der Fakultät für Informatik, Kommunikation und Medien in Hagenberg und seiner Tätigkeit als Forschungsprojektleiter der Forschungsgruppe AIST widmen\.
+
+Wir gratulieren ganz herzlich zu diesem besonderen Erfolg und wünschen das allerbeste für die weitere Zukunft\!
+
+P\.S\. In alter finnischer Tradition durften wir zum erfolgreichen Abschluss ein Schwert überreichen\.
+
+P\.P\.S\. Für das Foto wurden alle Sicherheitsabstände bezüglich Covid\-19 eingehalten und alle nicht am Foto zu sehenden anwesenden Personen trugen FFP2 Masken\.

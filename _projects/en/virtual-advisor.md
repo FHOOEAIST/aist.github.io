@@ -1,0 +1,20 @@
+---
+lang: en
+title: Virtual Advisor
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/logo-150x150.png
+page_id: projects:virtueller-berater
+permalink: /projects/virtual-advisor/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/virtueller-berater
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/virtual-advisor
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/virtual_advisor.png
+projects:
+  - title: Virtual Advisor
+    laufzeitStart: 01.05.2023
+    laufzeitEnd: 30.04.2024
+    partner: bluesource – mobile solutions gmbh
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+---
+
+## Virtual Advisor
+
+Together, we are developing and evaluating algorithms for a tool that analyses the investment behaviour of users in a playful way, provides personalised recommendations and serves as a communication platform at the same time\. With the help of intelligent algorithms, users receive highly personalised recommendations for the right banking and insurance products at the right time\.

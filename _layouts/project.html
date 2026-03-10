@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.background %}
+    <div style="background-image: url('{{ page.background }}');">
+      {% if page.logo %}
+      <img src="{{ page.logo }}" alt="{{ page.title }}">
+      {% endif %}
+    </div>
+    {% endif %}
+  </header>
+
+  <div>
+    {{ content }}
+  </div>
+  {% if page.projects %}
+  <div>
+    {% for proj in page.projects %}
+    <div>
+      {% if proj.laufzeitStart %}
+      <p><strong>{% if site.active_lang == 'de' %}Laufzeit{% else %}Duration{% endif %}:</strong> {{ proj.laufzeitStart }}{% if proj.laufzeitEnd %} - {{ proj.laufzeitEnd }}{% endif %}</p>
+      {% endif %}
+      {% if proj.partner and proj.partner != "" %}
+      <p><strong>Partner:</strong> {{ proj.partner }}</p>
+      {% endif %}
+      {% if proj.dissertant %}
+      <p><strong>Dissertant:</strong> {{ proj.dissertant }}</p>
+      {% endif %}
+      {% if proj.foerdergeber %}
+      <p><strong>{% if site.active_lang == 'de' %}Fördergeber{% else %}Funding{% endif %}:</strong> {{ proj.foerdergeber }}</p>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+  <div>
+      <a href="{{page.source_url_de}}">Original DE</a>
+      <a href="{{page.source_url_en}}">Original EN</a>
+  </div>
+</article>

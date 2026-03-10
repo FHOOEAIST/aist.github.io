@@ -1,0 +1,22 @@
+---
+lang: en
+title: Project MoxUP
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2018/11/MoxUp_1000px-300x291.png
+page_id: projects:moxup
+permalink: /projects/moxup/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/moxup
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/moxup
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/skyline-scaled.jpg
+projects:
+  - title: Project MoxUP
+    laufzeitStart: ": 01.10.2018"
+    laufzeitEnd: 31.03.2019
+    partner: ""
+    foerdergeber: ": Österreichische Forschungsförderungsgesellschaft FFG –
+      Innovationsscheck"
+---
+
+## Project MoxUP
+
+Within the scope of the MoxUp Project, house construction plans delivered by architects, get edited for use in Virtual Reality providing an immersive insight for customers even before the first brick is set in place\. The challenge thereby lays within differently structured 2D/3D data types used across the domains of industrial construction and Virtual Reality\.
+The projects main goal is to automate the validation of such 3D models for the use in VR and if necessary indicate errors and automatically optimize respectively\.

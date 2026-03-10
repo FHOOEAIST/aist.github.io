@@ -1,0 +1,22 @@
+---
+lang: de
+title: HL7 Arbeitsgruppentreffen San Antonio
+date: 2017-01-28T13:07:15+01:00
+page_id: news:hl7-arbeitsgruppentreffen-san-antonio
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/01/28/hl7-arbeitsgruppentreffen-san-antonio
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/01/28/hl7-workgroup-meeting-san-antonio
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2017/02/IMG_20170118_181915.jpg
+
+---
+
+Reinhard Egelkraut von [Compu Group Medical Austria](http://www.cgm.com/us/index.en.jsp) und [Oliver Krauss](http://ehealth.fh-hagenberg.at/index.php/team/) haben am Jänner Work Group Meeting \(WGM\) der HL7 im Rahmen unseres gemeinsamen Projektes [KIMBO](http://ehealth.fh-hagenberg.at/index.php/projekte/) teilgenommen\. Wir möchten uns bei [HL7 Austria](http://www.hl7.at/) für das Sponsoring von Oliver bedanken\.
+
+Am Connectathon nahmen Reinhard und Oliver am  [Attachments](http://wiki.hl7.org/index.php?title=201701_Attachments) track teil, und implementierten Payer \(Placer\) und Provider \(Filler\)\. Die Implementierung half die FHIR Workflow Patterns für Inter\-Organisations\-Kommunikation besser zu verstehen\.
+
+Wir freuen uns auf den nächsten Connectathon und Workgroup Meeting in Madrid – Spanien\.
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/02/IMG_20170118_181915.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/02/IMG_20170115_121209.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/02/DSCF9381.jpg)

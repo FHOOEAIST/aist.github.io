@@ -1,0 +1,24 @@
+---
+layout: default
+lang: de
+title: Diplomarbeiten
+permalink: /diplomarbeiten/
+page_id: theses-index
+---
+
+<h1>Diplomarbeiten</h1>
+<ul>
+{% assign de_theses = site.theses | where: "lang", "de" | sort: "date" | reverse %}
+{% assign year = "" %}
+{% for thesis in de_theses %}
+    {% assign thesis_year = thesis.date | date: "%Y" %}
+    {% if thesis_year != year %}
+        <h2>{{ thesis_year }}</h2>
+        {% assign year = thesis_year %}
+    {% endif %}
+    <li>
+        <h3>{{ thesis.title }} ({{ thesis.student }}, {{ thesis.date | date: "%Y" }})</h3>
+        <p>{{thesis.content}}</p>
+  </li>
+{% endfor %}
+</ul>

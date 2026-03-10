@@ -1,0 +1,20 @@
+---
+lang: de
+title: SOC-Toolkit
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/11/soc-150x150.png
+page_id: projects:soc-toolkit
+permalink: /projects/soc-toolkit/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/soc-toolkit
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/soc-toolkit
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/11/sec.png
+projects:
+  - title: SOC-Toolkit
+    laufzeitStart: ": 01.07.2020"
+    laufzeitEnd: 30.06.2022
+    partner: ""
+    foerdergeber: ": Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm"
+---
+
+## SOC-Toolkit
+
+Große Unternehmen setzen zur Absicherung ihrer IT\-Systeme gegenüber externen und internen Bedrohungen eine Vielzahl von Sicherheitslösungen unterschiedlichster Hersteller ein\. Häufig fehlt jedoch eine ganzheitliche Sicht auf die von den verschiedenen Sicherheitslösungen gesammelten Informationen\. Die Reaktion auf IT\-Sicherheitsvorfälle ist deshalb ein oft langwieriger Prozess, da relevante Daten erst manuell verknüpft werden müssen, bevor eine fundierte Bewertung erfolgen und die weitere Vorgehensweise geplant werden kann\. Ziel des SOC\-Toolkit Projekts ist es, durch automatisierte Anreicherung und Verknüpfung der vorhandenen Daten aus verschiedenen Sicherheitslösungen die Reaktionszeit auf Sicherheitsvorfälle deutlich zu reduzieren und Security Analysten eine ganzheitliche Sicht auf Sicherheitsvorfälle zur Verfügung zu stellen\. Durch die schnellere Eindämmung von Vorfällen wird dadurch das potenzielle Schadensausmaß minimiert, und durch weitgehende Automatisierung von bisher manuell durchzuführenden Tätigkeiten werden kostbare Mitarbeiter\-Ressourcen für andere Zwecke freigesetzt\.

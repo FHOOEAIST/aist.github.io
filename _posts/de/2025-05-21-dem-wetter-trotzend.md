@@ -1,0 +1,30 @@
+---
+lang: de
+title: Dem Wetter trotzend
+date: 2025-05-21T11:56:40+02:00
+page_id: news:dem-wetter-trotzend
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/05/21/dem-wetter-trotzend
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/05/21/defying-the-weather
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/DSC08696.jpg
+
+---
+
+Manche Traditionen sind einfach zu schön, um sie nicht jedes Jahr zu feiern – so auch unser jährliches Teamevent\! In den letzten Jahren wurden wir dabei fast schon verdächtig vom Glück verfolgt\. Ob beim gemeinsamen Wandern, Klettern oder Grillen: Das Wetter meinte es stets gut mit uns, Sonnenschein war quasi gebucht, und das einzige, was nass wurde, war maximal der Inhalt unserer Trinkflaschen\.
+
+Doch dieses Jahr… ja, dieses Jahr wollte Petrus anscheinend, dass wir unser Schicksal auch mal auf der anderen Seite des Regenbogens testen\. Unser Ziel war der Bogensportparcours des TBA Treffling, idyllisch gelegen bei Schloss Riedegg – ein Ort, der eigentlich nach „Robin Hood im Sonnenschein“ schreit\. Doch statt fröhlichem Pfeilgezwitscher im lauen Frühlingswind erwartete uns das volle Programm: Regen, Starkregen, noch mehr Regen und – zur Krönung – Hagel\. \(An dieser Stelle ein kurzer Gruß an unsere Regenjacken: Ihr habt uns nicht enttäuscht\. Und ein entschuldigender Blick zu allen, die doch lieber in Turnschuhen kamen\.\)
+
+Doch wir wären nicht wir, wenn uns ein bisschen – oder ein bisschen mehr – Wasser aus dem Konzept bringen würde\. Mit Humor, Wanderschuhen und viel „Jetzt erst recht\!“\-Mentalität machten wir uns auf den Weg durch den Parcours\. Jede Station forderte nicht nur Zielsicherheit und eine ruhige Hand, sondern manchmal auch Kreativität beim Vermeiden der größten Wasserlöcher\.
+
+Am Ende des Tages waren wir durchgeweicht, aber dafür auch umso stolzer auf uns und unser Team\. Was bleibt, sind nicht nur jede Menge lustige Erinnerungen, sondern auch die Erkenntnis: Wir lassen uns vom Wetter ganz sicher nicht unterkriegen\.
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/DSC08643.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1700.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_3188.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_3182.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1747.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1722.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1709.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1717.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/DSC08673.jpg)

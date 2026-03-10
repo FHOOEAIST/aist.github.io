@@ -1,0 +1,22 @@
+---
+lang: de
+title: BAMBI @ Terra X
+date: 2023-04-21T11:57:38+02:00
+page_id: news:bambi-terra-x
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/04/21/bambi-terra-x
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/04/21/bambi-terra-x-2
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/terrax2.jpg
+
+---
+
+Das Projekt BAMBI wird in der deutschen TV\-Sendung Terra X auf ZDF vorgestellt\. Die Sendung enthält beeindruckende Drohnenaufnahmen von Gamswild und Rotwild sowie interessante Interviews aus der Region Kaunertal in Tirol, Österreich\.
+
+Dafür waren unsere Kollegen Christoph Praschl und Leopold Böss aus dem Media Interaction Lab vor Ort, um die Forschungsergebnisse aus BAMBI zu präsentieren\. Sie zeigten, wie sie mithilfe modernster Drohnentechnologie die Tiere im Kaunertal beobachten\. Zusammen mit dem Schauspieler Sebastian Ströbel und Martina Just vom Tiroler Jagdverband erläuterten sie ihre Erkenntnisse und gaben Einblicke in ihre Arbeit\.
+
+Das BAMBI\-Team bedankt sich bei allen Beteiligten, insbesondere bei David Enge und seinem Team für die hervorragenden Aufnahmen\. Die Ausstrahlung der Sendung ist für Dezember 2023 geplant, und das Team freut sich darauf, ihre Arbeit einem breiten Publikum präsentieren zu können\.
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/terrax.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/terrax3.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/terrax2.jpg)

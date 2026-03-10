@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.active_lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% for lang in site.languages %}
+    {% if page.permalink_lang and page.permalink_lang[lang] %}
+      {% assign plink = page.permalink_lang[lang] | remove_first: "/" %}
+    {% else %}
+      {% assign plink = "" %}
+    {% endif %}
+    {% if lang == site.default_lang %}
+      {% capture lang_href %}{{ site.baseurl }}/{{ plink }}{% endcapture %}
+    {% else %}
+      {% capture lang_href %}{{ site.baseurl }}/{{ lang }}/{{ plink }}{% endcapture %}
+    {% endif %}
+    <link rel="alternate" hreflang="{{ lang }}" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} />
+  {% endfor %}
+</head>
+<body>
+  <header>
+    <div>
+      <a href="{{ '/' | relative_url }}">AIST</a>
+      <nav>
+        {% assign target_page = site.pages | where: "page_id", "news" | where: "lang", site.active_lang | first %}
+        <a href="{{ target_page.permalink }}">{% if site.active_lang == 'de' %}Neuigkeiten{% else %}News{% endif %}</a>
+        {% assign target_page = site.pages | where: "page_id", "projects-index" | where: "lang", site.active_lang | first %}
+        <a href="{{ target_page.permalink }}">{% if site.active_lang == 'de' %}Projekte{% else %}Projects{% endif %}</a>
+        {% assign target_page = site.pages | where: "page_id", "publications-index" | where: "lang", site.active_lang | first %}
+        <a href="{{ target_page.permalink }}">{% if site.active_lang == 'de' %}Publikationen{% else %}Publications{% endif %}</a>
+        {% assign target_page = site.pages | where: "page_id", "theses-index" | where: "lang", site.active_lang | first %}
+        <a href="{{ target_page.permalink }}">{% if site.active_lang == 'de' %}Diplomarbeiten{% else %}Theses{% endif %}</a>
+        {% include language-switcher.html %}
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div>
+      {{ content }}
+    </div>
+  </main>
+
+  <footer>
+    <div>
+      <p>Some Footer</p>
+    </div>
+  </footer>
+</body>
+</html>

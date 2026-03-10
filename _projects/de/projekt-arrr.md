@@ -1,0 +1,19 @@
+---
+lang: de
+title: Projekt ARRR
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/01/arrr_WithBandana-300x225.png
+page_id: projects:projekt-arrr
+permalink: /projects/projekt-arrr/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-arrr
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-arrr
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/compas-scaled.jpg
+projects:
+  - title: Projekt ARRR
+    laufzeitStart: 01.02.2020
+    laufzeitEnd: 31.09.2020
+    partner: Realsim
+---
+
+## Projekt ARRR
+
+Das Forschungsprojekt ARRR befasst sich mit der automatisierten Raum\- und Stockwerkserkennung im Rahmen von Indoor Augmented Reality Anwendungen\. Dies soll es einem Nutzer ermöglichen, sich mit einem entsprechenden Gerät \(etwa Microsoft HoloLens\) in einem Gebäude zu bewegen und augmentierte Inhalte in den jeweiligen Räumlichkeiten zu finden\. Die virtuellen Inhalten werden dabei zuvor anhand eines Raumplans mithilfe eines zusätzlichen Geräts \(etwa einem Tablet\) platziert\.

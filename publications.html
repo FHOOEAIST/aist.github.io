@@ -1,0 +1,27 @@
+---
+layout: default
+lang: de
+title: Publikationen
+permalink: /publikationen/
+page_id: publications-index
+---
+
+<h1>Publikationen</h1>
+<ul>
+{% assign de_pubs = site.publications | where: "lang", "de" | sort: "date" | reverse %}
+{% assign year = "" %}
+{% for pub in de_pubs %}
+  {% assign pub_year = pub.date | date: "%Y" %}
+  {% if pub_year != year %}
+    <h2>{{ pub_year }}</h2>
+    {% assign year = pub_year %}
+  {% endif %}
+  <li>
+    <h3>{{ pub.title }}</h3>
+    {% if pub.reference %}<p>{{ pub.reference }}</p>{% endif %}
+    <p>
+        {{pub.content}}
+    </p>
+  </li>
+{% endfor %}
+</ul>

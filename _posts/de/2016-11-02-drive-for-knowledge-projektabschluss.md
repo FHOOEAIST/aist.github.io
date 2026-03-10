@@ -1,0 +1,22 @@
+---
+lang: de
+title: Drive for Knowledge Projektabschluss
+date: 2016-11-02T09:07:10+01:00
+page_id: news:drive-for-knowledge-projektabschluss
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/11/02/drive-for-knowledge-projektabschluss
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2016/11/02/drive-for-knowledge-project-completion
+
+---
+
+Zum Abschluss des Studien\- und Forschungsprojektes [Drive for Knowledge](https://aist.fh-hagenberg.at/index.php/de/projekte) mit der Firma [Formelracing](http://www.formelracing.at/), hat Thomas Peterseil, Inhaber von Formelracing, alle Teammitglieder zur Besichtigung des [Red Bull Rings](https://www.projekt-spielberg.com/) in Spielberg eingeladen\.
+
+Abreise war um 09:00 in Ansfelden, von wo aus es direkt nach Spielberg zum Red Bull Ring ging\. Dort wurde zuerst in einem Gasthaus mit Blick auf den Ring gut gespeist und anschließend ging es auf einer Indoor Kart Bahn ihn Spielberg heiß her\.
+
+Nachdem alle vom Rennen ausgepowert waren gab es noch eine 2 stündige, sehr interessante Führung am Red Bull Ring, wo man viele Einblicke in die Abläufe hinter den Kulissen bekommen hat\.
+
+Danke Thomas für den wunderbaren Tag\. Es war ein gelungener Abschluss\.
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/03/20161007_152932.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/03/IMG_2015.jpg)

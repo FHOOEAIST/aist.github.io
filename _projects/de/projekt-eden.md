@@ -1,0 +1,20 @@
+---
+lang: de
+title: Projekt EDEN
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/elementor/thumbs/EDEN-npl6bs0yfyu4ohldpo3dl45feoqdwehp5vorsh3rpc.png
+page_id: projects:projekt-eden
+permalink: /projects/projekt-eden/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekt-eden
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-eden
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/elevator-1-scaled.jpg
+projects:
+  - title: EDEN – Emergency Detection for Elevator Networks
+    laufzeitStart: 01.04.2018
+    laufzeitEnd: 31.03.2020
+    partner: VIEW Promotion GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+---
+
+## EDEN – Emergency Detection for Elevator Networks
+
+Das EDEN Projekt verfolgt das Ziel mithilfe von Sensoren und Kameras automatisiert Notfälle in zu erkennen, diese auszuwerten um sie in einen Kontext zu setzen und entsprechende Maßnahmen einzuleiten\. Anhand des ermittelten Kontexts muss entschieden werden, welche Personen informiert werden müssen und wie das weitere Vorgehen aussehen muss\. So müssen Notfälle in Privathäusern anders behandelt werden, als jene in öffentlichen Einrichtungen oder in sicherheitsrelevante Gebäuden wie Flughäfen\. Mit den geplanten Entwicklungen soll ein sicheres Umfeld geschaffen werden, dass auch Menschen mit Ängsten vor Aufzügen helfen soll\.

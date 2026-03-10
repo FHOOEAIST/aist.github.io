@@ -1,0 +1,26 @@
+---
+lang: en
+title: AAOS Eco+Maintenance
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/10/axiomote-150x150.png
+page_id: projects:aximote
+permalink: /projects/aaos-ecomaintenance/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/aximote
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/aaos-ecomaintenance
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/parked-trucks-under-clouds-2348359-scaled.jpg
+projects:
+  - title: AAOS Eco+Maintenance
+    laufzeitStart: 01.11.2025
+    laufzeitEnd: 31.10.2026
+    partner: Aximote
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+---
+
+## AAOS Eco+Maintenance
+
+The Aximote research project aims to develop an intelligent, fully software\-based system for analyzing and optimizing driving behavior and for predictive maintenance\. Building on the existing Aximote app for Android Automotive OS \(AAOS\), which can already evaluate real\-time data from a wide variety of vehicle sensors, two new data\-driven modules are being developed:
+
+1. Eco\-Score\-Module
+Develops a scientifically based efficiency score calculated on the basis of real\-time driving data such as acceleration, braking behavior, engine utilization, and energy consumption\. Drivers receive feedback on their driving style and personalized recommendations for reducing energy consumption and emissions directly in the vehicle\.
+2. Predictive\-Maintenance\-Module
+Predictive maintenance module
+Uses anomaly detection methods to identify atypical operating patterns before technical problems occur\. The goal is a software\-based early warning system that does not require additional sensors and provides indications of upcoming maintenance needs\.

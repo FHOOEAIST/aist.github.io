@@ -1,0 +1,21 @@
+---
+lang: en
+title: Trustworthy AI
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/10/logo-150x150.png
+page_id: projects:trustworthy-ai
+permalink: /projects/trustworthy-ai-2/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/trustworthy-ai
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/trustworthy-ai-2
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/lica_background.png
+projects:
+  - title: Trustworthy AI
+    laufzeitStart: 01.09.2025
+    laufzeitEnd: 31.08.2027
+    partner: CAS, CGM, Black Tusk, HSE 365, Sclable
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Virtuelle
+      Welten und digitale Lösungen für die Gesundheit
+---
+
+## Trustworthy AI
+
+AI is increasingly generating medical data \(including diagnoses\)\. To ensure that this data is usable and trustworthy, it must be labeled transparently and accompanied by verifiable contextual information \(origin, framework conditions\)\.Since clinical communication runs via FHIR, clear methods and best practices are needed to map AI outputs in the FHIR ecosystem in a structured, traceable, and secure manner—for the safe, ethically responsible, and effective use of AI in healthcare\.

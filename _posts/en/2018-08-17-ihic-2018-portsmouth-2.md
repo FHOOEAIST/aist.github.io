@@ -1,0 +1,24 @@
+---
+lang: en
+date: 2018-08-17T15:39:43+02:00
+page_id: news:ihic-2018-portsmouth
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/08/17/ihic-2018-portsmouth
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/08/17/ihic-2018-portsmouth-2
+title: IHIC 2018 Portsmouth
+title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/dudeckAward.png
+
+---
+
+Anna Lackerbauer participated in the [International Healthcare Interoperability Conference](http://ihic.info/) in Portsmouth, UK from 11/07/2018 to 12/07/2018\. She presented a journal paper with the title [A Model for Implementing an Interoperable Electronic Consent Form for Medical Treatment Using HL7 FHIR](https://www.ejbi.org/scholarly-articles/a-model-for-implementing-an-interoperable-electronic-consent-form-for-medical-treatment-using-hl7-fhir.pdf)\. Many thanks to HL7 UK for the sponsored conference place\!
+
+The conference started with tutorials about HL7 FHIR and security topics\. It offered a unique networking event on board of the HMS Warrior\. For the paper and the presentation which was held towards the end of the conference, Anna was awarded the [Joachim Dudeck Young Scientists Best Paper Award](http://www.hl7.org/about/JoachimDudeckAward.cfm?ref=nav) by HL7\.
+
+You can download the presentation slides  [here](http://ihic.info/wp-content/uploads/2018/07/Lackerbauer.pdf)\. The paper was written related to a master’s thesis about consent for medical treatment and research studies\. The full version of this master’s thesis can be downloaded [here](https://www.researchgate.net/publication/326804526_Digitalising_Consent_in_Healthcare_Development_of_an_eConsent_Backend)\.
+
+## Gallery
+
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/dudeckAward.png)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/hms.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/presentation.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/interoperable-e1534513170377.jpg)
+![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/hydePark.jpg)

@@ -1,0 +1,20 @@
+---
+lang: en
+title: SmartBuoy 2.0
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/01/logo-3-150x150.png
+page_id: projects:smartbouy
+permalink: /projects/smartbouy-2-0/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/smartbouy
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/smartbouy-2-0
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2023/01/bouy.jpg
+projects:
+  - title: SmartBuoy 2.0
+    laufzeitStart: 01.08.2022
+    laufzeitEnd: 31.07.2024
+    partner: Hermes Bootsbaus Gmbh
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+---
+
+## SmartBuoy 2.0
+
+SmartBuoy 2\.0 is focused on processing sensor data on the sea and ocean\. Using data science methods that require low\-energy algorithms, sensor data from buoys will be analyzed to determine if one or more boats have been moored at them\.

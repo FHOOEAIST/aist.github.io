@@ -1,0 +1,20 @@
+---
+lang: en
+title: Project SimRev
+logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/simrev_logo-03.svg
+page_id: projects:projekt-simrev
+permalink: /projects/project-simrev/
+source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-simrev
+source_url_en: https://aist.fh-hagenberg.at/index.php/en/project-simrev
+background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/model_car-scaled.jpg
+projects:
+  - title: Project SimRev
+    laufzeitStart: Juni 2020
+    laufzeitEnd: Juli 2020
+    partner: Lietz GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG Innovationsscheck
+---
+
+## Project SimRev
+
+By introducing sensors to a remote controlled model car, SimRevolution aims to increase the realism of racing simulations by providing the simulation with real\-time physical data of the actual car\. The sensor data of the vehicle is sent to a simulator, where it is evaluated and applied to peripheral hardware to simulate the actual driving behaviour of the car\. Input of the simulator is also returned to the vehicle in order to remotely control it\. This should reduce cost of actual physical training and ecological impact of these trainings and competitions, as the actual activity is scaled down to model basis\.
