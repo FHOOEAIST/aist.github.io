@@ -6,13 +6,16 @@ permalink: /projects/
 page_id: projects-index
 ---
 
-{% assign de_projects = site.projects | where: "lang", "en" %}
+{% assign en_projects = site.projects | where: "lang", "en" %}
 {% assign now_int = site.time | date: "%Y%m%d" | plus: 0 %}
 
-<h1>Projects</h1>
+<div class="page-header">
+  <h1>Projects</h1>
+</div>
+
 <h2>Active Projects</h2>
-<ul>
-{% for project in de_projects %}
+<ul class="project-grid">
+{% for project in en_projects %}
   {% assign is_active = false %}
   {% for p in project.projects limit:1 %}
     {% if p.laufzeitEnd %}
@@ -30,8 +33,8 @@ page_id: projects-index
 </ul>
 
 <h2>Completed Projects</h2>
-<ul>
-{% for project in de_projects %}
+<ul class="project-grid complete">
+{% for project in en_projects %}
   {% assign is_active = false %}
   {% for p in project.projects limit:1 %}
     {% if p.laufzeitEnd %}

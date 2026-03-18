@@ -13,23 +13,26 @@ pagination:
   locale: de
 ---
 
+<div class="page-header">
+  <h1>Neuigkeiten</h1>
+</div>
 
 {% if paginator.posts.size > 0 %}
-<ul>
+<div class="listing-items">
   {% for post in paginator.posts %}
-  <li>
+  <div class="listing-item">
     {% if post.title_image %}
     <img src="{{ post.title_image }}" alt="{{ post.title }}" height="100">
     {% endif %}
-    <p>{{ post.date | date: "%d.%m.%Y" }}</p>
+    <p class="date">{{ post.date | date: "%d.%m.%Y" }}</p>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  </li>
+  </div>
   {% endfor %}
-</ul>
+</div>
 {% endif %}
 
 {% if paginator.total_pages > 1 %}
-<nav>
+<div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; {% if site.active_lang == 'de' %}Neuere{% else %}Newer{% endif %}</a>
   {% endif %}
@@ -37,7 +40,7 @@ pagination:
   {% if paginator.page_trail %}
     {% for trail in paginator.page_trail %}
       {% if page.url == trail.path %}
-        <strong>{{ trail.num }}</strong>
+        <span class="current">{{ trail.num }}</span>
       {% else %}
         <a href="{{ trail.path | relative_url }}">{{ trail.num }}</a>
       {% endif %}
@@ -47,5 +50,5 @@ pagination:
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}">{% if site.active_lang == 'de' %}Ältere{% else %}Older{% endif %} &raquo;</a>
   {% endif %}
-</nav>
+</div>
 {% endif %}

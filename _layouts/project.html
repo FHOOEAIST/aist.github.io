@@ -1,11 +1,12 @@
 ---
 layout: default
+css: projects
 ---
 <article>
-  <header>
+  <header class="project-header">
     <h1>{{ page.title }}</h1>
     {% if page.background %}
-    <div style="background-image: url('{{ page.background }}');">
+    <div class="project-background" style="background-image: url('{{ page.background }}');">
       {% if page.logo %}
       <img src="{{ page.logo }}" alt="{{ page.title }}">
       {% endif %}
@@ -13,11 +14,11 @@ layout: default
     {% endif %}
   </header>
 
-  <div>
+  <div class="entry-content">
     {{ content }}
   </div>
   {% if page.projects %}
-  <div>
+  <div class="project-metadata">
     {% for proj in page.projects %}
     <div>
       {% if proj.laufzeitStart %}
@@ -36,7 +37,7 @@ layout: default
     {% endfor %}
   </div>
   {% endif %}
-  <div>
+  <div class="mt-3">
       <a href="{{page.source_url_de}}">Original DE</a>
       <a href="{{page.source_url_en}}">Original EN</a>
   </div>

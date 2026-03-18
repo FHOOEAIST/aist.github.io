@@ -4,7 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  {% if page.css %}
+  <link rel="stylesheet" href="{{ page.css | prepend: '/assets/css/' | append: '.css' | relative_url }}">
+  {% endif %}
   {% for lang in site.languages %}
     {% if page.permalink_lang and page.permalink_lang[lang] %}
       {% assign plink = page.permalink_lang[lang] | remove_first: "/" %}

@@ -9,9 +9,12 @@ page_id: projects-index
 {% assign de_projects = site.projects | where: "lang", "de" %}
 {% assign now_int = site.time | date: "%Y%m%d" | plus: 0 %}
 
-<h1>Projekte</h1>
+<div class="page-header">
+  <h1>Projekte</h1>
+</div>
+
 <h2>Laufende Projekte</h2>
-<ul>
+<ul class="project-grid">
 {% for project in de_projects %}
   {% assign is_active = false %}
   {% for p in project.projects limit:1 %}
@@ -30,7 +33,7 @@ page_id: projects-index
 </ul>
 
 <h2>Abgeschlossene Projekte</h2>
-<ul>
+<ul class="project-grid complete">
 {% for project in de_projects %}
   {% assign is_active = false %}
   {% for p in project.projects limit:1 %}

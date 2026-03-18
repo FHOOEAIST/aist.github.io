@@ -51,6 +51,7 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+      css: "projects"
   - scope:
       path: ""
       type: "publications"
