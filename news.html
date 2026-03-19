@@ -18,15 +18,15 @@ pagination:
 </div>
 
 {% if paginator.posts.size > 0 %}
-<div class="listing-items">
+<div class="listing-items news-grid">
   {% for post in paginator.posts %}
-  <div class="listing-item">
+  <a class="listing-item" href="{{ post.url | relative_url }}">
     {% if post.title_image %}
-    <img src="{{ post.title_image }}" alt="{{ post.title }}" height="100">
+    <img src="{{ post.title_image }}" alt="{{ post.title }}">
     {% endif %}
     <p class="date">{{ post.date | date: "%d.%m.%Y" }}</p>
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  </div>
+    <h2>{{ post.title }}</h2>
+  </a>
   {% endfor %}
 </div>
 {% endif %}

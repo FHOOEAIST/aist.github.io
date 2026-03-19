@@ -21,6 +21,23 @@
     {% endif %}
     <link rel="alternate" hreflang="{{ lang }}" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} />
   {% endfor %}
+  <script>document.documentElement.className = 'js';</script>
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+      const listingItems = document.querySelectorAll(".listing-item.collapsible");
+
+      listingItems.forEach(item => {
+          const title = item.querySelector(".listing-title");
+          const content = item.querySelector(".listing-content");
+
+          content.classList.add("closed");
+
+          title.addEventListener("click", function() {
+              content.classList.toggle("closed");
+          });
+      });
+  });
+  </script>
 </head>
 <body>
   <header>

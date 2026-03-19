@@ -19,12 +19,14 @@ page_id: publications-index
     <h2 class="mt-3">{{ pub_year }}</h2>
     {% assign year = pub_year %}
   {% endif %}
-  <div class="listing-item publication-entry">
-    <h3>{{ pub.title }}</h3>
-    {% if pub.reference %}<p class="publication-meta">{{ pub.reference }}</p>{% endif %}
-    <p>
-        {{pub.content}}
-    </p>
+  <div class="listing-item publication-entry collapsible">
+    <h3 class="listing-title">{{ pub.title }}</h3>
+    <div class="listing-content">
+        {% if pub.reference %}<p class="publication-meta">{{ pub.reference }}</p>{% endif %}
+        <p>
+            {{pub.content}}
+        </p>
+    </div>
   </div>
 {% endfor %}
 </div>
