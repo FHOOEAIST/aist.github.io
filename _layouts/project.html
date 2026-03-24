@@ -14,29 +14,60 @@ css: projects
     {% endif %}
   </header>
 
+  {%- comment -%}
+    Split content by <hr /> which is what Jekyll converts --- (horizontal rules) to
+    This allows handling multi-project pages with sections separated by ---
+  {%- endcomment -%}
+  {% capture full_content %}{{ content }}{% endcapture %}
+  {% assign content_sections = full_content | split: '<hr />' %}
+  
+  {%- comment -%}
+    Handle pages without projects array (null safety)
+  {%- endcomment -%}
+  {% assign projects_count = page.projects.size %}
+  {% if projects_count == null %}
+    {% assign projects_count = 0 %}
+  {% endif %}
+
   <div class="entry-content">
-    {{ content }}
-  </div>
-  {% if page.projects %}
-  <div class="project-metadata">
+    {%- comment -%}
+      Display each project section with its corresponding metadata
+    {%- endcomment -%}
     {% for proj in page.projects %}
-    <div>
-      {% if proj.laufzeitStart %}
-      <p><strong>{% if site.active_lang == 'de' %}Laufzeit{% else %}Duration{% endif %}:</strong> {{ proj.laufzeitStart }}{% if proj.laufzeitEnd %} - {{ proj.laufzeitEnd }}{% endif %}</p>
+    <div class="project-section">
+      {% assign section_index = forloop.index0 %}
+      {% if content_sections[section_index] %}
+        {{ content_sections[section_index] }}
       {% endif %}
-      {% if proj.partner and proj.partner != "" %}
-      <p><strong>Partner:</strong> {{ proj.partner }}</p>
-      {% endif %}
-      {% if proj.dissertant %}
-      <p><strong>Dissertant:</strong> {{ proj.dissertant }}</p>
-      {% endif %}
-      {% if proj.foerdergeber %}
-      <p><strong>{% if site.active_lang == 'de' %}Fördergeber{% else %}Funding{% endif %}:</strong> {{ proj.foerdergeber }}</p>
-      {% endif %}
+      <div class="project-section-metadata">
+        {% if proj.laufzeitStart %}
+        <p><strong>{% if site.active_lang == 'de' %}Laufzeit{% else %}Duration{% endif %}:</strong> {{ proj.laufzeitStart }}{% if proj.laufzeitEnd %} - {{ proj.laufzeitEnd }}{% endif %}</p>
+        {% endif %}
+        {% if proj.partner and proj.partner != "" %}
+        <p><strong>Partner:</strong> {{ proj.partner }}</p>
+        {% endif %}
+        {% if proj.dissertant %}
+        <p><strong>Dissertant:</strong> {{ proj.dissertant }}</p>
+        {% endif %}
+        {% if proj.foerdergeber %}
+        <p><strong>{% if site.active_lang == 'de' %}Fördergeber{% else %}Funding{% endif %}:</strong> {{ proj.foerdergeber }}</p>
+        {% endif %}
+      </div>
     </div>
     {% endfor %}
+    
+    {%- comment -%}
+      Display extra content sections without project metadata (e.g., Papers section)
+    {%- endcomment -%}
+    {% if content_sections.size > projects_count %}
+      {% for section in content_sections offset: projects_count %}
+        {% if section != '' %}
+          {{ section }}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </div>
-  {% endif %}
+
   <div class="mt-3">
       <a href="{{page.source_url_de}}">Original DE</a>
       <a href="{{page.source_url_en}}">Original EN</a>
