@@ -1,11 +1,11 @@
 ---
-  layout: default
-  lang: en
-  title: History – AIST
-  permalink: /history/
-  page_id: geschichte
-  ---
-  ## The Reserach Group Advanced Information Systems and Technology \(AIST\)
+layout: default
+lang: en
+title: History – AIST
+permalink: /history/
+page_id: geschichte
+---
+## The Reserach Group Advanced Information Systems and Technology \(AIST\)
 
 ###### Herwig Mayr, July 2018
 

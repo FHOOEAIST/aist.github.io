@@ -1,13 +1,13 @@
 {% if is_active %}
-<li class="project-card" style="background-image: url('{{ project.background }}');">
+<li class="project-card" style="background-image: url('{{ project.background | relative_url }}');">
   <div class="card-overlay"></div>
   <div class="card-content">
-    <a href="{{ project.url | relative_url }}"><img src="{{ project.logo }}" alt="Icon for {{ project.title }}"></a>
+    <a href="{{ project.url | relative_url }}"><img src="{{ project.logo | relative_url }}" alt="Icon for {{ project.title }}"></a>
     <h3>{{ project.title }}</h3>
   </div>
 </li>
 {% else %}
 <li class="project-card inactive">
-  <a href="{{ project.url | relative_url }}"><img src="{{ project.logo }}" alt="Icon for {{ project.title }}"></a>
+  <a href="{{ project.url | relative_url }}"><img src="{{ project.logo | relative_url }}" alt="Icon for {{ project.title }}"></a>
 </li>
 {% endif %}

@@ -27,7 +27,7 @@ Dieses Forschungsprojekt war das erste im Rahmen des Studiengangs Software Engin
 
  
 
-![](/assets/images/markdown/seekid.png)
+![](assets\images\markdown\seekid.png)
 
 _SEE\-KID/SEE\+\+: Erster Prototyp aus dem Jahre 1997 \(Ergebnis eines Studienprojekts\)\._
 

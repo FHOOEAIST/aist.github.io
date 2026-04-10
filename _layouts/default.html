@@ -19,7 +19,7 @@
     {% else %}
       {% capture lang_href %}{{ site.baseurl }}/{{ lang }}/{{ plink }}{% endcapture %}
     {% endif %}
-    <link rel="alternate" hreflang="{{ lang }}" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} />
+    <link rel="alternate" hreflang="{{ lang }}" {% static_href %}href="{{ lang_href | relative_url }}"{% endstatic_href %} />
   {% endfor %}
   <script>document.documentElement.className = 'js';</script>
   <script>
@@ -162,13 +162,13 @@
       <a href="{{ '/' | relative_url }}">AIST</a>
       <nav>
         {% assign target_page = site.pages | where: "page_id", "news" | where: "lang", site.active_lang | first %}
-        <a href="{{ target_page.permalink }}">{% if site.active_lang == 'de' %}Neuigkeiten{% else %}News{% endif %}</a>
+        <a href="{{ target_page.permalink | relative_url }}">{% if site.active_lang == 'de' %}Neuigkeiten{% else %}News{% endif %}</a>
         {% assign target_page = site.pages | where: "page_id", "projects-index" | where: "lang", site.active_lang | first %}
-        <a href="{{ target_page.permalink }}">{% if site.active_lang == 'de' %}Projekte{% else %}Projects{% endif %}</a>
+        <a href="{{ target_page.permalink | relative_url }}">{% if site.active_lang == 'de' %}Projekte{% else %}Projects{% endif %}</a>
         {% assign target_page = site.pages | where: "page_id", "publications-index" | where: "lang", site.active_lang | first %}
-        <a href="{{ target_page.permalink }}">{% if site.active_lang == 'de' %}Publikationen{% else %}Publications{% endif %}</a>
+        <a href="{{ target_page.permalink | relative_url }}">{% if site.active_lang == 'de' %}Publikationen{% else %}Publications{% endif %}</a>
         {% assign target_page = site.pages | where: "page_id", "theses-index" | where: "lang", site.active_lang | first %}
-        <a href="{{ target_page.permalink }}">{% if site.active_lang == 'de' %}Diplomarbeiten{% else %}Theses{% endif %}</a>
+        <a href="{{ target_page.permalink | relative_url }}">{% if site.active_lang == 'de' %}Diplomarbeiten{% else %}Theses{% endif %}</a>
         {% include language-switcher.html %}
       </nav>
     </div>
