@@ -1,17 +1,19 @@
 ---
 lang: en
 title: Bambi
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/bambi-1-150x150.png
+logo: /assets/images/projects/Bambi_logo.png
 page_id: projects:bambi
 permalink: /projects/bambi/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/bambi
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/bambi
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/deer.jpg
+background: /assets/images/projects/Bambi_background.jpg
 projects:
   - title: Bambi
     laufzeitStart: 01.04.2022
     laufzeitEnd: 30.04.2025
-    partner: ""
+    partner: FH OÖ Media Interaction LabBüro für Wildökologie und Forstwirtschaft
+      e.UUmweltdata GmbHViewCopter e.U.Landes-Jagdverbände Niederösterreich,
+      Oberösterreich und Tirol
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – AI4Green
 ---
 

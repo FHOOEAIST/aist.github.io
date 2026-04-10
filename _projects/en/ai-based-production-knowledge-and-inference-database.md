@@ -1,16 +1,16 @@
 ---
 lang: en
 title: AI-Based Production Knowledge and Inference Database
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/11/chase-150x150.png
+logo: /assets/images/projects/AI-Based_Production_Knowledge_and_Inference_Database_logo.png
 page_id: projects:ai-based-production-knowledge-and-inference-database
 permalink: /projects/ai-based-production-knowledge-and-inference-database/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/ai-based-production-knowledge-and-inference-database
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/ai-based-production-knowledge-and-inference-database
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2023/11/rico.jpg
+background: /assets/images/projects/AI-Based_Production_Knowledge_and_Inference_Database_background.jpg
 projects:
   - title: AI-Based Production Knowledge and Inference Database
     laufzeitStart: 01.10.2023
-    laufzeitEnd: 30.9.2027
+    laufzeitEnd: 30.09.2027
     partner: Chase comet Center Linz, RICO Thalheim bei Wels
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – CHASE Comet Center
 ---

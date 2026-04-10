@@ -5,7 +5,7 @@ date: 2022-04-22T13:35:31+02:00
 page_id: news:makerspace-eroeffnung
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/04/22/makerspace-eroeffnung
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/04/22/makerspace-opening
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/all.jpg
+title_image: /assets/images/news/Makerspace_Eröffnung_title.jpg
 
 ---
 
@@ -19,7 +19,11 @@ Unser Team freut sich über die neue Bereicherung der Hagenberger Landschaft und
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/all.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/sofa.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/anthonyyyy.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/andikonschti.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Makerspace_Eröffnung_gallery_0.jpg)
+![](/assets/images/news/Makerspace_Eröffnung_gallery_1.jpg)
+![](/assets/images/news/Makerspace_Eröffnung_gallery_2.jpg)
+![](/assets/images/news/Makerspace_Eröffnung_gallery_3.jpg)
+
+</div>

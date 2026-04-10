@@ -1,15 +1,18 @@
 ---
 lang: de
 title: Projekt OPPA
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/07/oppa_logo-1.png
+logo: /assets/images/projects/Projekt_OPPA_logo.png
 page_id: projects:project-oppa
 permalink: /projects/project-oppa/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/project-oppa
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-oppa
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/07/oppa_title.jpg
+background: /assets/images/projects/Projekt_OPPA_background.jpg
 projects:
   - title: Projekt OPPA
-    partner: ""
+    laufzeitStart: 01.07.2020
+    laufzeitEnd: 30.06.2021
+    partner: ATOS Ambulanz Mobile
+    foerdergeber: Innovatives OÖ 2020
 ---
 
 ## Projekt OPPA

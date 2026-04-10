@@ -1,17 +1,17 @@
 ---
 lang: en
 title: Ball-Tracking
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/02/Artboard-1-150x150.png
+logo: /assets/images/projects/Ball-Tracking_logo.png
 page_id: projects:ball-tracking
 permalink: /projects/ball-tracking/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/ball-tracking
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/ball-tracking
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2025/02/ball_tracking.jpg
+background: /assets/images/projects/Ball-Tracking_background.jpg
 projects:
   - title: Ball-Tracking
     laufzeitStart: 01.01.2025
     laufzeitEnd: 30.04.2025
-    partner: Dr. Eduard Holzer
+    partner: Dr. Eduard Holzer
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
 ---
 

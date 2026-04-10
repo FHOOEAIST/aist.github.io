@@ -1,12 +1,12 @@
 ---
 lang: de
 title: iReduce
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/01/ireduce.png
+logo: /assets/images/projects/iReduce_logo.png
 page_id: projects:ireduce
 permalink: /projects/ireduce/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/ireduce
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/ireduce
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2025/01/street.jpg
+background: /assets/images/projects/iReduce_background.jpg
 projects:
   - title: iReduce
     laufzeitStart: 01.01.2025

@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Project Spectory
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/spectory-300x183.png
+logo: /assets/images/projects/Projekt_Spectory_logo.png
 page_id: projects:projekt-spectory
 permalink: /projects/project-spectory/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-spectory
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-spectory
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/tunnel-scaled.jpg
+background: /assets/images/projects/Projekt_Spectory_background.jpg
 projects:
   - title: Project Spectory
     laufzeitStart: 01.05.2019

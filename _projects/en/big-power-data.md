@@ -1,19 +1,19 @@
 ---
 lang: en
 title: Big Power Data
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/01/bpd-150x150.png
+logo: /assets/images/projects/Big_Power_Data_logo.png
 page_id: projects:big-power-data
 permalink: /projects/big-power-data/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/big-power-data
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/big-power-data
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/01/clouds.jpg
+background: /assets/images/projects/Big_Power_Data_background.jpg
 projects:
   - title: Big Power Data
     laufzeitStart: 01.01.2022
     laufzeitEnd: 30.07.2023
     partner: HAKOM
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG –
-       Energieforschung (7. Ausschreibung)
+      Energieforschung (7. Ausschreibung)
 ---
 
 ## Big Power Data

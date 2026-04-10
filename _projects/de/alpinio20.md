@@ -1,17 +1,23 @@
 ---
 lang: de
 title: AlpinIO
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2021/06/alpinio-150x150.png
+logo: /assets/images/projects/AlpinIO_logo.png
 page_id: projects:alpinio20
 permalink: /projects/alpinio20/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/alpinio%20
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/alpinio
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/06/buildingplan-1.jpg
+background: /assets/images/projects/AlpinIO_background.jpg
 projects:
   - title: AlpinIO
     laufzeitStart: 01.06.2021
     laufzeitEnd: 28.02.2022
     partner: Ennacon environment nature consulting KG & Nationalpark Hohe Tauern
+    foerdergeber: "Land Oberösterreich – easy2innovateProjektschwerpunkt:
+      Klassifikation und Segmentierung von Pflanzenarten für
+      BiodiversitätsanalysenÖsterreichische Forschungsförderungsgesellschaft FFG
+      – Innovationsscheck+Projektschwerpunkt: Methoden zur Analyse von Pflanzen
+      hinsichtlich Bewuchsdichte, Größe/Form der Pflanzen/Blätter und auch
+      Verdrängung (Biodiversität) durch andere Spezien"
 ---
 
 ## AlpinIO

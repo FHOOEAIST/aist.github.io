@@ -5,7 +5,7 @@ page_id: news:ihic-2018-portsmouth
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/08/17/ihic-2018-portsmouth
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/08/17/ihic-2018-portsmouth-2
 title: IHIC 2018 Portsmouth
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/dudeckAward.png
+title_image: /assets/images/news/IHIC_2018_Portsmouth_title.png
 
 ---
 
@@ -17,8 +17,12 @@ You can download the presentation slides  [here](http://ihic.info/wp-content/u
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/dudeckAward.png)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/hms.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/presentation.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/interoperable-e1534513170377.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/hydePark.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/IHIC_2018_Portsmouth_gallery_0.png)
+![](/assets/images/news/IHIC_2018_Portsmouth_gallery_1.jpg)
+![](/assets/images/news/IHIC_2018_Portsmouth_gallery_2.jpg)
+![](/assets/images/news/IHIC_2018_Portsmouth_gallery_3.jpg)
+![](/assets/images/news/IHIC_2018_Portsmouth_gallery_4.jpg)
+
+</div>

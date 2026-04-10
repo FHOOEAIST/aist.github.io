@@ -5,7 +5,7 @@ date: 2021-04-26T08:46:10+02:00
 page_id: news:doktor-der-technik
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2021/04/26/doktor-der-technik
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2021/04/26/doctor-of-technology
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2021/04/photo_2021-04-28_09-26-50.jpg
+title_image: /assets/images/news/Doktor_der_Technik_title.jpg
 
 ---
 

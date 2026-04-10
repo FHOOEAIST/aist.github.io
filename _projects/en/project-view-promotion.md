@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Project View Promotion
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/arise-300x101.png
+logo: /assets/images/projects/Projekt_View_Promotion_logo.png
 page_id: projects:projekt-view-promotion
 permalink: /projects/project-view-promotion/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-view-promotion
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-view-promotion
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/elevator-scaled.jpg
+background: /assets/images/projects/Projekt_View_Promotion_background.jpg
 projects:
   - title: ARISE – Advertisement Recommendation and Intelligent Scheduling for
       Elevators

@@ -5,7 +5,7 @@ date: 2023-03-16T13:56:53+01:00
 page_id: news:hl7-austria-dicom-jahrestagung
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/03/16/hl7-austria-dicom-jahrestagung
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/03/16/hl7-austria-dicom-annual-conference
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/03/photo_2023-03-15_16-16-20-1.jpg
+title_image: /assets/images/news/HL7_Austria_&_DICOM_Jahrestagung_title.jpg
 
 ---
 
@@ -15,7 +15,11 @@ Zudem dürfen wir mit Freude festhalten, dass Clara den HL7 Austria Student Awar
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/03/photo_2023-03-13_10-35-55.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/03/photo_2023-03-15_15-43-54.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/03/photo_2023-03-13_10-35-53.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/03/photo_2023-03-15_16-16-20.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/HL7_Austria_&_DICOM_Jahrestagung_gallery_0.jpg)
+![](/assets/images/news/HL7_Austria_&_DICOM_Jahrestagung_gallery_1.jpg)
+![](/assets/images/news/HL7_Austria_&_DICOM_Jahrestagung_gallery_2.jpg)
+![](/assets/images/news/HL7_Austria_&_DICOM_Jahrestagung_gallery_3.jpg)
+
+</div>

@@ -5,7 +5,7 @@ page_id: news:jungforscherpreis-2025
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/06/05/jungforscherpreis-2025
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/06/05/young-researcher-award-2025
 title: Young Researcher Award 2025
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2025/06/image.jpg
+title_image: /assets/images/news/Jungforscherpreis_2025_title.jpg
 
 ---
 
@@ -17,4 +17,8 @@ Photo Credit: B\. Plank – imBILDE\.at
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/06/image.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Jungforscherpreis_2025_gallery_0.jpg)
+
+</div>

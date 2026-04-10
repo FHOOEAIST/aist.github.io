@@ -1,15 +1,18 @@
 ---
 lang: de
 title: Projekt cortEXPlore
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/cortexplore-300x258.png
+logo: /assets/images/projects/Projekt_cortEXPlore_logo.png
 page_id: projects:projekt-cortexplore
 permalink: /projects/projekt-cortexplore/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-cortexplore
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-cortexplore
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/nerves-scaled.jpg
+background: /assets/images/projects/Projekt_cortEXPlore_background.jpg
 projects:
   - title: Projekt cortEXPlore
-    partner: ""
+    laufzeitStart: 01.04.2019
+    laufzeitEnd: 31.07.2019
+    partner: cortEXPlore
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
 ---
 
 ## Projekt cortEXPlore

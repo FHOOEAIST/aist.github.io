@@ -14,6 +14,10 @@ Die Publikationen können [hier gefunden werden](http://ceur-ws.org/Vol-2374/pap
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/08/SAM_5113.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/08/P1180256-1024x768.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/08/P1180258-1024x768.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/First_International_Conference_on_Process_Mining_gallery_0.jpg)
+![](/assets/images/news/First_International_Conference_on_Process_Mining_gallery_1.jpg)
+![](/assets/images/news/First_International_Conference_on_Process_Mining_gallery_2.jpg)
+
+</div>

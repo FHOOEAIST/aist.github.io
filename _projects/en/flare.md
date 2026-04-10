@@ -1,12 +1,12 @@
 ---
 lang: en
 title: FLARE
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/06/flare-150x150.png
+logo: /assets/images/projects/FLARE_logo.png
 page_id: projects:flare
 permalink: /projects/flare/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/flare
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/flare
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2025/06/flare_bg.jpg
+background: /assets/images/projects/FLARE_background.jpg
 projects:
   - title: FLARE
     laufzeitStart: 01.03.2025

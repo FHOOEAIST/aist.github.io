@@ -5,7 +5,7 @@ page_id: news:hl7-arbeitsgruppentreffen-san-antonio
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/01/28/hl7-arbeitsgruppentreffen-san-antonio
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/01/28/hl7-workgroup-meeting-san-antonio
 title: HL7 Workgroup Meeting San Antonio
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2017/02/IMG_20170118_181915.jpg
+title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_San_Antonio_title.jpg
 
 ---
 
@@ -17,6 +17,10 @@ We are looking forward to the next Connectathon and Workgroup Meeting in Madrid 
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/02/IMG_20170118_181915.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/02/IMG_20170115_121209.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/02/DSCF9381.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_San_Antonio_gallery_0.jpg)
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_San_Antonio_gallery_1.jpg)
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_San_Antonio_gallery_2.jpg)
+
+</div>

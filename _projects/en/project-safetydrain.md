@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Project Safetydrain
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/smartshower-1-300x235.png
+logo: /assets/images/projects/Projekt_Safetydrain_logo.png
 page_id: projects:projekt-safetydrain
 permalink: /projects/project-safetydrain/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-safetydrain
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-safetydrain
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/shower-scaled.jpg
+background: /assets/images/projects/Projekt_Safetydrain_background.jpg
 projects:
   - title: Project Safetydrain
     laufzeitStart: 01.10.2016

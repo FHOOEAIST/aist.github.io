@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Eaci
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/eaci-1-150x150.png
+logo: /assets/images/projects/Eaci_logo.png
 page_id: projects:eaci
 permalink: /projects/eaci/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/eaci
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/eaci
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/12/idea.jpg
+background: /assets/images/projects/Eaci_background.jpg
 projects:
   - title: Eaci
     laufzeitStart: 01.03.2022

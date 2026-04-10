@@ -5,7 +5,7 @@ date: 2019-07-08T18:04:22+02:00
 page_id: news:hl7-wgm-montreal
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2019/07/08/hl7-wgm-montreal
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2019/07/08/2392
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2019/07/IMG_0931-min.jpg
+title_image: /assets/images/news/HL7_WGM_Montreal_title.jpg
 
 ---
 
@@ -15,6 +15,10 @@ FHIR wird mittlerweile stabiler, und die Arbeit geht in Richtung Normierung der 
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/07/IMG_0941-min.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/07/IMG_0904-min.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/07/IMG_0859-min.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/HL7_WGM_Montreal_gallery_0.jpg)
+![](/assets/images/news/HL7_WGM_Montreal_gallery_1.jpg)
+![](/assets/images/news/HL7_WGM_Montreal_gallery_2.jpg)
+
+</div>

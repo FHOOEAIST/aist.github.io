@@ -1,19 +1,18 @@
 ---
 lang: en
 title: Project MoxUP
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2018/11/MoxUp_1000px-300x291.png
+logo: /assets/images/projects/Projekt_MoxUP_logo.png
 page_id: projects:moxup
 permalink: /projects/moxup/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/moxup
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/moxup
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/skyline-scaled.jpg
+background: /assets/images/projects/Projekt_MoxUP_background.jpg
 projects:
   - title: Project MoxUP
-    laufzeitStart: ": 01.10.2018"
+    laufzeitStart: 01.10.2018
     laufzeitEnd: 31.03.2019
-    partner: ""
-    foerdergeber: ": Österreichische Forschungsförderungsgesellschaft FFG –
-      Innovationsscheck"
+    partner: Mox Innovations GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
 ---
 
 ## Project MoxUP

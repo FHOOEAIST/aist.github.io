@@ -5,7 +5,7 @@ date: 2022-09-12T09:30:44+02:00
 page_id: news:intelligent-systems-2022
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/09/12/intelligent-systems-2022
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/09/12/intelligent-systems-2022-2
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/1662799309279.png
+title_image: /assets/images/news/Intelligent_Systems_2022_title.png
 
 ---
 
@@ -15,7 +15,11 @@ Wir gratulieren an dieser Stelle ganz herzlichen allen beteiligten Kolleg\*innen
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/photo_2022-09-25_13-01-38.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/1662799309491.png)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/photo_2022-09-25_13-01-35-2.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/1662799309279.png)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Intelligent_Systems_2022_gallery_0.jpg)
+![](/assets/images/news/Intelligent_Systems_2022_gallery_1.png)
+![](/assets/images/news/Intelligent_Systems_2022_gallery_2.jpg)
+![](/assets/images/news/Intelligent_Systems_2022_gallery_3.png)
+
+</div>

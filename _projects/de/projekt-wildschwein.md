@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt Wildschwein
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/03/logo-150x150.png
+logo: /assets/images/projects/Projekt_Wildschwein_logo.png
 page_id: projects:projekt-wildschwein
 permalink: /projects/projekt-wildschwein/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-wildschwein
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-wildboar
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2025/03/projekt_wildschwein.jpg
+background: /assets/images/projects/Projekt_Wildschwein_background.jpg
 projects:
   - title: Projekt Wildschwein
     laufzeitStart: 01.09.2024

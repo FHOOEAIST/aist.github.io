@@ -5,7 +5,7 @@ page_id: news:verstaerkung-der-rg-aist
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/07/04/verstaerkung-der-rg-aist
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/07/04/reinforcement-of-the-rg-aist
 title: Reinforcement of the RG AIST
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/08/20230803-DSC06591-1.jpg
+title_image: /assets/images/news/Verstärkung_der_RG_AIST_title.jpg
 
 ---
 
@@ -21,4 +21,8 @@ Finally, we would like to congratulate our colleague Mert Dalkilic on his Bachel
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/08/20230803-DSC06591-1.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Verstärkung_der_RG_AIST_gallery_0.jpg)
+
+</div>

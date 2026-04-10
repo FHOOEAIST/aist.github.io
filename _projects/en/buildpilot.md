@@ -1,12 +1,12 @@
 ---
 lang: en
 title: BuildPilot
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/10/monto-1-150x150.png
+logo: /assets/images/projects/BuildPilot_logo.png
 page_id: projects:buildpilot
 permalink: /projects/buildpilot/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/buildpilot
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/buildpilot
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2024/07/wifi.jpg
+background: /assets/images/projects/BuildPilot_background.jpg
 projects:
   - title: BuildPilot
     laufzeitStart: 01.08.2025

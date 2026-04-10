@@ -1,19 +1,18 @@
 ---
 lang: en
 title: Project StressBurn
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/stressburng_logo-278x300.png
+logo: /assets/images/projects/Projekt_StressBurn_logo.png
 page_id: projects:projekt-stressburn
 permalink: /projects/project-stressburn/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-stressburn
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-stressburn
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/heartrate-scaled.jpg
+background: /assets/images/projects/Projekt_StressBurn_background.jpg
 projects:
   - title: Project StressBurn
-    laufzeitStart: ": 01.6.2018"
-    laufzeitEnd: 30.9.2018
-    partner: ""
-    foerdergeber: ": Österreichische Forschungsförderungsgesellschaft FFG –
-      Innovationsscheck"
+    laufzeitStart: 01.06.2018
+    laufzeitEnd: 30.09.2018
+    partner: VR Dimension e.U.; PIELab
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
 ---
 
 ## Project StressBurn

@@ -15,24 +15,18 @@ css: projects
   </header>
 
   {%- comment -%}
-    Split content by <hr /> which is what Jekyll converts --- (horizontal rules) to
+    Split content by <hr /> which is what Jekyll converts --- to
     This allows handling multi-project pages with sections separated by ---
   {%- endcomment -%}
   {% capture full_content %}{{ content }}{% endcapture %}
   {% assign content_sections = full_content | split: '<hr />' %}
-  
-  {%- comment -%}
-    Handle pages without projects array (null safety)
-  {%- endcomment -%}
+
   {% assign projects_count = page.projects.size %}
   {% if projects_count == null %}
     {% assign projects_count = 0 %}
   {% endif %}
 
   <div class="entry-content">
-    {%- comment -%}
-      Display each project section with its corresponding metadata
-    {%- endcomment -%}
     {% for proj in page.projects %}
     <div class="project-section">
       {% assign section_index = forloop.index0 %}
@@ -55,10 +49,7 @@ css: projects
       </div>
     </div>
     {% endfor %}
-    
-    {%- comment -%}
-      Display extra content sections without project metadata (e.g., Papers section)
-    {%- endcomment -%}
+
     {% if content_sections.size > projects_count %}
       {% for section in content_sections offset: projects_count %}
         {% if section != '' %}

@@ -1,16 +1,16 @@
 ---
 lang: en
 title: Project SimRev
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/simrev_logo-03.svg
+logo: /assets/images/projects/Projekt_SimRev_logo.svg
 page_id: projects:projekt-simrev
 permalink: /projects/project-simrev/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-simrev
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/project-simrev
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/model_car-scaled.jpg
+background: /assets/images/projects/Projekt_SimRev_background.jpg
 projects:
   - title: Project SimRev
-    laufzeitStart: Juni 2020
-    laufzeitEnd: Juli 2020
+    laufzeitStart: 01.06.2020
+    laufzeitEnd: 31.07.2020
     partner: Lietz GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG Innovationsscheck
 ---

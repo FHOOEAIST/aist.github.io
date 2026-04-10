@@ -16,5 +16,9 @@ Big thanks to all the attendees for the valuable feedback and the discussion dur
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/IMG_0176.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/08/IMG_0219.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/ISSTA/ECOOP_2018_Amsterdam,_Niederlande_gallery_0.jpg)
+![](/assets/images/news/ISSTA/ECOOP_2018_Amsterdam,_Niederlande_gallery_1.jpg)
+
+</div>

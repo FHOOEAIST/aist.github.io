@@ -5,7 +5,7 @@ date: 2023-03-13T12:44:55+01:00
 page_id: news:schwerer-abschied
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/03/13/schwerer-abschied
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/03/13/difficult-farewell
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/03/photo_2023-02-23_16-59-31.jpg
+title_image: /assets/images/news/Schwerer_Abschied_title.jpg
 
 ---
 

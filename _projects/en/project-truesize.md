@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Project TrueSize
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/truesize_logo-02.svg
+logo: /assets/images/projects/Projekt_TrueSize_logo.svg
 page_id: projects:projekt-truesize
 permalink: /projects/project-truesize/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-truesize
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-truesize
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/clothes-scaled.jpg
+background: /assets/images/projects/Projekt_TrueSize_background.jpg
 projects:
   - title: Project TrueSize
     laufzeitStart: 01.05.2019

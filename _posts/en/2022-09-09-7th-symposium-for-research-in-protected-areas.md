@@ -5,7 +5,7 @@ page_id: news:7te-symposium-fuer-forschung-in-geschuetzten-gebieten
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/09/09/7te-symposium-fuer-forschung-in-geschuetzten-gebieten
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/09/09/7th-symposium-for-research-in-protected-areas
 title: 7th Symposium for Research in Protected Areas
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/photo_2022-09-09_10-45-36-2.jpg
+title_image: /assets/images/news/7Symposium_für_Forschung_in_geschützten_Gebieten_title.jpg
 
 ---
 
@@ -15,7 +15,11 @@ Thank you very much for the content exchange and the many interesting presentati
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/photo_2022-09-09_10-45-36.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/photo_2022-09-09_10-45-36-2.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/photo_2022-09-09_10-45-34.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/photo_2022-09-09_10-45-35.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/7Symposium_für_Forschung_in_geschützten_Gebieten_gallery_0.jpg)
+![](/assets/images/news/7Symposium_für_Forschung_in_geschützten_Gebieten_gallery_1.jpg)
+![](/assets/images/news/7Symposium_für_Forschung_in_geschützten_Gebieten_gallery_2.jpg)
+![](/assets/images/news/7Symposium_für_Forschung_in_geschützten_Gebieten_gallery_3.jpg)
+
+</div>

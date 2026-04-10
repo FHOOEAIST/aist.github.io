@@ -5,7 +5,7 @@ page_id: news:bambi-terra-x
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/04/21/bambi-terra-x
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/04/21/bambi-terra-x-2
 title: Bambi @ Terra X
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/terrax2.jpg
+title_image: /assets/images/news/BAMBI_@_Terra_X_title.jpg
 
 ---
 
@@ -17,6 +17,10 @@ The BAMBI team would like to thank all those involved, especially David Enge and
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/terrax.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/terrax3.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/terrax2.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/BAMBI_@_Terra_X_gallery_0.jpg)
+![](/assets/images/news/BAMBI_@_Terra_X_gallery_1.jpg)
+![](/assets/images/news/BAMBI_@_Terra_X_gallery_2.jpg)
+
+</div>

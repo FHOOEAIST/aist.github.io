@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Trustworthy AI
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/10/logo-150x150.png
+logo: /assets/images/projects/Trustworthy_AI_logo.png
 page_id: projects:trustworthy-ai
 permalink: /projects/trustworthy-ai/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/trustworthy-ai
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/trustworthy-ai-2
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/lica_background.png
+background: /assets/images/projects/Trustworthy_AI_background.png
 projects:
   - title: Trustworthy AI
     laufzeitStart: 01.09.2025

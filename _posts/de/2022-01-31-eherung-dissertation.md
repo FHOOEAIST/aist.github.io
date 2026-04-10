@@ -5,7 +5,7 @@ date: 2022-01-31T10:28:04+01:00
 page_id: news:eherung-dissertation
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/01/31/eherung-dissertation
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/01/31/dissertation-honor
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2022/01/FHOOE-Wels-Jan21-Preisverleihung-052-by_B-Plank_imBILDE_at-3O3A1373.jpeg
+title_image: /assets/images/news/Ehrung_Dissertation_title.jpg
 
 ---
 
@@ -15,6 +15,10 @@ Auch wir gratulieren ganz herzlich allen Kolleg**·**innen zur abgeschlossenen D
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/01/FHOOE-Wels-Jan21-Preisverleihung-052-by_B-Plank_imBILDE_at-3O3A1373.jpeg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/01/FHOOE-Wels-Jan21-Preisverleihung-042-by_B-Plank_imBILDE_at-3O3A1327.jpeg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/01/FHOOE-Wels-Jan21-Preisverleihung-056-by_B-Plank_imBILDE_at-3O3A1398.jpeg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Ehrung_Dissertation_gallery_0.jpg)
+![](/assets/images/news/Ehrung_Dissertation_gallery_1.jpg)
+![](/assets/images/news/Ehrung_Dissertation_gallery_2.jpg)
+
+</div>

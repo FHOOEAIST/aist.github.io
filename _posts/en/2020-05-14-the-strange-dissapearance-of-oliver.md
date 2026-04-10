@@ -5,7 +5,7 @@ page_id: news:oliver-ist-verschwunden
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2020/05/14/oliver-ist-verschwunden
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2020/05/14/the-strange-dissapearance-of-oliver
 title: The strange dissapearance of Oliver
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190831_173241.jpg
+title_image: /assets/images/news/Oliver_ist_verschwunden…_title.jpg
 
 ---
 
@@ -35,20 +35,24 @@ Jason Steen and the whole of HL7 Australia did a lot to make the WGM successful\
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190817_142219.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190818_122627.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190818_172751.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190821_181140.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190817_130615.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190817_130818.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190825_102953.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190825_105449.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190825_181304.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190831_131741.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20190831_172905.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20200203_203955.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20200130_004724.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20200205_210327.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20200130_000941.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20200211_191644.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/IMG_20200219_134527.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_0.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_1.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_2.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_3.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_4.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_5.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_6.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_7.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_8.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_9.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_10.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_11.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_12.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_13.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_14.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_15.jpg)
+![](/assets/images/news/Oliver_ist_verschwunden…_gallery_16.jpg)
+
+</div>

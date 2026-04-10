@@ -5,7 +5,7 @@ date: 2016-12-01T15:02:08+01:00
 page_id: news:dexa-itbam-2016-in-porto
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/12/01/dexa-itbam-2016-in-porto
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2016/09/07/presentation-for-itbam16-in-porto
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2016/11/Postered.jpg
+title_image: /assets/images/news/DEXA_/_ITBAM_2016_in_Porto_title.jpg
 
 ---
 
@@ -15,6 +15,10 @@ Die Folien der Präsentation können [hier](http://ehealth.fh-hagenberg.at/wp-co
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/11/SurroundedByApples.jpeg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/Beautiful-Porto.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/11/Postered.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/DEXA_/_ITBAM_2016_in_Porto_gallery_0.jpg)
+![](/assets/images/news/DEXA_/_ITBAM_2016_in_Porto_gallery_1.jpg)
+![](/assets/images/news/DEXA_/_ITBAM_2016_in_Porto_gallery_2.jpg)
+
+</div>

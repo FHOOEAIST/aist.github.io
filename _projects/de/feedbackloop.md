@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Feedbackloop
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/10/catchgoal-150x150.png
+logo: /assets/images/projects/Feedbackloop_logo.png
 page_id: projects:feedbackloop
 permalink: /projects/feedbackloop/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/feedbackloop
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/feedbackloop
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/03/ki-1.jpg
+background: /assets/images/projects/Feedbackloop_background.jpg
 projects:
   - title: Feedbackloop
     laufzeitStart: 01.08.2025

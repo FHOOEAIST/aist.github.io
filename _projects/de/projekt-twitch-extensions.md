@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt Twitch Extensions
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2019/03/own3d-1-300x49.png
+logo: /assets/images/projects/Projekt_Twitch_Extensions_logo.png
 page_id: projects:projekt-twitch-extensions
 permalink: /projects/projekt-twitch-extensions/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-twitch-extensions
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-twitch-extensions
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/hypetrain-scaled.jpg
+background: /assets/images/projects/Projekt_Twitch_Extensions_background.jpg
 projects:
   - title: Projekt Twitch Extensions
     laufzeitStart: 01.03.2019

@@ -1,18 +1,18 @@
 ---
 lang: en
 title: SOC-Toolkit
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/11/soc-150x150.png
+logo: /assets/images/projects/SOC-Toolkit_logo.png
 page_id: projects:soc-toolkit
 permalink: /projects/soc-toolkit/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/soc-toolkit
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/soc-toolkit
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/11/sec.png
+background: /assets/images/projects/SOC-Toolkit_background.png
 projects:
   - title: SOC-Toolkit
-    laufzeitStart: ": 01.07.2020"
+    laufzeitStart: 01.07.2020
     laufzeitEnd: 30.06.2022
-    partner: ""
-    foerdergeber: ": Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm"
+    partner: Nextpart Security Intelligence GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
 ---
 
 ## SOC-Toolkit

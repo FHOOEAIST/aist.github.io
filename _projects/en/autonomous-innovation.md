@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Autonomous Innovation
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/02/Artboard-1-1-150x150.png
+logo: /assets/images/projects/Autonomous_Innovation_logo.png
 page_id: projects:autonomous-innovation
 permalink: /projects/autonomous-innovation/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/autonomous-innovation
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/autonomous-innovation
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2025/02/automated_innovation.jpg
+background: /assets/images/projects/Autonomous_Innovation_background.jpg
 projects:
   - title: Autonomous Innovation
     laufzeitStart: 01.01.2025

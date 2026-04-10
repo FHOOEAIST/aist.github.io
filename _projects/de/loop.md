@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Loop
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/01/logo-2-150x150.png
+logo: /assets/images/projects/Loop_logo.png
 page_id: projects:loop
 permalink: /projects/loop/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/loop
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/loop
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/09/business-163501.jpg
+background: /assets/images/projects/Loop_background.jpg
 projects:
   - title: Loop
     laufzeitStart: 01.01.2023

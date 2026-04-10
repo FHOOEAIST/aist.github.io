@@ -5,7 +5,7 @@ page_id: news:post-aist-doktorat
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/07/10/post-aist-doktorat
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/07/10/post-aist-doctorate
 title: Post-AIST Doctorate
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/20230708_162910.jpg
+title_image: /assets/images/news/Post-AIST_Doktorat_title.jpg
 
 ---
 
@@ -13,5 +13,9 @@ Our former colleague Andreas Schuler has successfully completed his doctorate at
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/Screenshot-2023-07-10-125351.png)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/20230708_162910.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Post-AIST_Doktorat_gallery_0.png)
+![](/assets/images/news/Post-AIST_Doktorat_gallery_1.jpg)
+
+</div>

@@ -1,15 +1,18 @@
 ---
 lang: en
 title: Treetop Medical
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/treetop-150x150.png
+logo: /assets/images/projects/Treetop_Medical_logo.png
 page_id: projects:treetop-medical
 permalink: /projects/treetop-medical/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/treetop-medical
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/treetop-medical
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/stethoscope-840125-scaled.jpg
+background: /assets/images/projects/Treetop_Medical_background.jpg
 projects:
   - title: Treetop Medical
-    partner: ""
+    laufzeitStart: 15.12.2022
+    laufzeitEnd: 14.12.2025
+    partner: Treetop Medical Gmbh
+    foerdergeber: FFG Basisprogramm
 ---
 
 ## Treetop Medical

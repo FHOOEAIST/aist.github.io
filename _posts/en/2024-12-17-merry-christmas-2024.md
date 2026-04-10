@@ -5,7 +5,7 @@ page_id: news:frohe-weihnachten-2024
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2024/12/17/frohe-weihnachten-2024
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2024/12/17/merry-christmas-2024
 title: Merry Christmas 2024
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2024/12/DSC05182-Enhanced-NR_.jpg
+title_image: /assets/images/news/Frohe_Weihnachten_2024_title.jpg
 
 ---
 

@@ -1,18 +1,18 @@
 ---
 lang: en
 title: Hokify
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2021/11/hokify-150x150.png
+logo: /assets/images/projects/Hokify_logo.png
 page_id: projects:hokify-2
 permalink: /projects/hokify-3/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/hokify-2
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/hokify-3
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/11/data.jpg
+background: /assets/images/projects/Hokify_background.jpg
 projects:
   - title: Hokify
     laufzeitStart: 02.08.2021
     laufzeitEnd: 30.09.2023
     partner: hokify GmbH
-    foerdergeber: ": Austrian Research Promotion Agency (FFG) – General Programme"
+    foerdergeber: Austrian Research Promotion Agency (FFG) – General Programme
 ---
 
 ## Hokify

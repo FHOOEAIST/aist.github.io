@@ -1,15 +1,18 @@
 ---
 lang: de
 title: Gemini
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/elementor/thumbs/250px-pl7q4spq2qbbbyxlzallq6necit7nqjrq6lcv4or9c.png
+logo: /assets/images/projects/Gemini_logo.png
 page_id: projects:gemini
 permalink: /projects/gemini/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/gemini
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/gemini-2
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/03/digital.jpg
+background: /assets/images/projects/Gemini_background.jpg
 projects:
   - title: Gemini
-    partner: ""
+    laufzeitStart: 01.03.2022
+    laufzeitEnd: 28.02.2024
+    partner: 506 Data & Performance GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
 ---
 
 ## Gemini

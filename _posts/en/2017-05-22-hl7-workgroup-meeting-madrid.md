@@ -5,7 +5,7 @@ page_id: news:hl7-arbeitsgruppentreffen-madrid
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/05/22/hl7-arbeitsgruppentreffen-madrid
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/05/22/hl7-workgroup-meeting-madrid
 title: HL7 Workgroup Meeting Madrid
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2017/05/IMG_3249-Austrian-Delegation-Small.jpg
+title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_Madrid_title.jpg
 
 ---
 
@@ -17,6 +17,10 @@ We are looking forward to the next Connectathon and Workgroup Meeting in San Die
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/05/C_dFGqqXcAAj9Wm.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/05/IMG_3235-small.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/05/IMG_3249-Austrian-Delegation-Small.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_Madrid_gallery_0.jpg)
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_Madrid_gallery_1.jpg)
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_Madrid_gallery_2.jpg)
+
+</div>

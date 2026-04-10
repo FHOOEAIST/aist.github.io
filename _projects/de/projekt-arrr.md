@@ -1,17 +1,18 @@
 ---
 lang: de
 title: Projekt ARRR
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/01/arrr_WithBandana-300x225.png
+logo: /assets/images/projects/Projekt_ARRR_logo.png
 page_id: projects:projekt-arrr
 permalink: /projects/projekt-arrr/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-arrr
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-arrr
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/compas-scaled.jpg
+background: /assets/images/projects/Projekt_ARRR_background.jpg
 projects:
   - title: Projekt ARRR
     laufzeitStart: 01.02.2020
-    laufzeitEnd: 31.09.2020
+    laufzeitEnd: 30.09.2020
     partner: Realsim
+    foerdergeber: easy2research
 ---
 
 ## Projekt ARRR

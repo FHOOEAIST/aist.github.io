@@ -5,7 +5,7 @@ date: 2017-09-15T14:17:03+02:00
 page_id: news:esec-fse-2017-paderborn-deutschland
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/09/15/esec-fse-2017-paderborn-deutschland
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/09/15/esec-fse-2017-paderborn-german
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2017/10/IMG_2176.jpg
+title_image: /assets/images/news/ESEC/FSE_2017_Paderborn,_Deutschland_title.jpg
 
 ---
 
@@ -15,6 +15,10 @@ Andreas Schuler präsentierte das Paper „[Application of search\-based softwar
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/10/IMG_2176.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/10/IMG_2175.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/10/IMG_2177.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/ESEC/FSE_2017_Paderborn,_Deutschland_gallery_0.jpg)
+![](/assets/images/news/ESEC/FSE_2017_Paderborn,_Deutschland_gallery_1.jpg)
+![](/assets/images/news/ESEC/FSE_2017_Paderborn,_Deutschland_gallery_2.jpg)
+
+</div>

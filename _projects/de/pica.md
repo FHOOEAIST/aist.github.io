@@ -1,15 +1,21 @@
 ---
 lang: de
 title: PICA
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/01/pica_logo2-300x136.png
+logo: /assets/images/projects/PICA_logo.png
 page_id: projects:pica
 permalink: /projects/pica/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/pica
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/pica
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/01/pica-background.jpg
+background: /assets/images/projects/PICA_background.jpg
 projects:
   - title: PICA - Process Intelligence and Conformance Auditing
-    partner: ""
+    laufzeitStart: 01.01.2022
+    laufzeitEnd: 31.12.2025
+    partner: FH OÖ Campus Steyr
+    foerdergeber: TIMed Aktivität, Programm des Landes Oö. zur Stimulierung der
+      Erschließung/Erweiterung von zukunftsweisenden Forschungsfeldern bei den
+      Oö. Außeruniversitären Forschungseinrichtungen im Zeitraum 01.01.2022 –
+      31.12.2029.
 ---
 
 ## PICA - Process Intelligence and Conformance Auditing

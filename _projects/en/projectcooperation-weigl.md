@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Projectcooperation Weigl
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/07/weigl_logo.png
+logo: /assets/images/projects/Projektkooperation_Weigl_logo.png
 page_id: projects:projektkooperation-weigl
 permalink: /projects/projectcooperation-weigl/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projektkooperation-weigl
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/projectcooperation-weigl
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/07/weigl_title.jpg
+background: /assets/images/projects/Projektkooperation_Weigl_background.jpg
 projects:
   - title: Projectcooperation Weigl
     laufzeitStart: 01.07.2020

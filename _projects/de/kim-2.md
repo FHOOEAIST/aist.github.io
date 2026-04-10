@@ -1,15 +1,18 @@
 ---
 lang: de
 title: KIM
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/03/kim-150x150.png
+logo: /assets/images/projects/KIM_logo.png
 page_id: projects:kim-2
 permalink: /projects/kim-2/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/kim-2
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/kim-3
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/03/ki-1.jpg
+background: /assets/images/projects/KIM_background.jpg
 projects:
   - title: KIM - KI in Mixed Reality
-    partner: ""
+    laufzeitStart: 01.03.2022
+    laufzeitEnd: 31.07.2022
+    partner: Realsim
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft Innovationsscheck+
 ---
 
 ## KIM - KI in Mixed Reality

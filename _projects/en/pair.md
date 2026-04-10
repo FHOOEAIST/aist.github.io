@@ -1,12 +1,12 @@
 ---
 lang: en
 title: PAIR
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2024/04/pair-150x150.png
+logo: /assets/images/projects/PAIR_logo.png
 page_id: projects:pair
 permalink: /projects/pair/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/pair
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/pair
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2024/04/pair.jpg
+background: /assets/images/projects/PAIR_background.jpg
 projects:
   - title: PAIR
     laufzeitStart: 01.04.2024

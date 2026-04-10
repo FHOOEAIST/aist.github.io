@@ -5,7 +5,7 @@ date: 2020-10-21T09:01:54+02:00
 page_id: news:digitale-lange-nacht-der-forschung-2020
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2020/10/21/digitale-lange-nacht-der-forschung-2020
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2020/10/21/digital-long-night-of-research-2020
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2021/09/AIST_logo_blue.png
+title_image: /assets/images/news/Digitale_Lange_Nacht_der_Forschung_2020_title.png
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 lang: en
 title: Project AKFA
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2019/10/akfa_2-150x150.png
+logo: /assets/images/projects/Projekt_AKFA_logo.png
 page_id: projects:projekt-akfa
 permalink: /projects/project-akfa/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-akfa
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-akfa
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/parked-trucks-under-clouds-2348359-scaled.jpg
+background: /assets/images/projects/Projekt_AKFA_background.jpg
 projects:
   - title: Project AKFA
     laufzeitStart: 01.11.2019
-    laufzeitEnd: 31.11.2021
-    partner: STEINBAUER Performance Austria GmbH
+    laufzeitEnd: 30.11.2021
+    partner: STEINBAUER Performance Austria GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
 ---
 

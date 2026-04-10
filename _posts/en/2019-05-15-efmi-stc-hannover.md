@@ -14,6 +14,10 @@ The conference took place in the historic building Leibnizhaus\.
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/05/hannover1.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/05/presenting2.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/05/hannover2.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/EFMI_STC_Hannover_gallery_0.jpg)
+![](/assets/images/news/EFMI_STC_Hannover_gallery_1.jpg)
+![](/assets/images/news/EFMI_STC_Hannover_gallery_2.jpg)
+
+</div>

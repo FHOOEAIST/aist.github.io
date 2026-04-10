@@ -1,15 +1,18 @@
 ---
 lang: en
 title: Saturn
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2021/09/250px.png
+logo: /assets/images/projects/Saturn_logo.png
 page_id: projects:saturn
 permalink: /projects/saturn/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/saturn
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/saturn
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/09/saturn-1024x332-1.jpg
+background: /assets/images/projects/Saturn_background.jpg
 projects:
   - title: Saturn
-    partner: ""
+    laufzeitStart: 01.07.2021
+    laufzeitEnd: 28.02.2022
+    partner: 506 Data & Performance GmbH
+    foerdergeber: Austria Wirtschaftsservice (AWS)
 ---
 
 ## Saturn

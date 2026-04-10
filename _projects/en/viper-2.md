@@ -1,16 +1,16 @@
 ---
 lang: en
 title: Vipa
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/10/viper_500px-150x150.png
+logo: /assets/images/projects/Vipa_logo.png
 page_id: projects:viper
 permalink: /projects/viper-2/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/viper
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/viper-2
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/11/data.jpg
+background: /assets/images/projects/Vipa_background.jpg
 projects:
   - title: Vipa
     laufzeitStart: 01.10.2025
-    laufzeitEnd: 31.09.2026
+    laufzeitEnd: 30.09.2026
     partner: Intelligent Automation GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Kleinprojekt
 ---

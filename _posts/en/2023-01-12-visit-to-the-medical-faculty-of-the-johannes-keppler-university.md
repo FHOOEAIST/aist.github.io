@@ -5,7 +5,7 @@ page_id: news:besuch-der-medizinischen-fakultaet-der-johannes-keppler-universita
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/01/12/besuch-der-medizinischen-fakultaet-der-johannes-keppler-universitaet
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/01/12/visit-to-the-medical-faculty-of-the-johannes-keppler-university
 title: Visit of the Medical Faculty of the Johannes Kepler University
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/01/photo_2023-01-12_14-51-03.jpg
+title_image: /assets/images/news/Besuch_der_Medizinischen_Fakultät_der_Johannes_Kepler_Universität_title.jpg
 
 ---
 
@@ -13,4 +13,8 @@ Today we had a visit from the Medical Faculty of the Johannes Kepler University 
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/01/photo_2023-01-12_14-51-03.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Besuch_der_Medizinischen_Fakultät_der_Johannes_Kepler_Universität_gallery_0.jpg)
+
+</div>

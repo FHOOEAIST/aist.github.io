@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt MSBPMN
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/01/logo-300x226.png
+logo: /assets/images/projects/Projekt_MSBPMN_logo.png
 page_id: projects:projekt-msbpmn
 permalink: /projects/projekt-msbpmn/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-msbpmn
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-msbpmn
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/stethoscope-840125-scaled.jpg
+background: /assets/images/projects/Projekt_MSBPMN_background.jpg
 projects:
   - title: Projekt MSBPMN
     laufzeitStart: 01.01.2020

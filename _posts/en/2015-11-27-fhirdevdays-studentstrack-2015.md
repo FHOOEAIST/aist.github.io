@@ -5,7 +5,7 @@ page_id: news:fhirdevdays-studentstrack
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2015/11/27/fhirdevdays-studentstrack
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2015/11/27/fhirdevdays-studentstrack-2015
 title: FHIRDevDays & StudentsTrack 2015
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/FHIRDDay2015.png
+title_image: /assets/images/news/FHIRDevDays_&_StudentsTrack_2015_title.png
 
 ---
 
@@ -19,7 +19,11 @@ We are already looking forward to the DevDays 2016 and suggest you [show up](htt
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/StudentsTrack.png)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/AMC.png)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/AMC_Outside.png)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2016/09/FHIRDDay2015.png)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/FHIRDevDays_&_StudentsTrack_2015_gallery_0.png)
+![](/assets/images/news/FHIRDevDays_&_StudentsTrack_2015_gallery_1.png)
+![](/assets/images/news/FHIRDevDays_&_StudentsTrack_2015_gallery_2.png)
+![](/assets/images/news/FHIRDevDays_&_StudentsTrack_2015_gallery_3.png)
+
+</div>

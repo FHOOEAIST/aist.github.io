@@ -1,15 +1,15 @@
 ---
 lang: en
 title: Projectcooperation 506 Data & Performance
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/07/506_ai.png
+logo: /assets/images/projects/Projektkooperation_506_Data_&_Performance_logo.png
 page_id: projects:projektkooperation-506-data-performance
 permalink: /projects/projectcooperation-506-data-performance/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projektkooperation-506-data-performance
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/projectcooperation-506-data-performance
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/07/506_title.jpg
+background: /assets/images/projects/Projektkooperation_506_Data_&_Performance_background.jpg
 projects:
   - title: Projectcooperation 506 Data & Performance
-    laufzeitStart: 1.7.2020
+    laufzeitStart: 01.07.2020
     laufzeitEnd: 31.12.2020
     partner: 506 Data & Performance GmbH
     foerdergeber: Easy2Research

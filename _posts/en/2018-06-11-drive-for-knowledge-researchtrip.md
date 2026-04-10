@@ -5,7 +5,7 @@ page_id: news:drive-for-knowledge-forschungsausflug
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/06/11/drive-for-knowledge-forschungsausflug
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/06/11/drive-for-knowledge-researchtrip
 title: Drive for Knowledge researchtrip
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/Ausflug-Schwechat.jpg
+title_image: /assets/images/news/Drive_for_Knowledge_Forschungsausflug_title.jpg
 
 ---
 
@@ -17,6 +17,10 @@ Thanks Thomas for the wonderful trip\.
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/Ausflug-Schwechat.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/IMG_5876.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/IMG_5951.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Drive_for_Knowledge_Forschungsausflug_gallery_0.jpg)
+![](/assets/images/news/Drive_for_Knowledge_Forschungsausflug_gallery_1.jpg)
+![](/assets/images/news/Drive_for_Knowledge_Forschungsausflug_gallery_2.jpg)
+
+</div>

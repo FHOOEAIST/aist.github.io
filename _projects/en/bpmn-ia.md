@@ -1,12 +1,12 @@
 ---
 lang: en
 title: BPMN.IA
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/bpmnia-1-150x150.png
+logo: /assets/images/projects/BPMNIA_logo.png
 page_id: projects:bpmn-ia
 permalink: /projects/bpmn-ia/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/bpmn-ia
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/bpmn-ia
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/02/neurons.jpg
+background: /assets/images/projects/BPMNIA_background.jpg
 projects:
   - title: BPMN.IA
     laufzeitStart: 01.04.2023

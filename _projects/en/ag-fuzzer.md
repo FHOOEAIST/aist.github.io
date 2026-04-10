@@ -1,12 +1,12 @@
 ---
 lang: en
 title: AG-Fuzzer
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/01/logo-150x150.png
+logo: /assets/images/projects/AG-Fuzzer_logo.png
 page_id: projects:ag-fuzzer
 permalink: /projects/ag-fuzzer/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/ag-fuzzer
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/ag-fuzzer
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/07/code.jpg
+background: /assets/images/projects/AG-Fuzzer_background.jpg
 projects:
   - title: AG-Fuzzer
     laufzeitStart: 01.01.2023

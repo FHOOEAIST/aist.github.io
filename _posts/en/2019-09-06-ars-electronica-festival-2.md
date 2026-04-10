@@ -5,7 +5,7 @@ page_id: news:ars-electronica-festival
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2019/09/06/ars-electronica-festival
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2019/09/06/ars-electronica-festival-2
 title: ARS Electronica Festival
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2019/09/20190906_101805.jpg
+title_image: /assets/images/news/ARS_Electronica_Festival_title.jpg
 
 ---
 
@@ -17,10 +17,14 @@ Thank you very much Anna for the invitation\.
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/09/20190906_101805.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/09/20190906_114714_HDR.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/09/photo_2019-09-11_08-15-22.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/09/photo_2019-09-11_08-15-28.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/09/photo_2019-09-11_08-15-31.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/09/photo_2019-09-11_08-15-34.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2019/09/photo_2019-09-11_08-15-37.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/ARS_Electronica_Festival_gallery_0.jpg)
+![](/assets/images/news/ARS_Electronica_Festival_gallery_1.jpg)
+![](/assets/images/news/ARS_Electronica_Festival_gallery_2.jpg)
+![](/assets/images/news/ARS_Electronica_Festival_gallery_3.jpg)
+![](/assets/images/news/ARS_Electronica_Festival_gallery_4.jpg)
+![](/assets/images/news/ARS_Electronica_Festival_gallery_5.jpg)
+![](/assets/images/news/ARS_Electronica_Festival_gallery_6.jpg)
+
+</div>

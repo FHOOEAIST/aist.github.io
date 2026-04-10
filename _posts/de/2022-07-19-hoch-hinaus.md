@@ -5,7 +5,7 @@ date: 2022-07-19T07:46:30+02:00
 page_id: news:hoch-hinaus
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/07/19/hoch-hinaus
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/07/19/aim-high
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2022/07/pic.jpg
+title_image: /assets/images/news/Hoch_hinaus_title.jpg
 
 ---
 
@@ -13,5 +13,9 @@ Nicht nur beruflich, sondern auch im privaten Umfeld, abseits der wissenschaftli
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/07/pic.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/07/photo_2022-07-17_21-03-48.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Hoch_hinaus_gallery_0.jpg)
+![](/assets/images/news/Hoch_hinaus_gallery_1.jpg)
+
+</div>

@@ -5,7 +5,7 @@ date: 2024-09-07T11:05:15+02:00
 page_id: news:4th-international-workshop-on-camera-traps-ai-and-ecology
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2024/09/07/4th-international-workshop-on-camera-traps-ai-and-ecology
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2024/09/07/4th-international-workshop-on-camera-traps-ai-and-ecology-2
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/DSC04110.jpg
+title_image: /assets/images/news/4th_International_Workshop_on_Camera_Traps,_AI,_and_Ecology_title.jpg
 
 ---
 

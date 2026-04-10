@@ -5,7 +5,7 @@ page_id: news:3-preise-2-preistraeger
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/12/16/3-preise-2-preistraeger
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/12/16/3-prizes-2-winners
 title: 3 prizes, 2 winners
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2022/12/photo_2022-12-16_07-21-53.jpg
+title_image: /assets/images/news/3_Preise,_2_Preisträger_title.jpg
 
 ---
 
@@ -13,6 +13,10 @@ At this year’s Christmas party of the entire Upper Austria University of Appli
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/12/photo_2022-12-14_19-41-16.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/12/photo_2022-12-14_19-19-10.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2022/12/photo_2022-12-16_07-21-53.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/3_Preise,_2_Preisträger_gallery_0.jpg)
+![](/assets/images/news/3_Preise,_2_Preisträger_gallery_1.jpg)
+![](/assets/images/news/3_Preise,_2_Preisträger_gallery_2.jpg)
+
+</div>

@@ -5,7 +5,7 @@ page_id: news:hl7-jahrestagung-2017
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/03/30/hl7-jahrestagung-2017
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/03/30/hl7-austria-annual-conference-2017
 title: HL7 Austria Annual Conference 2017
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2017/06/hl7_jahrestagung_2017.jpg
+title_image: /assets/images/news/HL7_Jahrestagung_2017_title.jpg
 
 ---
 
@@ -19,5 +19,9 @@ They are licensed by Creative Commons and could be reused, if you like to\. We a
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/06/hl7_jahrestagung_2017_franz.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/06/hl7_jahrestagung_2017.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/HL7_Jahrestagung_2017_gallery_0.jpg)
+![](/assets/images/news/HL7_Jahrestagung_2017_gallery_1.jpg)
+
+</div>

@@ -1,16 +1,16 @@
 ---
 lang: en
 title: "Project: Predictive Innovation"
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/elementor/thumbs/mogree-logo-small-e1607937778673-ozuj5d57o8jphpr6i2xd067womge02nnbikvz9qd3k.png
+logo: /assets/images/projects/Projekt_Predictive_Innovation_logo.png
 page_id: projects:projekt-predictive-innovation
 permalink: /projects/project-predictive-innovation/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-predictive-innovation
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-predictive-innovation
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/12/idea.jpg
+background: /assets/images/projects/Projekt_Predictive_Innovation_background.jpg
 projects:
   - title: "Project: Predictive Innovation"
-    laufzeitStart: "10.2020"
-    laufzeitEnd: "11.2021"
+    laufzeitStart: 01.10.2020
+    laufzeitEnd: 30.11.2021
     partner: mobile agreements GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
 ---

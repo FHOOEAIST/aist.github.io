@@ -1,18 +1,17 @@
 ---
 lang: de
 title: Thumper
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/elementor/thumbs/thumper-qvlghwgpoac9w1x6lhzm503w60ddnnslt4euk9o3cw.png
+logo: /assets/images/projects/Thumper_logo.png
 page_id: projects:thumper
 permalink: /projects/thumper/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/thumper
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/thumper-2
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/deer.jpg
+background: /assets/images/projects/Thumper_background.jpg
 projects:
   - title: Thumper
     laufzeitStart: 01.10.2024
-    laufzeitEnd: 31.09.2026
-    dissertant: Österreichische Forschungsförderungsgesellschaft FFG –
-      Dissertationsprogramm der Fachhochschule OÖ
+    laufzeitEnd: 30.09.2026
+    dissertant: Christoph Praschl
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG –
       Dissertationsprogramm der Fachhochschule OÖ
 ---

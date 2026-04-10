@@ -5,7 +5,7 @@ page_id: news:frohe-weihnachten-2025
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/12/05/frohe-weihnachten-2025
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/12/05/merry-christmas-2026
 title: Merry Christmas 2026
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2025/12/DSC00447-Copy.jpg
+title_image: /assets/images/news/Frohe_Weihnachten_2025_title.jpg
 
 ---
 

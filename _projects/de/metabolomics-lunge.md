@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Metabolomics Lunge
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/metabolomics-150x150.png
+logo: /assets/images/projects/Metabolomics_Lunge_logo.png
 page_id: projects:metabolomics-lunge
 permalink: /projects/metabolomics-lunge/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/metabolomics-lunge
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/metabolomics-lunge
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2023/07/lunge.jpg
+background: /assets/images/projects/Metabolomics_Lunge_background.jpg
 projects:
   - title: Metabolomics Lunge
     laufzeitStart: 01.04.2022

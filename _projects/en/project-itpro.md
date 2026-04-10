@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Project ITPRO
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/ecart-300x123.png
+logo: /assets/images/projects/Projekt_ITPRO_logo.png
 page_id: projects:projekt-itpro
 permalink: /projects/project-itpro/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-itpro
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-itpro
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/laundry-saloon-567951-scaled.jpg
+background: /assets/images/projects/Projekt_ITPRO_background.jpg
 projects:
   - title: Project ITPRO
     laufzeitStart: 01.12.2016

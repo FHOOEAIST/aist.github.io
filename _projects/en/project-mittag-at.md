@@ -1,21 +1,23 @@
 ---
 lang: en
 title: Project mittag.at
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/mittag-300x300.png
+logo: /assets/images/projects/Projekt_Mittagat_logo.png
 page_id: projects:projekt-mittag-at
 permalink: /projects/project-mittag-at/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-mittag-at
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-mittag-at
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/pizza.pg_-scaled.jpg
+background: /assets/images/projects/Projekt_Mittagat_background.jpg
 projects:
   - title: Smart Menus
     laufzeitStart: 01.04.2018
     laufzeitEnd: 31.08.2018
     partner: mittag.at
+    foerdergeber: Easy2Research
   - title: Menu Analysis
     laufzeitStart: 01.09.2018
     laufzeitEnd: 31.01.2019
     partner: mittag.at
+    foerdergeber: Österreichische Fördergesellschaft (FFG) – Innovationscheck
 ---
 
 ## Smart Menus

@@ -1,12 +1,12 @@
 ---
 lang: de
 title: text-it
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2024/05/Artboard-1-150x150.png
+logo: /assets/images/projects/text-it_logo.png
 page_id: projects:text-it
 permalink: /projects/text-it/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/text-it
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/text-it
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2024/05/textit.jpg
+background: /assets/images/projects/text-it_background.jpg
 projects:
   - title: text-it
     laufzeitStart: 01.04.2024

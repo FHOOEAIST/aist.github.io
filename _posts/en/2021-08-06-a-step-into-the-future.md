@@ -5,7 +5,7 @@ page_id: news:ein-schritt-in-die-zukunft
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2021/08/06/ein-schritt-in-die-zukunft
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2021/08/06/a-step-into-the-future
 title: A step into the future
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2021/08/abschiedsfoto.jpg
+title_image: /assets/images/news/Ein_Schritt_in_die_Zukunft_title.jpg
 
 ---
 

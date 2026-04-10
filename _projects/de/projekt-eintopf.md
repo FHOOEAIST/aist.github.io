@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt EINTOPF
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/eintopf.png
+logo: /assets/images/projects/Projekt_EINTOPF_logo.png
 page_id: projects:projekt-eintopf
 permalink: /projects/projekt-eintopf/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-eintopf
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-eintopf
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/networks-scaled.jpg
+background: /assets/images/projects/Projekt_EINTOPF_background.jpg
 projects:
   - title: Projekt EINTOPF
     laufzeitStart: 01.12.2017

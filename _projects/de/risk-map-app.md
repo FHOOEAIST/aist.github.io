@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Risk Map App
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2023/11/ebuddies-150x150.png
+logo: /assets/images/projects/Risk_Map_App_logo.png
 page_id: projects:risk-map-app
 permalink: /projects/risk-map-app/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/risk-map-app
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/risk-map-app
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2023/11/risk.jpg
+background: /assets/images/projects/Risk_Map_App_background.jpg
 projects:
   - title: Risk Map App
     laufzeitStart: 15.10.2023

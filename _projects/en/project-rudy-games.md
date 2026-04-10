@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Project Rudy Games
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/elementor/thumbs/i2f-oq7yyj9ozqb51dspodcc58zwtmbjjzayet1vd1up6o.png
+logo: /assets/images/projects/Projekt_Rudy_Games_logo.png
 page_id: projects:projekt-rudy-games
 permalink: /projects/project-rudy-games/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-rudy-games
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-rudy-games
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/boardgame-scaled.jpg
+background: /assets/images/projects/Projekt_Rudy_Games_background.jpg
 projects:
   - title: i2f – Interface2Face Mixreality Game
     laufzeitStart: 01.11.2017

@@ -1,16 +1,16 @@
 ---
 lang: en
 title: Project ORG-Manager
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2021/01/orgmanager-150x150.png
+logo: /assets/images/projects/Projekt_ORG-Manager_logo.png
 page_id: projects:projekt-org-manager
 permalink: /projects/project-org-manager/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-org-manager
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-org-manager
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/01/organization.jpg
+background: /assets/images/projects/Projekt_ORG-Manager_background.jpg
 projects:
   - title: Project ORG-Manager
-    laufzeitStart: "12.2020"
-    laufzeitEnd: "05.2022"
+    laufzeitStart: 01.12.2020
+    laufzeitEnd: 31.05.2022
     partner: LMNOP
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogram
 ---

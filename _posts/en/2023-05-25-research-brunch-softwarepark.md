@@ -5,7 +5,7 @@ page_id: news:forschungsbrunch-softwarepark
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/05/25/forschungsbrunch-softwarepark
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/05/25/research-brunch-softwarepark
 title: Research Brunch @ Softwarepark
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/05/IMG_20230524_100644.jpg
+title_image: /assets/images/news/Forschungsbrunch_@_Softwarepark_title.jpg
 
 ---
 
@@ -17,5 +17,9 @@ Photos © Softwarepark Hagenberg
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/05/IMG_20230524_100644.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/05/photo_2023-05-24_14-13-07.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Forschungsbrunch_@_Softwarepark_gallery_0.jpg)
+![](/assets/images/news/Forschungsbrunch_@_Softwarepark_gallery_1.jpg)
+
+</div>

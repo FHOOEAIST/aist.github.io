@@ -5,7 +5,7 @@ date: 2020-01-09T12:58:17+01:00
 page_id: news:besuch-bei-redbull-in-elsbethen
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2020/01/09/besuch-bei-redbull-in-elsbethen
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2020/01/09/visit-to-redbull-in-elsbethen
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2020/01/redbull_200109.jpg
+title_image: /assets/images/news/Besuch_bei_RedBull_in_Elsbethen_title.jpg
 
 ---
 
@@ -15,4 +15,8 @@ Vielen Dank für die Einladung an RedBull insbesondere an Markus Buchmann, Chris
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2020/01/redbull_200109.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Besuch_bei_RedBull_in_Elsbethen_gallery_0.jpg)
+
+</div>

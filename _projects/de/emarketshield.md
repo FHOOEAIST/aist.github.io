@@ -1,16 +1,16 @@
 ---
 lang: de
 title: eMarketShield
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/01/Artboard-1.png
+logo: /assets/images/projects/eMarketShield_logo.png
 page_id: projects:emarketshield
 permalink: /projects/emarketshield/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/emarketshield
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/emarketshield
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2025/01/market.jpg
+background: /assets/images/projects/eMarketShield_background.jpg
 projects:
   - title: eMarketShield
-    laufzeitStart: 01. 10.2024
-    laufzeitEnd: 31.09.2026
+    laufzeitStart: 01.10.2024
+    laufzeitEnd: 30.09.2026
     partner: Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH,
       Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz
       (BMSGPK), Österreichisches Institut für angewandte Telekommunikation

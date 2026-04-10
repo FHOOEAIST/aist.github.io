@@ -12,6 +12,10 @@ Von 8\.\-9\. Mai nahmen [Emmanuel Helm](https://aist.fh-hagenberg.at/index.php/d
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/emmanuel_5.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/ehealth_1.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/emmanuel_1.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/eHealth_2018_Vienna_gallery_0.jpg)
+![](/assets/images/news/eHealth_2018_Vienna_gallery_1.jpg)
+![](/assets/images/news/eHealth_2018_Vienna_gallery_2.jpg)
+
+</div>

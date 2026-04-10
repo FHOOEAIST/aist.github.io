@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt EDEN
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/elementor/thumbs/EDEN-npl6bs0yfyu4ohldpo3dl45feoqdwehp5vorsh3rpc.png
+logo: /assets/images/projects/Projekt_EDEN_logo.png
 page_id: projects:projekt-eden
 permalink: /projects/projekt-eden/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekt-eden
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-eden
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/elevator-1-scaled.jpg
+background: /assets/images/projects/Projekt_EDEN_background.jpg
 projects:
   - title: EDEN – Emergency Detection for Elevator Networks
     laufzeitStart: 01.04.2018

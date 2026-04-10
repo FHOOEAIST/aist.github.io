@@ -5,7 +5,7 @@ page_id: news:hl7-austria-jahrestagung-2015
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2015/04/03/hl7-austria-jahrestagung-2015
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2015/04/03/hl7-austria-annual-conference-2015
 title: HL7 Austria Annual Conference 2015
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2015/04/hl7_jahrestagung_2015.png
+title_image: /assets/images/news/HL7_Austria_Jahrestagung_2015_title.png
 
 ---
 

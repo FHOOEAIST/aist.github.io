@@ -5,7 +5,7 @@ date: 2017-12-19T14:11:19+01:00
 page_id: news:fhir-devdays-studentstrack-2017-3
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/12/19/fhir-devdays-studentstrack-2017-3
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/12/19/fhir-devdays-studentstrack-2017
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2017/12/IMG_20171117_141157.jpg
+title_image: /assets/images/news/FHIR_DevDays_&_StudentsTrack_2017_title.jpg
 
 ---
 
@@ -17,6 +17,10 @@ Wir freuen uns auf die Teilnahme an den [FHIR DevDays 2018](http://www.fhirdevda
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/12/IMG_20171116_144240.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/12/IMG_20171117_141157.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/12/IMG_20171116_160446.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/FHIR_DevDays_&_StudentsTrack_2017_gallery_0.jpg)
+![](/assets/images/news/FHIR_DevDays_&_StudentsTrack_2017_gallery_1.jpg)
+![](/assets/images/news/FHIR_DevDays_&_StudentsTrack_2017_gallery_2.jpg)
+
+</div>

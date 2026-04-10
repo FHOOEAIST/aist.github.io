@@ -1,15 +1,18 @@
 ---
 lang: en
 title: Project RCPM
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/09/rcpm.png
+logo: /assets/images/projects/Projekt_RCPM_logo.png
 page_id: projects:projekt-rcpm
 permalink: /projects/project-rcpm/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-rcpm
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-rcpm
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/09/business-163501.jpg
+background: /assets/images/projects/Projekt_RCPM_background.jpg
 projects:
   - title: RCPM - Realtime Corporate Performance Management
-    partner: ""
+    laufzeitStart: 01.07.2020
+    laufzeitEnd: 31.12.2021
+    partner: Calpana business consulting GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
 ---
 
 ## RCPM - Realtime Corporate Performance Management

@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Project Cooperation Formelracing
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/d4k-300x76.png
+logo: /assets/images/projects/Projektkooperation_Formelracing_logo.png
 page_id: projects:projekt-formelracing
 permalink: /projects/project-formelracing/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-formelracing
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-formelracing
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/interstate-scaled.jpg
+background: /assets/images/projects/Projektkooperation_Formelracing_background.jpg
 projects:
   - title: Drive for Knowledge
     partner: Formelracing

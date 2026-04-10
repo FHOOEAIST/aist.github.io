@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Real-ID
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/logo-150x150.png
+logo: /assets/images/projects/Real-ID_logo.png
 page_id: projects:real-id
 permalink: /projects/real-id/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/real-id
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/real-id-3
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2024/07/redem.jpg
+background: /assets/images/projects/Real-ID_background.jpg
 projects:
   - title: Real-ID
     laufzeitStart: 01.05.2025

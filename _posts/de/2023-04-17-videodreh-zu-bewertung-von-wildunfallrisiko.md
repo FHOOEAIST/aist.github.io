@@ -5,7 +5,7 @@ date: 2023-04-17T12:10:03+02:00
 page_id: news:videodreh-zu-bewertung-von-wildunfallrisiko
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/04/17/videodreh-zu-bewertung-von-wildunfallrisiko
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/04/17/video-shooting-for-methods-for-assessing-wildlife-accident-risk-on-roads
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/photo_2023-04-24_12-10-45.jpg
+title_image: /assets/images/news/Videodreh_zu_Bewertung_von_Wildunfallrisiko_title.jpg
 
 ---
 
@@ -13,5 +13,9 @@ Christoph Praschl hatte heute zusammen mit den Kollegen vom Media Interaction La
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/photo_2023-04-24_12-10-45.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/04/photo_2023-04-24_12-10-44.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Videodreh_zu_Bewertung_von_Wildunfallrisiko_gallery_0.jpg)
+![](/assets/images/news/Videodreh_zu_Bewertung_von_Wildunfallrisiko_gallery_1.jpg)
+
+</div>

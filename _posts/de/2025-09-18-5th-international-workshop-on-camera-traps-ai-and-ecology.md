@@ -5,7 +5,7 @@ date: 2025-09-18T09:36:32+02:00
 page_id: news:5th-international-workshop-on-camera-traps-ai-and-ecology
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/09/18/5th-international-workshop-on-camera-traps-ai-and-ecology
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/09/18/5th-international-workshop-on-camera-traps-ai-and-ecology-2
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2025/09/DSC04932-2-Copy.jpg
+title_image: /assets/images/news/5th_International_Workshop_on_Camera_Traps,_AI,_and_Ecology_title.jpg
 
 ---
 

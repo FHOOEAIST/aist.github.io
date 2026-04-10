@@ -1,15 +1,18 @@
 ---
 lang: de
 title: ATG-Miner
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2021/07/logo.png
+logo: /assets/images/projects/ATG-Miner_logo.png
 page_id: projects:atg-miner
 permalink: /projects/atg-miner/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/atg-miner
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/atg-miner
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/07/code.jpg
+background: /assets/images/projects/ATG-Miner_background.jpg
 projects:
   - title: Attributierte Grammatik - Miner
+    laufzeitStart: 01.07.2021
+    laufzeitEnd: 30.06.2022
     partner: ""
+    foerdergeber: FH Basisfördermittelfinaziertes Projekt
 ---
 
 ## Attributierte Grammatik - Miner

@@ -5,7 +5,7 @@ page_id: news:dem-wetter-trotzend
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/05/21/dem-wetter-trotzend
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/05/21/defying-the-weather
 title: Defying the weather
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/DSC08696.jpg
+title_image: /assets/images/news/Dem_Wetter_trotzend_title.jpg
 
 ---
 
@@ -19,12 +19,16 @@ At the end of the day, we were soaked through, but all the more proud of ourselv
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/DSC08643.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1700.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_3188.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_3182.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1747.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1722.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1709.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/IMG_1717.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2025/05/DSC08673.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_0.jpg)
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_1.jpg)
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_2.jpg)
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_3.jpg)
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_4.jpg)
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_5.jpg)
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_6.jpg)
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_7.jpg)
+![](/assets/images/news/Dem_Wetter_trotzend_gallery_8.jpg)
+
+</div>

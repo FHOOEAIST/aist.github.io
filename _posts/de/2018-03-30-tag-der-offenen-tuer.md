@@ -5,7 +5,7 @@ date: 2018-03-30T09:46:33+02:00
 page_id: news:tag-der-offenen-tuer
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/03/30/tag-der-offenen-tuer
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/03/30/open-house-2018
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2021/09/simulation.png
+title_image: /assets/images/news/Tag_der_offenen_Tür_2018_title.png
 
 ---
 

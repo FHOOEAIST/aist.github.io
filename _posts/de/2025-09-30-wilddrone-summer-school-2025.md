@@ -5,7 +5,7 @@ date: 2025-09-30T13:56:59+02:00
 page_id: news:wilddrone-summer-school-2025
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/09/30/wilddrone-summer-school-2025
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/09/30/wilddrone-summer-school-2025-2
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2025/09/IMG_4036.jpg
+title_image: /assets/images/news/WildDrone_Summer_School_2025_title.jpg
 
 ---
 

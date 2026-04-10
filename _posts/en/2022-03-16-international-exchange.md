@@ -5,7 +5,7 @@ page_id: news:internationaler-wechsel
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/03/16/internationaler-wechsel
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/03/16/international-exchange
 title: International Exchange
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2022/03/DSC00001_edit_small.jpg
+title_image: /assets/images/news/Internationaler_Wechsel_title.jpg
 
 ---
 

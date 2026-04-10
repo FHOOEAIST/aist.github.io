@@ -1,17 +1,20 @@
 ---
 lang: de
 title: Replient
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2024/03/replient-150x150.png
+logo: /assets/images/projects/Replient_logo.png
 page_id: projects:replient
 permalink: /projects/replient/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/replient
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/replient
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2024/03/replient.jpg
+background: /assets/images/projects/Replient_background.jpg
 projects:
   - title: Replient
     laufzeitStart: 01.03.2024
     laufzeitEnd: 31.08.2024
     partner: Doppel N Marketing GmbH
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG –
+      Innovationsscheck (Fokus Sentimentanalyse)easy2research (Fokus Prompt
+      Engineering)
 ---
 
 ## Replient

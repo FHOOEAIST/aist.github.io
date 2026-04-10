@@ -1,12 +1,12 @@
 ---
 lang: de
 title: KfV – Bewertung von Wildunfallrisiko
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/11/logo-150x150.png
+logo: /assets/images/projects/KfV_–_Bewertung_von_Wildunfallrisiko_logo.png
 page_id: projects:kfv
 permalink: /projects/kfv/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/kfv
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/kfv
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/11/kfv_bg.jpg
+background: /assets/images/projects/KfV_–_Bewertung_von_Wildunfallrisiko_background.jpg
 projects:
   - title: KfV – Bewertung von Wildunfallrisiko
     laufzeitStart: 01.09.2022

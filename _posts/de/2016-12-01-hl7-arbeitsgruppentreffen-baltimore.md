@@ -5,7 +5,7 @@ date: 2016-12-01T15:01:16+01:00
 page_id: news:hl7-arbeitsgruppentreffen-baltimore
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/12/01/hl7-arbeitsgruppentreffen-baltimore
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2016/10/02/hl7-work-group-meeting-baltimore
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2016/10/2016-9-21-66689B-X2.jpg
+title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_Baltimore_title.jpg
 
 ---
 
@@ -17,6 +17,6 @@ Besonders B, C und D verwenden Request Resouces als Hilfsmittel um ihr Ziel zu e
 
 Karl hatte die Möglichkeit das KIMBO Projekt am Sonntag bei der AID Versammlung zu presentieren\. \(siehe Bild\)
 
-![AID Versamlung Baltimore](http://ehealth.fh-hagenberg.at/wp-content/uploads/2016/10/IMG_20160918_153352-300x225.jpg)\.
+![AID Versamlung Baltimore](/assets/images/markdown/IMG_20160918_153352.jpg)\.
 
 Viele neue spannende Dinge passieren gerade in FHIR\. Zum Beispiel wird FluentPath wieder auf FHIRPath umbenannt, FHIR STU3 wird bald offiziell und Referenzieren mit Identifiern ist ein [heißes Thema](http://www.healthintersections.com.au/?p=2575)  zurzeit\. Wir freuen uns jetzt schon auf die nächste Runde an den  [FHIR DevDays](http://www.fhirdevdays.com/) in Amsterdam

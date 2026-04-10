@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Learning while asleep
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/lis-150x150.png
+logo: /assets/images/projects/Lernen_im_Schlaf_logo.png
 page_id: projects:lernen-im-schlaf
 permalink: /projects/learning-while-asleep/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/lernen-im-schlaf
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/learning-while-asleep
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/lis_background.png
+background: /assets/images/projects/Lernen_im_Schlaf_background.png
 projects:
   - title: Learning while asleep
     laufzeitStart: 01.09.2022

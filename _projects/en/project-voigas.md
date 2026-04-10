@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Project Voigas
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/voigas-1-300x191.png
+logo: /assets/images/projects/Projekt_Voigas_logo.png
 page_id: projects:projekt-voigas
 permalink: /projects/project-voigas/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-voigas
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-voigas
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/gastronomie-scaled.jpg
+background: /assets/images/projects/Projekt_Voigas_background.jpg
 projects:
   - title: Project Voigas
     laufzeitStart: 01.01.2019

@@ -1,19 +1,18 @@
 ---
 lang: en
 title: Project CP+
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/cp_logo-300x272.png
+logo: /assets/images/projects/Projekt_CP+_logo.png
 page_id: projects:projekt-cp
 permalink: /projects/project-cp/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-cp
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-cp
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/buttons-scaled.jpg
+background: /assets/images/projects/Projekt_CP+_background.jpg
 projects:
   - title: Project CP+
-    laufzeitStart: ": 05.3.2018"
-    laufzeitEnd: 30.6.2018
-    partner: ""
-    foerdergeber: ": Österreichische Forschungsförderungsgesellschaft FFG –
-      Innovationsscheck"
+    laufzeitStart: 05.03.2018
+    laufzeitEnd: 30.06.2018
+    partner: Christian Bauernfeind IT-Beratung & Realisierung
+    foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
 ---
 
 ## Project CP+

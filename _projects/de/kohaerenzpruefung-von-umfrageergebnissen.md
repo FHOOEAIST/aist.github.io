@@ -1,16 +1,16 @@
 ---
 lang: de
 title: Kohärenzprüfung von Umfragen
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2024/07/Artboard-1-150x150.png
+logo: /assets/images/projects/Kohärenzprüfung_von_Umfragen_logo.png
 page_id: projects:kohaerenzpruefung-von-umfrageergebnissen
 permalink: /projects/kohaerenzpruefung-von-umfrageergebnissen/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/kohaerenzpruefung-von-umfrageergebnissen
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/survey-coherence-check
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2024/07/redem.jpg
+background: /assets/images/projects/Kohärenzprüfung_von_Umfragen_background.jpg
 projects:
   - title: Kohärenzprüfung von Umfragen
     laufzeitStart: 01.07.2024
-    laufzeitEnd: 31.09.2024
+    laufzeitEnd: 30.09.2024
     partner: Redem GmbH
     foerdergeber: Land Oberösterreich – easy2innovate
 ---

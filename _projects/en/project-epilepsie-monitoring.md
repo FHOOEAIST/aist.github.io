@@ -1,15 +1,18 @@
 ---
 lang: en
 title: "Project: Epilepsie Monitoring"
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2021/02/logo-300x87.png
+logo: /assets/images/projects/Projekt_Epilepsie_Monitoring_logo.png
 page_id: projects:epilepsie-monitoring
 permalink: /projects/project-epilepsie-monitoring/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/epilepsie-monitoring
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-epilepsie-monitoring
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/02/neurons.jpg
+background: /assets/images/projects/Projekt_Epilepsie_Monitoring_background.jpg
 projects:
   - title: "Project: Epilepsie Monitoring"
-    partner: ""
+    laufzeitStart: 01.03.2021
+    laufzeitEnd: 30.09.2021
+    partner: Christian Seidl
+    foerdergeber: FFG – Innovationsscheck Plus
 ---
 
 ## Project: Epilepsie Monitoring

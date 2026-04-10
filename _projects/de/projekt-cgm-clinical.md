@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt CGM Clinical
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2016/02/KIMBO_Logo-300x105.png
+logo: /assets/images/projects/Projekt_CGM_Clinical_logo.png
 page_id: projects:projekt-cgm-clinical
 permalink: /projects/projekt-cgm-clinical/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-cgm-clinical
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-cgm-clinical
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/stethoscope-840125-scaled.jpg
+background: /assets/images/projects/Projekt_CGM_Clinical_background.jpg
 projects:
   - title: Projekt CGM Clinical
     laufzeitStart: 01.12.2015

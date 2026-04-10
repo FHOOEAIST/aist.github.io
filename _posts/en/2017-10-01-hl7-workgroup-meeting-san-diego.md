@@ -5,7 +5,7 @@ page_id: news:hl7-arbeitsgruppentreffen-san-diego
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/10/01/hl7-arbeitsgruppentreffen-san-diego
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/10/01/hl7-workgroup-meeting-san-diego
 title: HL7 Workgroup Meeting San Diego
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2017/10/IMG_2197.jpg
+title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_San_Diego_title.jpg
 
 ---
 
@@ -17,6 +17,10 @@ We are looking forward to the next Connectathon and Workgroup Meeting in New Orl
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/10/IMG_2197.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/10/IMG_2207.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/10/IMG_2200.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_San_Diego_gallery_0.jpg)
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_San_Diego_gallery_1.jpg)
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_San_Diego_gallery_2.jpg)
+
+</div>

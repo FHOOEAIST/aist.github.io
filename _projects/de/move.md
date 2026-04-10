@@ -1,17 +1,17 @@
 ---
 lang: de
 title: Move
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2021/11/move-150x150.png
+logo: /assets/images/projects/Move_logo.png
 page_id: projects:move
 permalink: /projects/move/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/move
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/move
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2021/11/ortheses.jpg
+background: /assets/images/projects/Move_background.jpg
 projects:
   - title: M.O.V.E. - Modeling Orthoses for Vitality Enhancement
-    laufzeitStart: Österreichische Forschungsförderungsgesellschaft FFG
-    laufzeitEnd: Basisprogramm
-    partner: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+    laufzeitStart: 01.11.2021
+    laufzeitEnd: 30.11.2025
+    partner: Wako3D, Kepler Universitätsklinikum, Sendance
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
 ---
 

@@ -5,7 +5,7 @@ page_id: news:weihnachtsfeier-2023
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/12/21/weihnachtsfeier-2023
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/12/21/christmas-party-2023
 title: AIST Christmas Party 2023
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2023/12/merry_christmas.png
+title_image: /assets/images/news/AIST_Weihnachtsfeier_2023_title.png
 
 ---
 
@@ -17,6 +17,10 @@ Best wishes and Merry Christmas\!
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/12/20231220-DSC08897-Enhanced-NR-_small.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/12/20231220-DSC08894-Enhanced-NR_small.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2023/12/20231220-DSC08899-Enhanced-NR_small.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/AIST_Weihnachtsfeier_2023_gallery_0.jpg)
+![](/assets/images/news/AIST_Weihnachtsfeier_2023_gallery_1.jpg)
+![](/assets/images/news/AIST_Weihnachtsfeier_2023_gallery_2.jpg)
+
+</div>

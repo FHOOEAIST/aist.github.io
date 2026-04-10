@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt Kimiku
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/logo-05.svg
+logo: /assets/images/projects/Projekt_Kimiku_logo.svg
 page_id: projects:projekt-kimiku
 permalink: /projects/projekt-kimiku/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-kimiku
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-kimiku
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/statistics-scaled.jpg
+background: /assets/images/projects/Projekt_Kimiku_background.jpg
 projects:
   - title: Projekt Kimiku
     laufzeitStart: 01.03.2019

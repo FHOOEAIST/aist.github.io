@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt Aicher
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/elementor/thumbs/pass-2-oq7yjt4px65f5b6ro06r2yrxsawiyoucdx40ozoqo0.png
+logo: /assets/images/projects/Projekt_Aicher_logo.png
 page_id: projects:projekt-aicher
 permalink: /projects/projekt-aicher/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-aicher
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-aicher
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/buildingplan-scaled.jpg
+background: /assets/images/projects/Projekt_Aicher_background.jpg
 projects:
   - title: PASS – Plan Analysis using Self-learning Solutions
     laufzeitStart: 01.12.2017

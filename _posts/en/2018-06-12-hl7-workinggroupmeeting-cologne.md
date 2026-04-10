@@ -5,7 +5,7 @@ page_id: news:hl7-arbeitsgruppentreffen-koeln
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/06/12/hl7-arbeitsgruppentreffen-koeln
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/06/12/hl7-workinggroupmeeting-cologne
 title: HL7 Workinggroupmeeting Cologne
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/IMG_20180515_175139.jpg
+title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_Köln_title.jpg
 
 ---
 
@@ -15,6 +15,10 @@ The teammembers participtaed at the connectathon tracks for GDPR \(General Data 
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/DdJXkyaXUAA3qzJ-1.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/IMG_20180515_175139.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2018/06/IMG_20180511_160531.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_Köln_gallery_0.jpg)
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_Köln_gallery_1.jpg)
+![](/assets/images/news/HL7_Arbeitsgruppentreffen_Köln_gallery_2.jpg)
+
+</div>

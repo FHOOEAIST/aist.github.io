@@ -5,7 +5,7 @@ date: 2016-03-24T16:18:19+01:00
 page_id: news:workshop_hl7_jahrestagung_2016
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/03/24/workshop_hl7_jahrestagung_2016
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2016/03/15/fhir-workshop-for-profiling-hl7-austria-annual-conference-2016
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2016/03/hl7_jahrestagung_2016.jpeg
+title_image: /assets/images/news/FHIR_Workshop_für_Profiling_–_HL7_Austria_Jahrestagung_2016_title.jpg
 
 ---
 

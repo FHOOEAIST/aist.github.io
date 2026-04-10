@@ -5,7 +5,7 @@ date: 2024-09-25T07:57:28+02:00
 page_id: news:besuch-von-der-goce-delchev-universitaet
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2024/09/25/besuch-von-der-goce-delchev-universitaet
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2024/09/25/visit-from-goce-delchev-university
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/IMG_6418.jpg
+title_image: /assets/images/news/Besuch_von_der_Goce_Delchev_Universität_title.jpg
 
 ---
 
@@ -15,8 +15,12 @@ Der erste Workshop bot einen umfassenden Projektüberblick, bei dem alle Mitglie
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/IMG_6418.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/IMG_6417.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/IMG_6419.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/IMG_6420.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/IMG_6415.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Besuch_von_der_Goce_Delchev_Universität_gallery_0.jpg)
+![](/assets/images/news/Besuch_von_der_Goce_Delchev_Universität_gallery_1.jpg)
+![](/assets/images/news/Besuch_von_der_Goce_Delchev_Universität_gallery_2.jpg)
+![](/assets/images/news/Besuch_von_der_Goce_Delchev_Universität_gallery_3.jpg)
+![](/assets/images/news/Besuch_von_der_Goce_Delchev_Universität_gallery_4.jpg)
+
+</div>

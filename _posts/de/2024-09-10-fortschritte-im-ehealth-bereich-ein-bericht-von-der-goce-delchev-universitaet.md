@@ -5,7 +5,7 @@ date: 2024-09-10T10:39:50+02:00
 page_id: news:fortschritte-im-ehealth-bereich-ein-bericht-von-der-goce-delchev-universitaet
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2024/09/10/fortschritte-im-ehealth-bereich-ein-bericht-von-der-goce-delchev-universitaet
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2024/09/10/advancing-ehealth-insights-from-goce-delchev-university-shtip
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/photo_2024-09-02_15-19-14-1.jpg
+title_image: /assets/images/news/Fortschritte_im_eHealth-Bereich_Ein_Bericht_von_der_Goce_Delchev_Universität_title.jpg
 
 ---
 
@@ -19,9 +19,13 @@ Wir sind gespannt auf die zukünftigen Möglichkeiten und freuen uns darauf, wei
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/photo_2024-09-02_15-19-14-1.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/DSC_1766.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/DSC_1760.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/DSC_2110.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/DSC_1787.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2024/09/photo_2024-09-02_15-19-13.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Fortschritte_im_eHealth-Bereich:_Ein_Bericht_von_der_Goce_Delchev_Universität_gallery_0.jpg)
+![](/assets/images/news/Fortschritte_im_eHealth-Bereich:_Ein_Bericht_von_der_Goce_Delchev_Universität_gallery_1.jpg)
+![](/assets/images/news/Fortschritte_im_eHealth-Bereich:_Ein_Bericht_von_der_Goce_Delchev_Universität_gallery_2.jpg)
+![](/assets/images/news/Fortschritte_im_eHealth-Bereich:_Ein_Bericht_von_der_Goce_Delchev_Universität_gallery_3.jpg)
+![](/assets/images/news/Fortschritte_im_eHealth-Bereich:_Ein_Bericht_von_der_Goce_Delchev_Universität_gallery_4.jpg)
+![](/assets/images/news/Fortschritte_im_eHealth-Bereich:_Ein_Bericht_von_der_Goce_Delchev_Universität_gallery_5.jpg)
+
+</div>

@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Urbaner Speichercluster Südburgenland
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2020/11/spc-150x150.png
+logo: /assets/images/projects/Urbaner_Speichercluster_Südburgenland_logo.png
 page_id: projects:urbaner-speichercluster-suedburgenland
 permalink: /projects/urbaner-speichercluster-suedburgenland/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/urbaner-speichercluster-suedburgenland
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/urban-storage-cluster-southern-burgenland
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/11/solar.png
+background: /assets/images/projects/Urbaner_Speichercluster_Südburgenland_background.png
 projects:
   - title: Urbaner Speichercluster Südburgenland
     laufzeitStart: 01.07.2021

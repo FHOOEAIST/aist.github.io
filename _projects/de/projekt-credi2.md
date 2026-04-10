@@ -1,12 +1,12 @@
 ---
 lang: de
 title: Projekt Credi2
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/elementor/thumbs/guide-oq81mo7fzpxgy7hsn014p3h4g6x83extk4lietu328.png
+logo: /assets/images/projects/Projekt_Credi2_logo.png
 page_id: projects:projekt-credi2
 permalink: /projects/projekt-credi2/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-credi2
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-credi2
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2020/05/id-card-scaled.jpg
+background: /assets/images/projects/Projekt_Credi2_background.jpg
 projects:
   - title: Projekt Credi2
     laufzeitStart: 01.04.2016

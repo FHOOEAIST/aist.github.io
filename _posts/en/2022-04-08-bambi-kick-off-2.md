@@ -5,7 +5,7 @@ page_id: news:bambi-kick-off
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/04/08/bambi-kick-off
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/04/08/bambi-kick-off-2
 title: BAMBI Kick-Off
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2022/04/bambi_kickoff.jpg
+title_image: /assets/images/news/BAMBI_Kick-Off_title.jpg
 
 ---
 

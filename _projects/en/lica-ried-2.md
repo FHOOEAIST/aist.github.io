@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Lica Ried
-logo: https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/lica-1-150x150.png
+logo: /assets/images/projects/Lica_Ried_logo.png
 page_id: projects:lica-ried
 permalink: /projects/lica-ried-2/
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/lica-ried
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/lica-ried-2
-background: https://aist.fh-hagenberg.at/wp-content/uploads/2022/09/lica_background.png
+background: /assets/images/projects/Lica_Ried_background.png
 projects:
   - title: Lica Ried
     laufzeitStart: 01.04.2022

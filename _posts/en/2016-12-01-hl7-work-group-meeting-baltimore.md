@@ -5,7 +5,7 @@ page_id: news:hl7-arbeitsgruppentreffen-baltimore
 source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/12/01/hl7-arbeitsgruppentreffen-baltimore
 source_url_en: https://aist.fh-hagenberg.at/index.php/en/2016/10/02/hl7-work-group-meeting-baltimore
 title: HL7 Work Group Meeting Baltimore
-title_image: https://aist.fh-hagenberg.at/wp-content/uploads/2016/10/2016-9-21-66689B-X2.jpg
+title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_Baltimore_title.jpg
 
 ---
 
@@ -15,6 +15,6 @@ During the Connecthaton they tested some of the Workflow [Request – Event](htt
 
 Karl had the opportunity of presenting the KIMBO Project during the Sunday AID session \(see picture\)\.
 
-![AID Session Baltimore](http://ehealth.fh-hagenberg.at/wp-content/uploads/2016/10/IMG_20160918_153352-300x225.jpg)\.
+![AID Session Baltimore](/assets/images/markdown/IMG_20160918_153352.jpg)\.
 
 There is a lot of interesting new things happening in FHIR\. For one FluentPath will be renamed back to FHIRPath, FHIR STU3 will be official soon, and Referencing by Identifiers is a [hot topic](http://www.healthintersections.com.au/?p=2575) right now\. We are already looking forward to the next round at the [FHIR DevDays](http://www.fhirdevdays.com/) in Amsterdam\!

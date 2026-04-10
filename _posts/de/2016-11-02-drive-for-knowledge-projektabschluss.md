@@ -18,5 +18,9 @@ Danke Thomas für den wunderbaren Tag\. Es war ein gelungener Abschluss\.
 
 ## Gallery
 
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/03/20161007_152932.jpg)
-![](https://aist.fh-hagenberg.at/wp-content/uploads/2017/03/IMG_2015.jpg)
+<div class="gallery" markdown="1">
+
+![](/assets/images/news/Drive_for_Knowledge_Projektabschluss_gallery_0.jpg)
+![](/assets/images/news/Drive_for_Knowledge_Projektabschluss_gallery_1.jpg)
+
+</div>
