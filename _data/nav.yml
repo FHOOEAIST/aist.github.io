@@ -1,0 +1,31 @@
+- page_id: home
+  label_de: "Über uns"
+  label_en: "About"
+  subitems:
+    - page_id: geschichte
+      label_de: Geschichte
+      label_en: History
+    - href: https://aist.myspreadshop.at/
+      label_de: Shop
+      label_en: Shop
+
+- page_id: news
+  label_de: Neuigkeiten
+  label_en: News
+  subitems: []
+
+- page_id: projects-index
+  label_de: Projekte
+  label_en: Projects
+  subitems:
+    - href: https://github.com/FHOOEAIST
+      label_de: GitHub
+      label_en: GitHub
+
+- page_id: publications-index
+  label_de: Publikationen
+  label_en: Publications
+  subitems:
+  - page_id: theses-index
+    label_de: Diplomarbeiten
+    label_en: Theses
