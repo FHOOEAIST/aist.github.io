@@ -935,7 +935,7 @@ footer a:hover {
 }
 
 /* Mobile */
-@media (max-width: 767px) {
+@media (max-width: 840px) {
   :root {
     --font-size-base: 16px;
     --header-height: 60px;
@@ -984,13 +984,17 @@ footer a:hover {
   }
 
   .nav-dropdown-menu {
-    display: block;
-    position: static;
-    transform: none;
-    box-shadow: none;
-    border-radius: 0;
+    display: none;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 0 0 var(--border-radius) var(--border-radius);
     margin-top: 0;
-    padding-left: 0.75rem;
+  }
+
+  .nav-dropdown:focus-within .nav-dropdown-menu {
+    display: block;
   }
 
   .nav-dropdown-menu a {
