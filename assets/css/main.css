@@ -1,8 +1,3 @@
-/* ==========================================================================
-   AIST Site - Main Stylesheet
-   Shared styles used across all pages
-   ========================================================================== */
-
 /* --------------------------------------------------------------------------
    CSS Variables
    -------------------------------------------------------------------------- */
@@ -807,10 +802,6 @@ footer {
   color: var(--color-white);
   padding: 2rem 0;
   margin-top: 3rem;
-  min-width: 100vw;
-  position: relative;
-  margin-left: -50vw;
-  left: 50%;
 }
 
 footer > div {
@@ -829,6 +820,77 @@ footer a {
 
 footer a:hover {
   color: var(--color-white);
+}
+
+.footer-columns {
+  display: flex;
+  gap: 3rem;
+}
+
+.footer-col {
+  flex: 1;
+}
+
+.footer-col img {
+  height: 120px;
+  width: auto;
+  margin-bottom: 0.75rem;
+}
+
+.footer-col h3 {
+  margin: 0.5rem 0;
+  color: var(--color-white);
+  font-size: 1rem;
+  font-weight: var(--font-weight-bold);
+}
+
+.footer-col p {
+  margin: 0.25rem 0;
+  line-height: 1.5;
+  font-size: 0.9rem;
+}
+
+.social-icons {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.social-icons a {
+  display: inline-flex;
+}
+
+.social-icons img {
+  height: 32px;
+  width: 32px;
+  filter: brightness(0) invert(1);
+  opacity: 0.85;
+  transition: opacity 0.2s;
+}
+
+.social-icons a:hover img {
+  opacity: 1;
+}
+
+.footer-search input[type="search"] {
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: var(--color-white);
+  padding: 0.4rem 0.75rem;
+  border-radius: var(--border-radius);
+  font-size: 0.85rem;
+  width: 100%;
+  max-width: 280px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.footer-search input[type="search"]::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-search input[type="search"]:focus {
+  border-color: rgba(255, 255, 255, 0.6);
 }
 
 @keyframes fadeIn {
@@ -859,6 +921,11 @@ footer a:hover {
 
   main > div {
     padding: 1.5rem 2rem;
+  }
+
+  .footer-columns {
+    flex-direction: column;
+    gap: 2rem;
   }
 }
 
@@ -941,23 +1008,11 @@ footer a:hover {
   footer > div {
     padding: 0 1rem;
   }
-
-  footer {
-    margin-left: 0;
-    left: 0;
-    min-width: auto;
-  }
-
-  body {
-    padding-bottom: 0;
-  }
 }
 
 /* Mobile */
 @media (max-width: 1199px) {
-  nav a.active {
-    color: var(--color-primary);
-  }
+
 }
 
 @media print {

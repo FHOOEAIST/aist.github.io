@@ -1,0 +1,27 @@
+<footer>
+	<div>
+		<div class="footer-columns">
+			<div class="footer-col">
+				<img src="{{ '/assets/images/footer/aist-logo.png' | relative_url }}" alt="AIST Logo">
+				<h3>{% if site.active_lang == 'en' %}Researchgroup AIST{% else %}Forschungsgruppe AIST{% endif %}</h3>
+				<p>{% if site.active_lang == 'en' %}Departments of Software Engineering (SE),<br>Artificial Intelligence Solutions (AIS),<br>Medical and Bio informatics (MBI),<br>and Data Science Engineering (DSE){% else %}Fachbereiche Software Engineering (SE),<br>Artificial Intelligence Solutions (AIS),<br>Medizin- und Bioinformatik (MBI),<br>und Data Science Engineering (DSE){% endif %}</p>
+				<p>University of Applied Sciences Upper Austria,<br>Softwarepark 11, 4232 Hagenberg, Austria</p>
+				<h3>{% if site.active_lang == 'en' %}Contact{% else %}Kontakt{% endif %}</h3>
+				<p>{% if site.active_lang == 'en' %}<strong>Phone</strong>: +43 5 0804 22038<br><strong>Mail</strong>: <a href="mailto:gerald.zwettler@fh-hagenberg.at">gerald.zwettler@fh-hagenberg.at</a>{% else %}<strong>Telefon</strong>: +43 5 0804 22038<br><strong>E-Mail</strong>: <a href="mailto:gerald.zwettler@fh-hagenberg.at">gerald.zwettler@fh-hagenberg.at</a>{% endif %}</p>
+				<div class="social-icons">
+					<a href="https://twitter.com/fhooeaist" aria-label="Twitter"><img src="{{ '/assets/images/footer/twitter-icon.svg' | relative_url }}" alt="Twitter"></a>
+					<a href="https://www.linkedin.com/company/fhooeaist/" aria-label="LinkedIn"><img src="{{ '/assets/images/footer/linkedin-icon.svg' | relative_url }}" alt="LinkedIn"></a>
+				</div>
+			</div>
+			<div class="footer-col">
+				<img src="{{ '/assets/images/footer/fhooe-logo.svg' | relative_url }}" alt="FH OOE Logo">
+				<h3>{% if site.active_lang == 'en' %}University of Applied Sciences<br>Upper Austria{% else %}Fachhochschule Oberösterreich{% endif %}</h3>
+				<p>{% if site.active_lang == 'en' %}Campus Hagenberg<br><a href="https://www.fh-ooe.at/en/hagenberg-campus/">https://www.fh-ooe.at/en/hagenberg-campus/</a>{% else %}Campus Hagenberg<br><a href="https://www.fh-ooe.at/campus-hagenberg/">https://www.fh-ooe.at/campus-hagenberg/</a>{% endif %}</p>
+				<form class="footer-search" role="search" method="get">
+					<input type="search" name="s" placeholder="{% if site.active_lang == 'en' %}Search{% else %}Suche{% endif %}" aria-label="{% if site.active_lang == 'en' %}Search{% else %}Suche{% endif %}">
+				</form>
+				<p><a href="{% if site.active_lang == 'en' %}https://aist.fh-hagenberg.at/index.php/en/impressum-2{% else %}https://aist.fh-hagenberg.at/index.php/en/impressum{% endif %}">Impressum</a></p>
+			</div>
+		</div>
+	</div>
+</footer>
