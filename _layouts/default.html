@@ -195,7 +195,7 @@
     <body>
         <header>
             <div>
-                <a href="{{ '/' | relative_url }}">AIST</a>
+                <a href="{{ '/' | relative_url }}"><img class="logo" src="{{ '/assets/images/footer/aist-logo.png' | relative_url }}" alt="AIST Logo"></a>
                 <nav>
                     {% for item in site.data.nav %}
                         {% if item.subitems and item.subitems.size > 0 %}

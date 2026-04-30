@@ -26,7 +26,7 @@
   --font-weight-bold: 600;
 
   --max-width: 1140px;
-  --header-height: 80px;
+  --header-height: 200px;
   --spacing-unit: 20px;
   --border-radius: 4px;
 }
@@ -146,7 +146,7 @@ header > div {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: var(--header-height);
+  min-height: var(--header-height);
 }
 
 header > div > a:first-child {
@@ -310,6 +310,11 @@ article img {
   max-width: 100%;
   height: auto;
   border-radius: var(--border-radius);
+}
+
+.logo {
+    height: 180px;
+    width: auto;
 }
 
 .page-header {
