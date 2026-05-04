@@ -2,15 +2,18 @@
   label_de: "Über uns"
   label_en: "About"
   subitems:
-    - page_id: team
-      label_de: Team
-      label_en: Team
     - page_id: geschichte
       label_de: Geschichte
       label_en: History
     - href: https://aist.myspreadshop.at/
       label_de: Shop
       label_en: Shop
+    - page_id: team
+      label_de: Team
+      label_en: Team
+    - page_id: contact
+      label_de: Kontakt
+      label_en: Contact
 
 - page_id: news
   label_de: Neuigkeiten
