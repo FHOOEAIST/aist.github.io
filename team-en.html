@@ -1,0 +1,41 @@
+---
+layout: default
+lang: en
+title: Team
+permalink: /team/
+page_id: team
+css: team
+---
+
+<div class="page-header">
+  <h1>Team</h1>
+</div>
+
+<div class="team-grid">
+{% for member in site.data.team.members %}
+  <div class="team-card">
+    {% if member.image %}
+    <div class="team-card-image">
+      <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" loading="lazy">
+    </div>
+    {% endif %}
+    <div class="team-card-info">
+      <h3>{{ member.name }}</h3>
+      {% if member.role %}
+      <p class="team-role">{{ member.role }}</p>
+      {% endif %}
+      <div class="team-contact">
+        {% if member.email %}
+        <p><span class="team-label">Email:</span> <a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+        {% endif %}
+        {% if member.phone %}
+        <p><span class="team-label">Phone:</span> {{ member.phone }}</p>
+        {% endif %}
+      </div>
+      {% if member.details_url %}
+      <a class="team-details-link" href="{{ member.details_url }}" target="_blank" rel="noopener">Details</a>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}
+</div>

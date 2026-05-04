@@ -2,6 +2,9 @@
   label_de: "Über uns"
   label_en: "About"
   subitems:
+    - page_id: team
+      label_de: Team
+      label_en: Team
     - page_id: geschichte
       label_de: Geschichte
       label_en: History
