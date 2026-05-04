@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.05.2022
     partner: Mobile Agreement (mogree)
     foerdergeber: Austrian Research Promotion Agency (FFG) – General Programme
+category: ml
 ---
 
 ## Eaci

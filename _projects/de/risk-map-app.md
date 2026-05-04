@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 01.06.2024
     partner: eBuddies GmbH
     foerdergeber: easy2research, Land Oberösterreich
+category: ml
 ---
 
 ## Risk Map App

@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.07.2022
     partner: Realsim
     foerdergeber: Österreichische Forschungsförderungsgesellschaft Innovationsscheck+
+category: ehealth
 ---
 
 ## KIM - KI in Mixed Reality

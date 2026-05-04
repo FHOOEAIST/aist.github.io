@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.10.2025
     partner: Catchgoal GmbH
     foerdergeber: Land Oberösterreich – easy2research
+category: unknown
 ---
 
 ## Feedbackloop

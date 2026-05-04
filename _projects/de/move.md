@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.11.2025
     partner: Wako3D, Kepler Universitätsklinikum, Sendance
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: ml
 ---
 
 ## M.O.V.E. - Modeling Orthoses for Vitality Enhancement

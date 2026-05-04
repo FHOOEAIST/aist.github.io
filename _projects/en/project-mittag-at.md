@@ -18,6 +18,7 @@ projects:
     laufzeitEnd: 31.01.2019
     partner: mittag.at
     foerdergeber: Österreichische Fördergesellschaft (FFG) – Innovationscheck
+category: ml
 ---
 
 ## Smart Menus

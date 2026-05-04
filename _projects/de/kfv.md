@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.06.2023
     partner: Kuratorium für Verkehrssicherheit
     foerdergeber: Auftragsprojekt
+category: cv
 ---
 
 ## KfV – Bewertung von Wildunfallrisiko

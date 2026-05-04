@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.07.2025
     partner: Redem GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
+category: cv
 ---
 
 ## Real-ID

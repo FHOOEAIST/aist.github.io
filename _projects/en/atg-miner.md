@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.06.2022
     partner: ""
     foerdergeber: FH Basisfördermittelfinaziertes Projekt
+category: cv
 ---
 
 ## Attribute grammar - Miner

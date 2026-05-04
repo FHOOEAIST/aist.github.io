@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.06.2018
     partner: Christian Bauernfeind IT-Beratung & Realisierung
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
+category: cv
 ---
 
 ## Project CP+

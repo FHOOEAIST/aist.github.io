@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.04.2025
     partner: Dr. Eduard Holzer
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
+category: unknown
 ---
 
 ## Ball-Tracking

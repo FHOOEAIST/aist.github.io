@@ -14,6 +14,7 @@ projects:
     partner: HAKOM
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG –
       Energieforschung (7. Ausschreibung)
+category: ml
 ---
 
 ## Big Power Data

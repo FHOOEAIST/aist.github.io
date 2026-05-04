@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 28.02.2024
     partner: 506 Data & Performance GmbH
     foerdergeber: Austrian Research Promotion Agency (FFG) – General Programme
+category: ml
 ---
 
 ## Gemini

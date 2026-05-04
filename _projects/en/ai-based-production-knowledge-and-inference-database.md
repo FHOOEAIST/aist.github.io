@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2027
     partner: Chase comet Center Linz, RICO Thalheim bei Wels
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – CHASE Comet Center
+category: ml
 ---
 
 ## AI-Based Production Knowledge and Inference Database

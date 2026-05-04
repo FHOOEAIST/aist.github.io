@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.03.2021
     partner: CAS – Computer Anwendungs Systeme GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: unknown
 ---
 
 ## REPO – Radiology E-health PlatfOrm

@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2021
     partner: Realsim
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Kleinprojekte
+category: cv
 ---
 
 ## Projekt: Mixed Reality Coverage Calculation

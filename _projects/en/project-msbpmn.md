@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.12.2020
     partner: CGM (CompuGroup Medical) Clinical
     foerdergeber: TIMed Center Aktivität, Innovatives OÖ 2020
+category: cv
 ---
 
 ## Project MSBPMN

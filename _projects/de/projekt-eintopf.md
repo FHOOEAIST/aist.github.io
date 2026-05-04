@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.05.2018
     partner: Tiani Spirit GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: unknown
 ---
 
 ## Projekt EINTOPF

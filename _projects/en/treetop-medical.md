@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 14.12.2025
     partner: Treetop Medical Gmbh
     foerdergeber: FFG Basisprogramm
+category: ehealth
 ---
 
 ## Treetop Medical

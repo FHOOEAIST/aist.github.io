@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2024
     partner: Redem GmbH
     foerdergeber: Land Oberösterreich – easy2innovate
+category: unknown
 ---
 
 ## Survey Coherence Check

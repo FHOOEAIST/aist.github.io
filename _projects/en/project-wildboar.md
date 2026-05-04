@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.08.2025
     partner: ""
     foerdergeber: Land Oberösterreich
+category: cv
 ---
 
 ## Project Wildboar

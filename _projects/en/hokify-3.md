@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2023
     partner: hokify GmbH
     foerdergeber: Austrian Research Promotion Agency (FFG) – General Programme
+category: ml
 ---
 
 ## Hokify

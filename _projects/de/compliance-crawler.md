@@ -12,6 +12,7 @@ projects:
     laufzeitStart: 01.07.2024
     laufzeitEnd: 30.09.2024
     partner: WIFI Oberösterreich
+category: unknown
 ---
 
 ## Compliance Crawler

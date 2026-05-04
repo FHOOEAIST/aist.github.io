@@ -14,6 +14,7 @@ projects:
     partner: Software Competence Center Hagenberg (SCCH)
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – COMET
       Compentence Centers for Excellent Technologies
+category: cv
 ---
 
 ## StraSE

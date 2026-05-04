@@ -1,0 +1,162 @@
+
+/* Hero Section */
+.home-hero {
+  text-align: center;
+  padding: 2.5rem 0 1rem;
+}
+
+.home-hero h1 {
+  font-size: 2.25rem;
+  color: var(--color-heading);
+  margin-bottom: 1rem;
+}
+
+.home-intro {
+  font-size: 1.1rem;
+  color: var(--color-text);
+  max-width: 900px;
+  margin: 0 auto;
+  line-height: 1.75;
+}
+
+/* Research Areas Section */
+.home-areas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem;
+  padding: 3rem 0;
+}
+
+.area-card {
+  text-align: center;
+  min-width: 0;
+}
+
+.area-card h2 {
+  color: var(--color-primary);
+  font-size: 1.3rem;
+  margin: 1rem 0 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+}
+
+.area-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.25rem;
+}
+
+.area-icon img {
+  width: 110px;
+  height: 110px;
+  object-fit: contain;
+}
+
+.area-card p {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--color-text);
+  text-align: left;
+}
+
+/* Project Logo Carousel */
+.carousel {
+  margin-top: 1.5rem;
+  padding: 0.75rem 0;
+  width: 100%;
+}
+
+.carousel-viewport {
+  overflow: hidden;
+  width: 100%;
+}
+
+.carousel-track {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide {
+  flex: 0 0 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90px;
+  padding: 0.5rem;
+  border-radius: var(--border-radius);
+  transition: transform 0.2s ease;
+  box-sizing: border-box;
+}
+
+.carousel-slide:hover {
+  transform: scale(1.08);
+}
+
+.carousel-slide a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-slide img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter: grayscale(40%);
+  opacity: 0.75;
+  transition: filter 0.3s ease, opacity 0.3s ease;
+}
+
+.carousel-slide:hover img {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+.home-carousel-section {
+  padding: 2rem 0;
+}
+
+.home-carousel-section h2 {
+  color: var(--color-primary);
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.home-carousel-section .carousel {
+  max-width: 400px;
+}
+
+@media (max-width: 1024px) {
+  .home-areas {
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 840px) {
+  .home-hero h1 {
+    font-size: 1.75rem;
+  }
+
+  .home-intro {
+    font-size: 1rem;
+  }
+
+  .home-areas {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 2rem 0;
+  }
+
+  .carousel-slide {
+    height: 70px;
+  }
+
+  .home-carousel-section {
+    padding: 1rem 0;
+  }
+}

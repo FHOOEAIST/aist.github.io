@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.06.2024
     partner: CALPANA business consulting GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: ml
 ---
 
 ## Loop

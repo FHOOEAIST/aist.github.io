@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.04.2024
     partner: LICA Life Care GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Digital Health
+category: ehealth
 ---
 
 ## Lica Ried

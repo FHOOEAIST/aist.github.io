@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.12.2020
     partner: Weigl Control GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
+category: ml
 ---
 
 ## Projectcooperation Weigl

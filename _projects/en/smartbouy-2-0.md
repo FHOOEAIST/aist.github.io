@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.07.2024
     partner: Hermes Bootsbaus Gmbh
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: ml
 ---
 
 ## SmartBuoy 2.0

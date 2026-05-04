@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2023
     partner: hokify GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: ml
 ---
 
 ## Hokify

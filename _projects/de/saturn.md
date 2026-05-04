@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 28.02.2022
     partner: 506 Data & Performance GmbH
     foerdergeber: Austria Wirtschaftsservice (AWS)
+category: ml
 ---
 
 ## Saturn

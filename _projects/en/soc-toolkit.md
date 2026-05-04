@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.06.2022
     partner: Nextpart Security Intelligence GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: ml
 ---
 
 ## SOC-Toolkit

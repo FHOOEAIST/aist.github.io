@@ -18,6 +18,7 @@ projects:
       Topographiedateneasy2ResearchErstellung von digitalen Karten basierend auf
       FlugaufnahmenRegistrierung der Flugaufnahmekarten mit digitalen
       Kartendiensten zur Geo-Referenzierung bzw. Adressfindung
+category: cv
 ---
 
 ## Amido

@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.04.2026
     partner: ""
     foerdergeber: FWF – Doc.fund.connects
+category: ml
 ---
 
 ## Human-Centered Artificial Intelligence

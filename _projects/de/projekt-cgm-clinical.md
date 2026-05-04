@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.11.2017
     partner: CGM Clinical
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: cv
 ---
 
 ## Projekt CGM Clinical

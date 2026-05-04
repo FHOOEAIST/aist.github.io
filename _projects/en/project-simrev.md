@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.07.2020
     partner: Lietz GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG Innovationsscheck
+category: cv
 ---
 
 ## Project SimRev

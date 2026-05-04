@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2018
     partner: VR Dimension e.U.; PIELab
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
+category: cv
 ---
 
 ## Projekt StressBurn

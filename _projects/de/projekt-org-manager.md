@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.05.2022
     partner: LMNOP
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogram
+category: ml
 ---
 
 ## Projekt ORG-Manager

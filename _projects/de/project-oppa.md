@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.06.2021
     partner: ATOS Ambulanz Mobile
     foerdergeber: Innovatives OÖ 2020
+category: ehealth
 ---
 
 ## Projekt OPPA

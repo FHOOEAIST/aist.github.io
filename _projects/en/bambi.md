@@ -15,6 +15,7 @@ projects:
       e.UUmweltdata GmbHViewCopter e.U.Landes-Jagdverbände Niederösterreich,
       Oberösterreich und Tirol
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – AI4Green
+category: cv
 ---
 
 ## Bambi

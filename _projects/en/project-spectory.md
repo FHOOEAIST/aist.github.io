@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.06.2019
     partner: Spectory, HIVE
     foerdergeber: Austrian Research Promotion Agency (FFG) – Innovation Voucher
+category: cv
 ---
 
 ## Project Spectory

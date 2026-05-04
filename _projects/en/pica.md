@@ -16,6 +16,7 @@ projects:
       Erschließung/Erweiterung von zukunftsweisenden Forschungsfeldern bei den
       Oö. Außeruniversitären Forschungseinrichtungen im Zeitraum 01.01.2022 –
       31.12.2029.
+category: cv
 ---
 
 ## PICA - Process Intelligence and Conformance Auditing

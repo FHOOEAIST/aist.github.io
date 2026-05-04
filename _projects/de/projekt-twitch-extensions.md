@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.06.2019
     partner: Own3d Media GmbH
     foerdergeber: Easy2Research
+category: unknown
 ---
 
 ## Projekt Twitch Extensions

@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.12.2023
     partner: UIA
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: ml
 ---
 
 ## BPMN.IA

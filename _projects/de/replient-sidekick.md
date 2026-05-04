@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2025
     partner: Doppel-N GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Kleinprojekt
+category: unknown
 ---
 
 ## Replient Sidekick

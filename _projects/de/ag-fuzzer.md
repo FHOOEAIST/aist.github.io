@@ -14,6 +14,7 @@ projects:
     dissertant: Andreas Pointner
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG –
       Dissertationsprogramm der Fachhochschule OÖ
+category: cv
 ---
 
 ## AG-Fuzzer

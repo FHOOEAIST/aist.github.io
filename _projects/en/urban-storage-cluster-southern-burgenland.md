@@ -14,6 +14,7 @@ projects:
     partner: ""
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Klima- und
       Energiefonds Smart Cities
+category: ml
 ---
 
 ## Urban Storage Cluster Southern Burgenland

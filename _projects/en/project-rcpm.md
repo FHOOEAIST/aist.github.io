@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.12.2021
     partner: Calpana business consulting GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: ml
 ---
 
 ## RCPM - Realtime Corporate Performance Management

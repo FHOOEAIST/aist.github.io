@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.08.2021
     partner: hello again GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: cv
 ---
 
 ## Projekt Kimiku

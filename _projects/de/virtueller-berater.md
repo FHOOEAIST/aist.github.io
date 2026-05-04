@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.04.2024
     partner: bluesource – mobile solutions gmbh
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: cv
 ---
 
 ## Virtueller Berater

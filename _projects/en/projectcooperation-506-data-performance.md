@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.12.2020
     partner: 506 Data & Performance GmbH
     foerdergeber: Easy2Research
+category: ml
 ---
 
 ## Projectcooperation 506 Data & Performance

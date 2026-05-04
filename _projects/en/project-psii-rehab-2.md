@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.08.2017
     partner: psii.rehab
     foerdergeber: OÖ Kooperationsförderung easy2innovate
+category: ehealth
 ---
 
 ## Project Psii Rehab

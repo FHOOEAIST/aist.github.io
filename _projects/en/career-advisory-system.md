@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.10.2023
     partner: Karriere.at
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: ml
 ---
 
 ## Career Advisory System

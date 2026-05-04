@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.03.2025
     partner: CAS GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Kleinprojekt
+category: unknown
 ---
 
 ## PAIR

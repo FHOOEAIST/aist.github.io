@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2026
     partner: Intelligent Automation GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Kleinprojekt
+category: unknown
 ---
 
 ## Vipa

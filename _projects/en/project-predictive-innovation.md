@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.11.2021
     partner: mobile agreements GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Basisprogramm
+category: cv
 ---
 
 ## Project: Predictive Innovation

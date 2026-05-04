@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.11.2021
     partner: Cadus Innovation GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
+category: cv
 ---
 
 ## Cadus

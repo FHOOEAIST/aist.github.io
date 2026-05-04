@@ -14,6 +14,7 @@ projects:
     partner: voidsy gmbh, FACC Operations GmbH, ENGEL AUSTRIA GmbH & RO-RA Aviation
       Systems GmbH
     foerdergeber: Land Oberösterreich – AI-Region Upper Austria 2024
+category: unknown
 ---
 
 ## FLARE

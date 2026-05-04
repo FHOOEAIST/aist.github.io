@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.03.2017
     partner: Safetydrain Designduschen GmbH
     foerdergeber: Österreichische Forschungsförderungsgesellschaft FFG – Innovationsscheck
+category: unknown
 ---
 
 ## Projekt Safetydrain

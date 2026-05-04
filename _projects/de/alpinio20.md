@@ -18,6 +18,7 @@ projects:
       – Innovationsscheck+Projektschwerpunkt: Methoden zur Analyse von Pflanzen
       hinsichtlich Bewuchsdichte, Größe/Form der Pflanzen/Blätter und auch
       Verdrängung (Biodiversität) durch andere Spezien"
+category: cv
 ---
 
 ## AlpinIO

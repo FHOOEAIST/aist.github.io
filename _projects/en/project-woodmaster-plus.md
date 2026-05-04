@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.04.2021
     partner: BlueDynamics Auersperg-Castell KG
     foerdergeber: easy2research
+category: cv
 ---
 
 ## Project Woodmaster Plus

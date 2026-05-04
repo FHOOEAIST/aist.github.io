@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.09.2021
     partner: Christian Seidl
     foerdergeber: FFG – Innovationsscheck Plus
+category: cv
 ---
 
 ## Project: Epilepsie Monitoring

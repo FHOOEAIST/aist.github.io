@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 31.05.2020
     partner: Progast+
     foerdergeber: Easy2Research
+category: cv
 ---
 
 ## Projekt Progast+

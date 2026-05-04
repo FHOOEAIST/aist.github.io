@@ -13,6 +13,7 @@ projects:
     laufzeitEnd: 30.11.2022
     partner: Ralph Ohler
     foerdergeber: Easy2Research
+category: ml
 ---
 
 ## Learning while asleep
