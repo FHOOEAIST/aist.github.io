@@ -7,5 +7,6 @@ title: Automated Verification of Structured Questionnaires Using HL7® FHIR®
 reference: |-
   ICT for Health Science Research
   A\. Lin, O\. Krauss, E\. Helm
+category: eHealth
 ---
 

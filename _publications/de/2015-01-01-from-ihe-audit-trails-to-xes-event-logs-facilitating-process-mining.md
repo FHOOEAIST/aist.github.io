@@ -9,6 +9,7 @@ reference: >-
   40\-44 \([Details](http://research.fh-ooe.at/de/publication/4665)\)
 
   F\. Paster, E\. Helm
-url: http://research.fh-ooe.at/de/publication/4665
+category: eHealth
+external_url: http://research.fh-ooe.at/de/publication/4665
 ---
 

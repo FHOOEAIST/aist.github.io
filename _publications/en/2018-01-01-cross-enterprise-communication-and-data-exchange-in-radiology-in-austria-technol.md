@@ -8,5 +8,6 @@ title: "Cross-Enterprise Communication and Data Exchange in Radiology in
 reference: |-
   Studies in health technology and informatics
   Helm E\., Schuler A\., Mayr H\.
+category: eHealth
 ---
 

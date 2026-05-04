@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:andreas-pointner-bildverarbeitungsmethoden-zur-personenidentifikation
+permalink: /theses/andreas-pointner-bildverarbeitungsmethoden-zur-personenidentifikation/
 date: 2017-01-01
 title: Bildverarbeitungsmethoden zur Personenidentifikation
 student: Andreas Pointner

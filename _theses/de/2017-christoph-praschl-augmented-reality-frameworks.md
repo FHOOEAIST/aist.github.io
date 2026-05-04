@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:christoph-praschl-augmented-reality-frameworks
+permalink: /theses/christoph-praschl-augmented-reality-frameworks/
 date: 2017-01-01
 title: Augmented Reality Frameworks
 student: Christoph Praschl

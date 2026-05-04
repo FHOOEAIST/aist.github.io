@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:andreas-erhard-process-mining-im-radiologiebereich-eine-ganzheitliche-betrachtun
+permalink: /theses/andreas-erhard-process-mining-im-radiologiebereich-eine-ganzheitliche-betrachtun/
 date: 2023-01-01
 title: Process Mining im Radiologiebereich - Eine ganzheitliche Betrachtung der
   organisatorischen und datenspezifischen Reife anhand eines kanonischen

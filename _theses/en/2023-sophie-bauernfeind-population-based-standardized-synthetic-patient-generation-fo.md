@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:sophie-bauernfeind-population-based-standardized-synthetic-patient-generation-fo
 permalink: /theses/sophie-bauernfeind-population-based-standardized-synthetic-patient-generation-fo/
-year: "2023"
+date: 2023-01-01
 title: Population-based Standardized, Synthetic Patient Generation for
   Healthcare Applications
 student: Sophie Bauernfeind

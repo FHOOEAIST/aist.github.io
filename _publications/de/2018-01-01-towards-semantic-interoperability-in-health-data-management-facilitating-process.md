@@ -8,5 +8,6 @@ title: Towards Semantic Interoperability in Health Data Management Facilitating
 reference: |-
   International Journal of Privacy and Health Information Management \(IJPHIM\)
   Traxler B\., Helm E\., Krauss O\., Schuler A\., Kueng J\.
+category: eHealth
 ---
 

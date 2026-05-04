@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:lukas-reithmeier-influence-of-depth-data-on-the-performance-of-instance-segmenta
 permalink: /theses/lukas-reithmeier-influence-of-depth-data-on-the-performance-of-instance-segmenta/
-year: "2020"
+date: 2020-01-01
 title: Influence of depth data on the performance of instance segmentation
   utilizing Mask R-CNN and RGB-D images
 student: Lukas Reithmeier

@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:anna-lackerbauer-digitalising-consent-in-healthcare-development-of-an-econsent-b
+permalink: /theses/anna-lackerbauer-digitalising-consent-in-healthcare-development-of-an-econsent-b/
 date: 2018-01-01
 title: "Digitalising Consent in Healthcare: Development of an eConsent Backend"
 student: Anna Lackerbauer

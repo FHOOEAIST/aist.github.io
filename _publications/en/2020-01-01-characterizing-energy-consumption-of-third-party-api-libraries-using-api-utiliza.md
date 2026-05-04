@@ -9,6 +9,6 @@ reference: ACM/IEEE International Symposium on Empirical Software Engineering
   and Measurement \(ESEM\), 2020, Andreas Schuler and Gabriele Kotsis
   \([Preprint](http://dx.doi.org/10.13140/RG.2.2.31812.45444)\) \([Replication
   Package](https://doi.org/10.5281/zenodo.3952021)\)
-url: http://dx.doi.org/10.13140/RG.2.2.31812.45444
+external_url: http://dx.doi.org/10.13140/RG.2.2.31812.45444
 ---
 

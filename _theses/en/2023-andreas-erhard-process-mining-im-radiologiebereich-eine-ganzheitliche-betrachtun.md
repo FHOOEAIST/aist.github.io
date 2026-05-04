@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:andreas-erhard-process-mining-im-radiologiebereich-eine-ganzheitliche-betrachtun
 permalink: /theses/andreas-erhard-process-mining-im-radiologiebereich-eine-ganzheitliche-betrachtun/
-year: "2023"
+date: 2023-01-01
 title: Process Mining in Radiology - A Holistic View of Organizational and Data
   Maturity Using a Canonical Maturity Model
 student: Andreas Erhard

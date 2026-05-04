@@ -10,6 +10,6 @@ reference: "Daniel Dorfmeister, and Oliver Krauss\\. 2020\\. “Integrating
   Optimization\\.” In Proceedings of the Genetic and Evolutionary Computation
   Conference Companion – GECCO ’20\\. Cancun, Mexico: ACM Press\\.
   \\([Details](https://doi.org/10.1145/3377929.3398103)\\)\\."
-url: https://doi.org/10.1145/3377929.3398103
+external_url: https://doi.org/10.1145/3377929.3398103
 ---
 

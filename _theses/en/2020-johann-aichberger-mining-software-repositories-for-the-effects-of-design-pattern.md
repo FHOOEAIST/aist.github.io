@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:johann-aichberger-mining-software-repositories-for-the-effects-of-design-pattern
 permalink: /theses/johann-aichberger-mining-software-repositories-for-the-effects-of-design-pattern/
-year: "2020"
+date: 2020-01-01
 title: Mining Software Repositories for the Effects of Design Patterns on
   Software Quality
 student: Johann Aichberger

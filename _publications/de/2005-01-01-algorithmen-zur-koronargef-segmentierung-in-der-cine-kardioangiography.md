@@ -7,5 +7,6 @@ title: Algorithmen zur Koronargefäßsegmentierung in der Cine-Kardioangiography
 reference: |-
   Master/Diploma Thesis, FH OÖ Fakultät Hagenberg, Österreich, 2005, pp\. 94
   G\. Zwettler
+category: eHealth
 ---
 

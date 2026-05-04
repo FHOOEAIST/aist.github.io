@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:konstantin-papesh-measuring-data-quality-in-stix-based-soar-platforms
+permalink: /theses/konstantin-papesh-measuring-data-quality-in-stix-based-soar-platforms/
 date: 2022-01-01
 title: Measuring Data Quality in STIX-based SOAR Platforms
 student: Konstantin Papesh

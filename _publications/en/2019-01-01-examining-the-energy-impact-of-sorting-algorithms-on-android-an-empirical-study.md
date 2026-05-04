@@ -9,6 +9,6 @@ reference: "Proceedings of the 16th EAI International Conference on Mobile and
   Ubiquitous Systems: Computing, Networking and Services, 2020, Andreas Schuler
   and Gabriele Kotsis \\([Paper
   Link](https://dl.acm.org/doi/abs/10.1145/3360774.3360808)\\)"
-url: https://dl.acm.org/doi/abs/10.1145/3360774.3360808
+external_url: https://dl.acm.org/doi/abs/10.1145/3360774.3360808
 ---
 

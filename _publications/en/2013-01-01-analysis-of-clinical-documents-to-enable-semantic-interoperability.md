@@ -9,6 +9,7 @@ reference: >-
   pp\. 466\-473 \([Details](http://research.fh-ooe.at/de/publication/3864)\)
 
   B\. Franz, A\. Schuler, E\. Helm
-url: http://research.fh-ooe.at/de/publication/3864
+category: eHealth
+external_url: http://research.fh-ooe.at/de/publication/3864
 ---
 

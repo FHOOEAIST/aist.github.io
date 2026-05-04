@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:anthony-alessi-face-recognition-system-for-night-vision-images-using-deep-learni
+permalink: /theses/anthony-alessi-face-recognition-system-for-night-vision-images-using-deep-learni/
 date: 2022-01-01
 title: Face Recognition system for Night Vision Images using Deep Learning
 student: Anthony Alessi

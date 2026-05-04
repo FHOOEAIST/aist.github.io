@@ -9,6 +9,6 @@ reference: >-
   \([Details](https://dl.acm.org/authorize?N676106)\)
 
   O\. Krauss
-url: https://dl.acm.org/authorize?N676106
+external_url: https://dl.acm.org/authorize?N676106
 ---
 

@@ -9,6 +9,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/3210)\)
 
   B\. Franz, M\. Buchmayr, A\. Schuler, W\. Kurschl
-url: http://research.fh-ooe.at/de/publication/3210
+category: eHealth
+external_url: http://research.fh-ooe.at/de/publication/3210
 ---
 

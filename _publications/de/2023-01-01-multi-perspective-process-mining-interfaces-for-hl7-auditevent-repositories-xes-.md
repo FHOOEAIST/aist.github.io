@@ -9,6 +9,7 @@ reference: "Pointner, A\\., Krauss, O\\., Erhard, A\\., Schuler, A\\., & Helm,
   E\\. \\(2023\\)\\. Multi\\-Perspective Process Mining Interfaces for HL7
   AuditEvent Repositories: XES and OCEL\\. In _dHealth 2023_ \\(pp\\.
   168\\-173\\)\\. IOS Press\\."
+category: eHealth
 doi: https://doi.org/10.3233/SHTI230034
 ---
 

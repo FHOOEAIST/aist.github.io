@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:christoph-praschl-erkennung-von-informationsverlust-in-der-modelltransformation
+permalink: /theses/christoph-praschl-erkennung-von-informationsverlust-in-der-modelltransformation/
 date: 2019-01-01
 title: Erkennung von Informationsverlust in der Modelltransformation
 student: Christoph Praschl

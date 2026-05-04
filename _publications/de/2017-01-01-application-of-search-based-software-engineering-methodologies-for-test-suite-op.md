@@ -11,6 +11,6 @@ reference: >-
   Engineering \([Details](https://dl.acm.org/citation.cfm?id=3119876)\)
 
   A\. Schuler
-url: https://dl.acm.org/citation.cfm?id=3119876
+external_url: https://dl.acm.org/citation.cfm?id=3119876
 ---
 

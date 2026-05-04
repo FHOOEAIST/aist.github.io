@@ -8,5 +8,6 @@ title: Automatisierte Rekonstruktion klinischer Pfade basierend auf
 reference: |-
   eHealth 2011, Wien, Österreich, 2011, pp\. 209\-214
   F\. Pfeifer, B\. Franz, E\. Helm, J\. Altmann, B\. Aichinger
+category: eHealth
 ---
 

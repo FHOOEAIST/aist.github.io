@@ -10,6 +10,6 @@ reference: >-
   Pages 144\-149 \([Details](https://dl.acm.org/citation.cfm?id=3236504)\)
 
   Schuler, A\. and Anderst\-Kotsis G\. – MANA
-url: https://dl.acm.org/citation.cfm?id=3236504
+external_url: https://dl.acm.org/citation.cfm?id=3236504
 ---
 

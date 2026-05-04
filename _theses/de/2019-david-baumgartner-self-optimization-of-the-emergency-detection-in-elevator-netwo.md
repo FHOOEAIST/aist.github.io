@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:david-baumgartner-self-optimization-of-the-emergency-detection-in-elevator-netwo
+permalink: /theses/david-baumgartner-self-optimization-of-the-emergency-detection-in-elevator-netwo/
 date: 2019-01-01
 title: Self-optimization of the emergency detection in elevator networks
 student: David Baumgartner

@@ -10,6 +10,6 @@ reference: >-
   \([Details](https://www.ncbi.nlm.nih.gov/pubmed/28508780)\)
 
   Krauss O, Holzer K, Schuler A, Egelkraut R, Franz B\. – KIMBO
-url: https://www.ncbi.nlm.nih.gov/pubmed/28508780
+external_url: https://www.ncbi.nlm.nih.gov/pubmed/28508780
 ---
 

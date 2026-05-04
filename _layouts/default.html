@@ -170,6 +170,66 @@
                         });
 
                         updateGallery();
+
+                        function updateGalleryHeight() {
+                            const containerWidth = gallery.offsetWidth;
+                            if (containerWidth === 0) return;
+
+                            const viewportCap = window.innerHeight * 0.8;
+                            let maxHeight = 0;
+                            let hasAny = false;
+
+                            images.forEach((img) => {
+                                if (img.naturalWidth > 0 && img.naturalHeight > 0) {
+                                    const scaledHeight = (img.naturalHeight / img.naturalWidth) * containerWidth;
+                                    maxHeight = Math.max(maxHeight, scaledHeight);
+                                    hasAny = true;
+                                }
+                            });
+
+                            if (hasAny) {
+                                gallery.style.minHeight = Math.min(maxHeight, viewportCap) + 'px';
+                            }
+                        }
+
+                        images.forEach((img) => {
+                            if (img.complete) {
+                                updateGalleryHeight();
+                            } else {
+                                img.addEventListener('load', updateGalleryHeight);
+                                img.addEventListener('error', updateGalleryHeight);
+                            }
+                        });
+
+                        updateGalleryHeight();
+                    });
+
+                    var galleryResizeTimeout;
+                    window.addEventListener('resize', function () {
+                        clearTimeout(galleryResizeTimeout);
+                        galleryResizeTimeout = setTimeout(function () {
+                            const viewportCap = window.innerHeight * 0.8;
+                            galleries.forEach((gallery) => {
+                                const imgs = Array.from(gallery.querySelectorAll('img'));
+                                const containerWidth = gallery.offsetWidth;
+                                if (containerWidth === 0) return;
+
+                                let maxHeight = 0;
+                                let hasAny = false;
+
+                                imgs.forEach((img) => {
+                                    if (img.naturalWidth > 0 && img.naturalHeight > 0) {
+                                        const scaledHeight = (img.naturalHeight / img.naturalWidth) * containerWidth;
+                                        maxHeight = Math.max(maxHeight, scaledHeight);
+                                        hasAny = true;
+                                    }
+                                });
+
+                                if (hasAny) {
+                                    gallery.style.minHeight = Math.min(maxHeight, viewportCap) + 'px';
+                                }
+                            });
+                        }, 150);
                     });
 
                     closeBtn.addEventListener("click", closeLightbox);

@@ -10,6 +10,7 @@ reference: >-
   \([Details](https://www.mdpi.com/1660-4601/17/4/1348)\)
 
   Helm E\., Lin M\. A\., Baumgartner D\., Lin C\. A\., Küng J\.
-url: https://www.mdpi.com/1660-4601/17/4/1348
+category: eHealth
+external_url: https://www.mdpi.com/1660-4601/17/4/1348
 ---
 

@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:rainer-meindl-statusbasierte-analyse-von-notf-llen-in-aufzugsanlagen
+permalink: /theses/rainer-meindl-statusbasierte-analyse-von-notf-llen-in-aufzugsanlagen/
 date: 2019-01-01
 title: Statusbasierte Analyse von Notfällen in Aufzugsanlagen
 student: Rainer Meindl

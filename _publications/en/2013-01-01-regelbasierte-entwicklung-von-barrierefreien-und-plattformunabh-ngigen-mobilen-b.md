@@ -11,6 +11,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/3850)\)
 
   E\. Helm, A\. Schuler, H\. Mayr
-url: http://research.fh-ooe.at/de/publication/3850
+category: eHealth
+external_url: http://research.fh-ooe.at/de/publication/3850
 ---
 

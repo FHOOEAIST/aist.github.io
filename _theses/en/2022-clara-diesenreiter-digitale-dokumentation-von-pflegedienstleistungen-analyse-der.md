@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:clara-diesenreiter-digitale-dokumentation-von-pflegedienstleistungen-analyse-der
 permalink: /theses/clara-diesenreiter-digitale-dokumentation-von-pflegedienstleistungen-analyse-der/
-year: "2022"
+date: 2022-01-01
 title: "Digital documentation of nursing services: Analysis of fields of action
   and terminology systems"
 student: Clara Diesenreiter

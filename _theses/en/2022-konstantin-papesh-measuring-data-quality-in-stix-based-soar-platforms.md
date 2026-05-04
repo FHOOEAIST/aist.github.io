@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:konstantin-papesh-measuring-data-quality-in-stix-based-soar-platforms
 permalink: /theses/konstantin-papesh-measuring-data-quality-in-stix-based-soar-platforms/
-year: "2022"
+date: 2022-01-01
 title: Measuring Data Quality in STIX-based SOAR Platforms
 student: Konstantin Papesh
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/soc-toolkit

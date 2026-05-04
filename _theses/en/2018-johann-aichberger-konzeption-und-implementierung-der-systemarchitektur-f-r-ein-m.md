@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:johann-aichberger-konzeption-und-implementierung-der-systemarchitektur-f-r-ein-m
 permalink: /theses/johann-aichberger-konzeption-und-implementierung-der-systemarchitektur-f-r-ein-m/
-year: "2018"
+date: 2018-01-01
 title: Design and implementation of the system architecture for a mixed reality
   board game
 student: Johann Aichberger

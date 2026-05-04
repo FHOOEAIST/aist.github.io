@@ -8,6 +8,7 @@ title: "FHIR2BPMN: Delivering Actionable Knowledge by Transforming Between
 reference: "Helm, Emmanuel, et al\\. „FHIR2BPMN: Delivering Actionable Knowledge
   by Transforming Between Clinical Pathways and Executable
   Models\\.“ _Healthcare of the Future 2022_\\. IOS Press, 2022\\. 9\\-14\\."
+category: eHealth
 doi: https://doi.org/10.3233/SHTI220311
 ---
 

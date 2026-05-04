@@ -11,6 +11,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/4439)\)
 
   A\. Schuler
-url: http://research.fh-ooe.at/de/publication/4439
+category: eHealth
+external_url: http://research.fh-ooe.at/de/publication/4439
 ---
 

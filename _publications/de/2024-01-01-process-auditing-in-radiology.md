@@ -6,6 +6,7 @@ date: 2024-01-01
 title: Process Auditing in Radiology
 reference: Andreas Pointner\. “Process Auditing in Radiology”\. Kepler Science
   Days \(2024\)
+category: eHealth
 ---
 
 In den letzten 20 Jahren hat sich Prozess\-Mining \(PM\) als eigenständige Disziplin etabliert, die darauf abzielt, reale Prozesse anhand von Daten aus Informationssystemen zu analysieren und zu optimieren\. Unsere Arbeit entwickelt ein System zur standardisierten Aufzeichnung und Auswertung von Gesundheitsprozessen, indem HL7 FHIR AuditEvents erfasst und in PM\-kompatible Formate wie XES oder OCEL umgewandelt werden\. Eine Simulation des Brustkrebsfrüherkennungsprozesses zeigte, dass die erfassten Prozessschritte erfolgreich rekonstruiert und analysiert werden konnten\. Dieses System ermöglicht die Überprüfung von Prozesskonformität, frühe Problemidentifizierung und trägt zur Verbesserung der Gesundheitsqualität bei\.

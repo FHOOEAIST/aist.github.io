@@ -6,6 +6,7 @@ date: 2021-01-01
 title: How can Interoperability Support Process Mining in Healthcare?
 reference: Helm, Emmanuel, and Oliver Krauss\. „How can Interoperability Support
   Process Mining in Healthcare?\.“ PODS4H\.
+category: eHealth
 ---
 
 A discussion of the relationship between the concept of healthcare information systems interoperability and process\-oriented data analysis\. The goal is to show that some of the current challenges of process mining in healthcare are also interoperability problems\. By participating in solving these problems we can also improve our data sources\.

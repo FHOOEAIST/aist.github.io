@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:eva-maria-spitzer-an-exploratory-approach-for-finding-similarities-within-hetero
+permalink: /theses/eva-maria-spitzer-an-exploratory-approach-for-finding-similarities-within-hetero/
 date: 2020-01-01
 title: An Exploratory Approach for Finding Similarities Within Heterogeneous
   Data Sets of Small and Medium-Sized Enterprises

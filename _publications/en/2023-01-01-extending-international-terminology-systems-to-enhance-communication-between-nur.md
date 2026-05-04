@@ -9,6 +9,7 @@ reference: Clara Diesenreiter, Oliver Krauss and Barbara Traxler, „**Extending
   International Terminology Systems to Enhance Communication Between Nursing
   Services**“ in Proceedings of the 12th International Workshop on Innovative
   Simulation for Healthcare \(IWISH 2023\)_, 2023\._
+category: eHealth
 doi: https://doi.org/10.46354/i3m.2023.iwish.006
 ---
 

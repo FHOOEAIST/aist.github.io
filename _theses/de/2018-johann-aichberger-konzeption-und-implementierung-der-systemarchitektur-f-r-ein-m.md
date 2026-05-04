@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:johann-aichberger-konzeption-und-implementierung-der-systemarchitektur-f-r-ein-m
+permalink: /theses/johann-aichberger-konzeption-und-implementierung-der-systemarchitektur-f-r-ein-m/
 date: 2018-01-01
 title: Konzeption und Implementierung der Systemarchitektur für ein Mixed
   Reality-Brettspiel

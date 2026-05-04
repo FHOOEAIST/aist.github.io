@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:elisabeth-mayrhuber-semantic-process-mining-ontology-based-dynamic-event-log-gen
 permalink: /theses/elisabeth-mayrhuber-semantic-process-mining-ontology-based-dynamic-event-log-gen/
-year: "2023"
+date: 2023-01-01
 title: "Semantic Process Mining: Ontology-based Dynamic Event Log Generation"
 student: Elisabeth Mayrhuber
 ---

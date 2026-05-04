@@ -10,6 +10,7 @@ reference: >-
   2015 \([Details](http://research.fh-ooe.at/de/publication/4668)\)
 
   A\. Schuler, B\. Franz, O\. Krauss
-url: http://research.fh-ooe.at/de/publication/4668
+category: eHealth
+external_url: http://research.fh-ooe.at/de/publication/4668
 ---
 

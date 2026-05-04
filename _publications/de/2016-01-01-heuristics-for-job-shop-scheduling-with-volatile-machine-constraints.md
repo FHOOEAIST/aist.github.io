@@ -10,6 +10,6 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/5508)\)
 
   O\. Krauss, D\. Wilfing, A\. Schuler – ARISE
-url: http://research.fh-ooe.at/de/publication/5508
+external_url: http://research.fh-ooe.at/de/publication/5508
 ---
 

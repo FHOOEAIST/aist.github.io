@@ -11,10 +11,7 @@ layout: default
   </header>
 
   {% if page.doi %}
-  <p><strong>DOI:</strong> <a href="https://doi.org/{{ page.doi }}" class="doi-link">{{ page.doi }}</a></p>
-  {% endif %}
-  {% if page.url and page.url != page.permalink %}
-  <p><strong>URL:</strong> <a href="{{ page.url }}">{{ page.url }}</a></p>
+  <p><strong>DOI:</strong> <a href="{{ page.doi }}" class="doi-link">{{ page.doi | remove: "https://doi.org/" }}</a></p>
   {% endif %}
   {% if page.attachment %}
   <p><strong>{% if site.active_lang == 'de' %}Anhang{% else %}Attachment{% endif %}:</strong> <a href="{{ page.attachment }}" class="btn">Download</a></p>

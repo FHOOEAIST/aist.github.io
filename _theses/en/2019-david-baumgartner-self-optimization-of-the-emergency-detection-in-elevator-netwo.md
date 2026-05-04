@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:david-baumgartner-self-optimization-of-the-emergency-detection-in-elevator-netwo
 permalink: /theses/david-baumgartner-self-optimization-of-the-emergency-detection-in-elevator-netwo/
-year: "2019"
+date: 2019-01-01
 title: Self-optimization of the emergency detection in elevator networks
 student: David Baumgartner
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-eden

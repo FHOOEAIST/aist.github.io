@@ -10,6 +10,6 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/3253)\)
 
   G\. Zwettler, W\. Backfrieder
-url: http://research.fh-ooe.at/de/publication/3253
+external_url: http://research.fh-ooe.at/de/publication/3253
 ---
 

@@ -9,6 +9,6 @@ reference: >-
   \([Details](https://doi.org/10.1145/3387940.3392172)\)
 
   Krauss O\., Mössenböck H\., Affenzeller M\.
-url: https://doi.org/10.1145/3387940.3392172
+external_url: https://doi.org/10.1145/3387940.3392172
 ---
 

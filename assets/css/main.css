@@ -376,9 +376,58 @@ article img {
 }
 
 .publication-meta {
-  color: var(--color-text-light);
-  font-size: 0.9rem;
-  margin-bottom: 0.5rem;
+	color: var(--color-text-light);
+	font-size: 0.9rem;
+	margin-bottom: 0.5rem;
+}
+
+.publication-links {
+	font-size: 0.85rem;
+	margin-bottom: 0.25rem;
+}
+
+.publication-links a {
+	color: var(--color-primary);
+	word-break: break-all;
+}
+
+.publication-abstract {
+	margin-top: 0.75rem;
+}
+
+.category-filter {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 0.5rem;
+	margin-bottom: 1.5rem;
+	padding: 0.75rem 0;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.category-filter-label {
+	font-size: 0.9rem;
+	font-weight: var(--font-weight-bold);
+	color: var(--color-heading);
+}
+
+.category-btn {
+	background: var(--color-primary);
+	color: var(--color-white);
+	padding: 0.35rem 0.9rem;
+	font-size: 0.85rem;
+	font-family: var(--font-body);
+	cursor: pointer;
+	transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.category-btn:hover {
+	background: var(--color-primary-light);
+}
+
+.category-btn.active {
+	background: var(--color-primary-light);
+	color: var(--color-white);
 }
 
 .thesis-entry {
@@ -671,18 +720,25 @@ article img {
 .js .gallery {
   position: relative;
   margin: 1.5rem 0;
+  max-height: 80vh;
 }
 
 .js .gallery img {
-  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: contain;
+  margin-bottom: 0;
   border-radius: var(--border-radius);
   cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
 .js .gallery img.active {
-  display: block;
+  opacity: 1;
 }
 
 .js .gallery img.active:hover {
@@ -730,13 +786,16 @@ article img {
 .gallery-counter {
   display: none;
   text-align: center;
-  margin-top: 0.5rem;
   font-size: 0.875rem;
   color: var(--color-text-light);
 }
 
 .js .gallery-counter {
   display: block;
+  position: absolute;
+  bottom: -1.5rem;
+  left: 0;
+  right: 0;
 }
 
 .gallery-lightbox {
@@ -942,11 +1001,6 @@ footer a:hover {
     --spacing-unit: 16px;
   }
 
-  .js .gallery {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.75rem;
-  }
-
   h1 {
     font-size: 1.75rem;
   }
@@ -1049,5 +1103,14 @@ footer a:hover {
 
   .gallery-lightbox {
     display: none !important;
+  }
+
+  .gallery img {
+    position: static;
+    opacity: 1;
+    width: 100%;
+    height: auto;
+    object-fit: fill;
+    margin-bottom: 0.5rem;
   }
 }

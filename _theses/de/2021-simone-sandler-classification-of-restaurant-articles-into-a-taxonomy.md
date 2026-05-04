@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:simone-sandler-classification-of-restaurant-articles-into-a-taxonomy
+permalink: /theses/simone-sandler-classification-of-restaurant-articles-into-a-taxonomy/
 date: 2021-01-01
 title: Classification of Restaurant Articles into a Taxonomy
 student: Simone Sandler

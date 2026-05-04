@@ -9,6 +9,6 @@ reference: >-
   Companion \([Details](https://dl.acm.org/authorize?N676105)\)
 
   Krauss, O\. Mössenböck, H\. Affenzeller, M\. – GCE
-url: https://dl.acm.org/authorize?N676105
+external_url: https://dl.acm.org/authorize?N676105
 ---
 

@@ -8,5 +8,6 @@ title: Analysis of Heart Rate Variability (HRV) Feature Robustness for Measuring
 reference: |-
   Information Systems and Neuroscience, p\. 221 – 228, Springer Verlag
   Baumgartner D\., Fischer T\. Riedl R\., Dreiseitl S\.
+category: eHealth
 ---
 

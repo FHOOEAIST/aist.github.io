@@ -7,5 +7,6 @@ title: Projekt e-Care – Ein Schritt in Richtung Integrierte Versorgung
 reference: |-
   ÖKZ Das österreichische Gesundheitswesen, Vol\. 51, No\. 7, 2010, pp\. 9\-11
   B\. Franz, M\. Lehner, M\. Mayr
+category: eHealth
 ---
 

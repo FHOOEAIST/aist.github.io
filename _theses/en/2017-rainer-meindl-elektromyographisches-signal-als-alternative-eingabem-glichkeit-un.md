@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:rainer-meindl-elektromyographisches-signal-als-alternative-eingabem-glichkeit-un
 permalink: /theses/rainer-meindl-elektromyographisches-signal-als-alternative-eingabem-glichkeit-un/
-year: "2017"
+date: 2017-01-01
 title: Electromyographic Signal as an Alternative Input System for Android
 student: Rainer Meindl
 project_url: https://aist.fh-hagenberg.at/index.php/en/projects/project-psii-rehab-2

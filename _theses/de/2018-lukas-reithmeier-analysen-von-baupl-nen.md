@@ -1,5 +1,7 @@
 ---
 lang: de
+page_id: thesis:lukas-reithmeier-analysen-von-baupl-nen
+permalink: /theses/lukas-reithmeier-analysen-von-baupl-nen/
 date: 2018-01-01
 title: Analysen von Bauplänen
 student: Lukas Reithmeier

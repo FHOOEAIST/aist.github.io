@@ -9,6 +9,7 @@ reference: >-
   2017\) \([Details](http://toc.proceedings.com/36085webtoc.pdf)\)
 
   E\. Helm, B\. Franz, A\. Schuler, O\. Krauss, J\. Küng
-url: http://toc.proceedings.com/36085webtoc.pdf
+category: eHealth
+external_url: http://toc.proceedings.com/36085webtoc.pdf
 ---
 
