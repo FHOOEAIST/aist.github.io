@@ -11,6 +11,10 @@
             rel="stylesheet"
             href="{{ '/assets/css/main.css' | relative_url }}"
         />
+        <pagefind-config bundle-path="{{ '/pagefind/' | relative_url }}"></pagefind-config>
+        <link href="{{ '/pagefind/pagefind-component-ui.css' | relative_url }}" rel="stylesheet">
+        <script src="{{ '/pagefind/pagefind-component-ui.js' | relative_url }}" type="module"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         {% if page.css %}
         <link
             rel="stylesheet"
@@ -251,6 +255,19 @@
                     });
                 }
             });
+
+            // Auto-expand listing items when navigated via hash anchor
+            function handleHashTarget() {
+                var hash = window.location.hash;
+                if (!hash) return;
+                var target = document.querySelector(hash);
+                if (!target) return;
+                var item = target.closest('.listing-item') || target;
+                var content = item.querySelector('.listing-content');
+                if (content) content.classList.remove('closed');
+            }
+            window.addEventListener('hashchange', handleHashTarget);
+            handleHashTarget();
         </script>
     </head>
     <body>
@@ -298,12 +315,16 @@
                         </a>
                         {% endif %}
                     {% endfor %}
+                    <button class="search-toggle" onclick="customElements.whenDefined('pagefind-modal').then(function(){document.querySelector('pagefind-modal').open()})" aria-label="{% if site.active_lang == 'en' %}Search{% else %}Suche{% endif %}" title="{% if site.active_lang == 'en' %}Search{% else %}Suche{% endif %} (Ctrl+K)">
+                        <i class="fas fa-search"></i>
+                    </button>
                     {% include language-switcher.html %}
+                    <pagefind-modal></pagefind-modal>
                 </nav>
             </div>
         </header>
 
-        <main>
+        <main data-pagefind-body>
             <div>{{ content }}</div>
         </main>
 

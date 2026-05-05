@@ -7,27 +7,34 @@ page_id: theses-index
 ---
 
 <div class="page-header">
-  <h1>Theses</h1>
-  <p>
-      The research group AIST offers students the opportunity to deal with their diploma theses (Bachelor, Master) in the context of research projects in a practical way and thus to deal with the respective topic area more intensively. The practical support is provided by a research assistant (in addition to the assessor from the University of Applied Sciences).
-  </p>
+    <h1>Theses</h1>
+    <p>
+        The research group AIST offers students the opportunity to deal with
+        their diploma theses (Bachelor, Master) in the context of research
+        projects in a practical way and thus to deal with the respective topic
+        area more intensively. The practical support is provided by a research
+        assistant (in addition to the assessor from the University of Applied
+        Sciences).
+    </p>
 </div>
 
 <div class="listing-items">
-{% assign en_theses = site.theses | where: "lang", "en" | sort: "date" | reverse %}
-{% assign year = "" %}
-{% for thesis in en_theses %}
-    {% assign thesis_year = thesis.date | date: "%Y" %}
-    {% if thesis_year != year %}
-        <h2 class="mt-3">{{ thesis_year }}</h2>
-        {% assign year = thesis_year %}
-    {% endif %}
+    {% assign en_theses = site.theses | where: "lang", "en" | sort: "date" |
+    reverse %} {% assign year = "" %} {% for thesis in en_theses %} {% assign
+    thesis_year = thesis.date | date: "%Y" %} {% if thesis_year != year %}
+    <h2 class="mt-3">{{ thesis_year }}</h2>
+    {% assign year = thesis_year %} {% endif %}
     <div class="listing-item thesis-entry collapsible">
-        <h3 class="listing-title">{{ thesis.title }} ({{ thesis.student }}, {{ thesis.date | date: "%Y" }})</h3>
+        <h3 class="listing-title" id="{{ thesis.permalink | slugify }}">
+            {{ thesis.title }} ({{ thesis.student }}, {{ thesis.date | date:
+            "%Y" }})
+        </h3>
         <div class="listing-content">
-            {% if thesis.student %}<p class="thesis-meta">{{ thesis.student }}</p>{% endif %}
+            {% if thesis.student %}
+            <p class="thesis-meta">{{ thesis.student }}</p>
+            {% endif %}
             <p>{{thesis.content}}</p>
         </div>
     </div>
-{% endfor %}
+    {% endfor %}
 </div>

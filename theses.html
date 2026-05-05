@@ -7,27 +7,34 @@ page_id: theses-index
 ---
 
 <div class="page-header">
-  <h1>Diplomarbeiten</h1>
-  <p>
-      Die Forschungsgruppe AIST bietet Studenten*innen die Möglichkeit sich mit ihren Diplomarbeiten (Bachelor, Master) im Rahmen von Forschungsprojekten praktisch auseinander zu setzen und sich so mit dem jeweiligen Themengebiet intensiver zu beschäftigen. Die praktische Betreuung erfolgt dabei durch einen wissenschaftlichen Mitarbeiter (zusätzlich zum Begutachter seitens der Fachhochschule).
-  </p>
+    <h1>Diplomarbeiten</h1>
+    <p>
+        Die Forschungsgruppe AIST bietet Studenten*innen die Möglichkeit sich
+        mit ihren Diplomarbeiten (Bachelor, Master) im Rahmen von
+        Forschungsprojekten praktisch auseinander zu setzen und sich so mit dem
+        jeweiligen Themengebiet intensiver zu beschäftigen. Die praktische
+        Betreuung erfolgt dabei durch einen wissenschaftlichen Mitarbeiter
+        (zusätzlich zum Begutachter seitens der Fachhochschule).
+    </p>
 </div>
 
 <div class="listing-items">
-{% assign de_theses = site.theses | where: "lang", "de" | sort: "date" | reverse %}
-{% assign year = "" %}
-{% for thesis in de_theses %}
-    {% assign thesis_year = thesis.date | date: "%Y" %}
-    {% if thesis_year != year %}
-        <h2 class="mt-3">{{ thesis_year }}</h2>
-        {% assign year = thesis_year %}
-    {% endif %}
+    {% assign de_theses = site.theses | where: "lang", "de" | sort: "date" |
+    reverse %} {% assign year = "" %} {% for thesis in de_theses %} {% assign
+    thesis_year = thesis.date | date: "%Y" %} {% if thesis_year != year %}
+    <h2 class="mt-3">{{ thesis_year }}</h2>
+    {% assign year = thesis_year %} {% endif %}
     <div class="listing-item thesis-entry collapsible">
-        <h3 class="listing-title">{{ thesis.title }} ({{ thesis.student }}, {{ thesis.date | date: "%Y" }})</h3>
+        <h3 class="listing-title" id="{{ thesis.permalink | slugify }}">
+            {{ thesis.title }} ({{ thesis.student }}, {{ thesis.date | date:
+            "%Y" }})
+        </h3>
         <div class="listing-content">
-            {% if thesis.student %}<p class="thesis-meta">{{ thesis.student }}</p>{% endif %}
+            {% if thesis.student %}
+            <p class="thesis-meta">{{ thesis.student }}</p>
+            {% endif %}
             <p>{{thesis.content}}</p>
         </div>
     </div>
-{% endfor %}
+    {% endfor %}
 </div>

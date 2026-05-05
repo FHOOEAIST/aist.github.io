@@ -39,12 +39,18 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - id: pages
         uses: actions/configure-pages@v5
 
       - run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
+      - run: npx pagefind --site _site
 
       - uses: actions/upload-pages-artifact@v3
 

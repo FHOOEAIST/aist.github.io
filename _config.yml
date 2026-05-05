@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title:output_ext
 
 languages: ["de", "en"]
 default_lang: "de"
-exclude_from_localization: ["javascript", "images", "css", "assets"]
+exclude_from_localization: ["javascript", "images", "css", "assets", "pagefind"]
 parallel_localization: false
 lang_from_path: true
 
