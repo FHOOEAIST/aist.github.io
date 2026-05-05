@@ -2,7 +2,7 @@
   label_de: "Über uns"
   label_en: "About"
   subitems:
-    - page_id: geschichte
+    - page_id: history
       label_de: Geschichte
       label_en: History
     - href: https://aist.myspreadshop.at/
