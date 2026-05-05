@@ -10,5 +10,6 @@ reference: >-
   Fachhochschule Kärnten, Villach, Österreich, 2009, pp\. 6
 
   G\. Zwettler, W\. Backfrieder, R\. Swoboda, F\. Pfeifer
+category: Computer Vision & Augmented Reality
 ---
 

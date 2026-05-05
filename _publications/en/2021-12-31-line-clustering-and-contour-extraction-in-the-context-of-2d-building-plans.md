@@ -8,6 +8,7 @@ reference: Pointner A\., Praschl C\., Krauss O\., Schuler A\., Helm E\., and
   Zwettler G\. \(2021\)\. Line Clustering and Contour Extraction in the Context
   of 2D Building Plans\. In Proceedings of 29\. International Conference in
   Central Europe on Computer Graphics, Visualization and Computer Vision\.
+category: Computer Vision & Augmented Reality
 doi: https://doi.org/10.24132/CSRN.2021.3101.2
 ---
 

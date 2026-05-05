@@ -11,5 +11,6 @@ reference: >-
 
   W\. Backfrieder, G\. Zwettler, R\. Swoboda, F\. Pfeifer, H\. Kratochwill, F\.
   Fellner
+category: Computer Vision & Augmented Reality
 ---
 

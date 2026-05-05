@@ -9,5 +9,6 @@ reference: >-
   St\. Magdalena, Linz, Austria, Österreich, 2008, pp\. 91\-102
 
   G\. Zwettler, W\. Backfrieder, F\. Pfeifer, R\. Swoboda
+category: Computer Vision & Augmented Reality
 ---
 

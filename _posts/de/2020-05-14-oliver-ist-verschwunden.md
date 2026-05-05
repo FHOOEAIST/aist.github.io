@@ -21,11 +21,15 @@ In der Kollaboration an UCL, am Centre for Research in Evolution, Search and Tes
 
 Beim nächsten Besuch in London kann Ich nur empfehlen einen Halt an der UCL zu machen und [Jeremy Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham), den „spirituellen Gründer“ von  UCL, zu besuchen\. Er ist so ein Workaholic dass er immer noch an Boardmeetings teilnimmt und sich davon auch nicht von seinem Tod vor beinahe 200 Jahren abhalten lässt\.
 
+   
+
 ### Forschungsaufenthalt an der Universität Edinburgh
 
 Beim Besuch in Edinburgh hat [Christophe Dubach](https://cdubach.bitbucket.io/), der Leiter des [LIFT](https://www.lift-project.org/) Projekts noch an der Universität als Professor gearbeitet\. Mittlerweile ist er an der [McGill](https://www.mcgill.ca/) Univesrität in Montreal beschäftigt, eine schöne Stadt in der man durchaus auch ein [Doktorat](https://cdubach.bitbucket.io/openings/) durchführen könnte\. Das LIFT Projekt ist eine funktionale Programmiersprache und Compiler die in Scala geschrieben sind und zu OpenCL kompiliert\.Das Ziel ist eine parallele Sprache bereitzustellen die auf Grafikkarten ausführbar ist\. Optimierungen in LIFT funktionieren über Rewrite\-Regeln die semantische Äquivalenz garantieren wenn ein Syntaxbaum aus LIFT umgeschrieben wird\.
 
 Der Fokus der Kollaboration liegt darin Genetische Algorithmen zu verwenden um die Selektion und Sequenzen der Rewrite\-Rules zu verbessern und LIFT funktionen zu optimieren\.
+
+   
 
 ### HL7 Arbeitsgruppentreffen \(WGM\) 2020 Sydney
 

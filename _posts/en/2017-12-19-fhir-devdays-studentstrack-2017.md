@@ -13,6 +13,8 @@ title_image: /assets/images/news/FHIR_DevDays_&_StudentsTrack_2017_title.jpg
 
 This year 5 of our students had the opportunity to be part of the StudentsTrack\. There they could network with other students from different countries and test the interoperability of their implementation concernin MedicationStatement in a small Connectathon\. In the end the great results were presented to a jury consisting of FHIR experts\. Another highlight was the visit of [ChipSoft](https://www.chipsoft.nl/)\. Thanks to the ChipSoft\-Team for the great organization\!
 
+   
+
 We are looking forward to be part of the[ FHIR DevDays 2018](http://www.fhirdevdays.com/)\.
 
 ## Gallery

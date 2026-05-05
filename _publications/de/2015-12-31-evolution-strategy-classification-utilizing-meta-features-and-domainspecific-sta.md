@@ -11,5 +11,6 @@ reference: >-
   Communications Technologies \(ICCCT’15\), Chennai, Indien, 2015, pp\. 1\-7
 
   G\. Zwettler, W\. Backfrieder
+category: Computer Vision & Augmented Reality
 ---
 

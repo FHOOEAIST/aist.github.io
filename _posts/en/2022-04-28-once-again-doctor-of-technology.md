@@ -13,6 +13,8 @@ Almost exactly one year has passed since Emmanuel Helm successfully completed hi
 
 We congratulate him on this special success and wish him all the best for the future\!
 
+   
+
 P\.S\. In old Finnish tradition we were allowed to present a sword to Emmanuel Helm for his successful graduation\.
 
 ## Gallery

@@ -7,6 +7,7 @@ title: Mining Attributed Input Grammars and their Applications in Fuzzing
 reference: A\. Pointner, „Mining Attributed Input Grammars and their
   Applications in Fuzzing,“ _2023 IEEE Conference on Software Testing,
   Verification and Validation \(ICST\)_, Dublin, Ireland, 2023, pp\. 493\-495
+category: Machine Learning & Data Science
 doi: https://doi.org/10.1109/ICST57152.2023.00059
 ---
 

@@ -13,6 +13,8 @@ We are delighted that our colleague Christoph Praschl was awarded the Young Rese
 
 We also congratulate our two colleagues Sarah Heupl and Julia Maurer on receiving the Young Researcher Prize, as well as Stephan Winkler, Jaroslaw Jacak and Markus Gerschberger on receiving the 2025 Researcher Prizes\.
 
+   
+
 Photo Credit: B\. Plank – imBILDE\.at
 
 ## Gallery

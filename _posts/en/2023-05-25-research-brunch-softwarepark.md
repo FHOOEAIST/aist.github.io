@@ -13,6 +13,8 @@ A series of events was launched at Softwarepark Hagenberg as the “Research Bru
 
 We would like to take this opportunity to thank all participants for the interesting presentations and the discussions during the first “Research Brunch”\.
 
+   
+
 Photos © Softwarepark Hagenberg
 
 ## Gallery

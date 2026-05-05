@@ -12,6 +12,7 @@ reference: >-
   News Papers Using Machine Learning**“ in _Proceedings of International
   Conference on Electrical, Computer, Communications and Mechatronics
   Engineering \(ICECCME\), 2022\._
+category: Machine Learning & Data Science
 ---
 
 Heutzutage verbreiten sich Nachrichten schnell, und es ist für den Leser nicht immer klar, ob ein Artikel echt oder gefälscht ist\. Außerdem nutzen die Leser nur einige wenige Quellen, um die Nachrichten zu lesen, ohne die Qualität der Quelle zu kennen\. Dies ist auf einen Mangel an aktuellen

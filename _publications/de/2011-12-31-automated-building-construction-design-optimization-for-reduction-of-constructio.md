@@ -11,5 +11,6 @@ reference: >-
 
   G\. Zwettler, S\. Hinterholzer, F\. Waschaurek, R\. Woschitz, E\. Hagmann, P\.
   Track
+category: Computer Vision & Augmented Reality
 ---
 

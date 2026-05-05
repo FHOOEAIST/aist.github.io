@@ -13,6 +13,8 @@ Es ist beinahe auf den Tag genau ein Jahr vergangen, seitdem Emmanuel Helm seine
 
 Wir gratulieren ganz herzlich zu diesem besonderen Erfolg und wünschen das allerbeste für die weitere Zukunft\!
 
+   
+
 P\.S\. In alter finnischer Tradition durften wir ebenso wie bei Emmanuel Helm zum erfolgreichen Abschluss ein Schwert überreichen\.
 
 ## Gallery

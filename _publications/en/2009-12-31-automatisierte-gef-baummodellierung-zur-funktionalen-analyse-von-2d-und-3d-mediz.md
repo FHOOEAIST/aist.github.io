@@ -8,5 +8,6 @@ title: Automatisierte Gefäßbaummodellierung zur funktionalen Analyse von 2D un
 reference: |-
   Master/Diploma Thesis, FH OÖ Fakultät Hagenberg, Österreich, 2009, pp\. 104
   G\. Zwettler
+category: Computer Vision & Augmented Reality
 ---
 

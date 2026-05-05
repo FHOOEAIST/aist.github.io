@@ -21,11 +21,15 @@ So what we did during the collaboration at the Centre for Research in Evolution,
 
 If you get to visit London the next time, be sure to stop by at UCL and visit [Jeremy Bentham](https://en.wikipedia.org/wiki/Jeremy_Bentham), the spiritual founder of UCL, and so dedicated to his job that he is still attending board meetings even now, close to 200 years after his death\.
 
+   
+
 ### Research Stay at the University of Edinburgh
 
 When visiting [Christophe Dubach](https://cdubach.bitbucket.io/) who is the lead of the [LIFT](https://www.lift-project.org/) project was still employed at the University\. He has since moved on to [McGill](https://www.mcgill.ca/) Univesity in Montreal, which is a really beautiful city and you should consider doing a [PHD](https://cdubach.bitbucket.io/openings/) there\. The LIFT project is a language and compiler written in Scala and cross compiling to OpenCL code\. The target is to proide a functional language that is highly parallelized\. Optimization in LIFT works based on rewriting\-rules that guarantee semantic equivalence when rewriting a given LIFT function\.
 
 The focus of the collaboration lies on utilizing Genetic Algorithms to select and sequence these rewriting rules to optimize given LIFT functions, with the target of providing this as an internal compiler optimization\.
+
+   
 
 ### HL7 Working Group Meeting \(WGM\) 2020 Sydney
 

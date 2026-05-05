@@ -15,6 +15,8 @@ Together with our project partners we are proud to have received two of the five
 
 Furthermore, we congratulate our former project partner Rewellio \(formerly [psii\.rehab](https://aist.fh-hagenberg.at/index.php/en/projects/project-psii-rehab-2)\) for the received prize\.
 
+   
+
 You can find more photos at [cityfoto\.at](https://www.cityfoto.at/content/de/fotogalerie/15308?img=1877190)\.
 
 ## Gallery

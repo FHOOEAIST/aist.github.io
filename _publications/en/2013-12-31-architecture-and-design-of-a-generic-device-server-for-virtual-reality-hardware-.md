@@ -10,6 +10,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/3253)\)
 
   G\. Zwettler, W\. Backfrieder
+category: Computer Vision & Augmented Reality
 external_url: http://research.fh-ooe.at/de/publication/3253
 ---
 

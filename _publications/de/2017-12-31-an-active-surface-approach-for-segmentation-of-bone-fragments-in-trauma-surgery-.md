@@ -10,5 +10,6 @@ reference: >-
   Care \(IWISH\), Barcelona, Spanien, 2017, pp\. 26\-31
 
   W\. Backfrieder, B\. Kerschbaumer, G\. Zwettler
+category: Computer Vision & Augmented Reality
 ---
 

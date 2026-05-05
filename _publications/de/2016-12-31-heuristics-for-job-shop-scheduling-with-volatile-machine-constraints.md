@@ -10,6 +10,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/5508)\)
 
   O\. Krauss, D\. Wilfing, A\. Schuler – ARISE
+category: Machine Learning & Data Science
 external_url: http://research.fh-ooe.at/de/publication/5508
 ---
 

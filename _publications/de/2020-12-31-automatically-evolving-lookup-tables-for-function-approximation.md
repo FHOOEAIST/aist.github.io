@@ -10,6 +10,7 @@ reference: >-
   \([Details](https://link.springer.com/chapter/10.1007%2F978-3-030-44094-7_6)\)
 
   Krauss O\., Langdon W\.B\.
+category: Machine Learning & Data Science
 external_url: https://link.springer.com/chapter/10.1007%2F978-3-030-44094-7_6
 ---
 

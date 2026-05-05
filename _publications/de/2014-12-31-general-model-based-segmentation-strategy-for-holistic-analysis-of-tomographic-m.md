@@ -8,5 +8,6 @@ title: General Model-Based Segmentation Strategy for Holistic Analysis of
 reference: |-
   Phd Thesis, University Vienna, Austria, 2014, pp\. 1\-273
   G\. Zwettler
+category: Computer Vision & Augmented Reality
 ---
 

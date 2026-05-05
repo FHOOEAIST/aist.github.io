@@ -9,5 +9,6 @@ reference: >-
   Mining, June 24\-26, 2019, Aachen, Germany
 
   Baumgartner D\., Haghofer A\., Limberger M\., Helm E\.
+category: Machine Learning & Data Science
 ---
 

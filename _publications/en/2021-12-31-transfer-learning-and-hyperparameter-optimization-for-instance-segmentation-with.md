@@ -11,6 +11,7 @@ reference: "Reithmeier, L\\.; Krauss, O\\. and Zwettler, G\\.;  \\(2021\\)\\.
   the 16th International Joint Conference on Computer Vision, Imaging and
   Computer Graphics Theory and Applications – Volume 5: VISAPP, ISBN
   978\\-989\\-758\\-488\\-6\\."
+category: Computer Vision & Augmented Reality
 doi: https://doi.org/10.24132/CSRN.2021.3101.30
 ---
 

@@ -13,6 +13,8 @@ Als „Forschungsbrunch“ wurde im Softwarepark Hagenberg eine Eventreihe gesta
 
 An dieser Stelle möchten wir uns für die interessanten Vorträge und die Gespräche während des ersten „Forschungsbrunches“ bedanken\.
 
+   
+
 Fotos © Softwarepark Hagenberg
 
 ## Gallery

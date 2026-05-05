@@ -11,5 +11,6 @@ reference: >-
 
   S\. Porta, G\. Zwettler, W\. Kurschl, C\. Dinu, G\. Juttla, K\. Pichlkastner,
   H\. Gell, B\. Kaiser, K\. Kisters
+category: Computer Vision & Augmented Reality
 ---
 

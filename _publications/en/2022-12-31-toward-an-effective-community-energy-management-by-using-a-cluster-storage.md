@@ -7,6 +7,7 @@ title: Toward an Effective Community Energy Management by Using a Cluster Storag
 reference: A\. Veichtlbauer, C\. Praschl, L\. Gaisberger, G\. Steinmaurer and
   T\. I\. Strasser, „**Toward an Effective Community Energy Management by Using
   a Cluster Storage**,“ in _IEEE Access_, vol\. 10, pp\. 112286\-112306, 2022\.
+category: Machine Learning & Data Science
 doi: https://doi.org/10.1109/ACCESS.2022.3216298
 ---
 

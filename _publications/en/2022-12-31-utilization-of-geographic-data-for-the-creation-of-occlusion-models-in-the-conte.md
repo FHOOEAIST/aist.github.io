@@ -9,6 +9,7 @@ reference: Praschl C\., Thiele E\., Krauss O\. **„Utilization of Geographic Da
   for the Creation of Occlusion Models in the Context of Mixed Reality
   Applications“**\. Extended Reality, 1st ed\. Lecture Notes in Computer
   Science\. Volume 13446\. \(2022\)\.
+category: Computer Vision & Augmented Reality
 doi: https://doi.org/10.1007/978-3-031-15553-6
 ---
 

@@ -8,7 +8,7 @@ title: Generating actionable insights from Patient Medical Records and
 reference: Natasha Trajkovska, Michael Roiss, Sophie Bauernfeind, Mohammad
   Alnajdawi, Simone Sandler, Daniel Herzmanek, Matthias Winkler, Michael Haider,
   Oliver Krauss \(2024\)\. dHealth\.
-category: eHealth
+category: Machine Learning & Data Science
 doi: https://doi.org/10.3233/SHTI240015
 ---
 

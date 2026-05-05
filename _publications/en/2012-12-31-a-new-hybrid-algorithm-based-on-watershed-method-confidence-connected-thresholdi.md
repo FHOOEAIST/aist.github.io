@@ -11,5 +11,6 @@ reference: >-
   Vienna, Österreich, 2012, pp\. 73\-81
 
   G\. Zwettler, W\. Backfrieder
+category: Computer Vision & Augmented Reality
 ---
 

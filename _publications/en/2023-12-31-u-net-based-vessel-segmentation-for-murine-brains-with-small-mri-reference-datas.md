@@ -9,6 +9,7 @@ reference: Praschl C\., Zopf L\., Kiemeyer E\., Langthallner I\., Ritzberger
   D\., Slowak A\., Weigl M\., Blüml V\., Nešić N\., Stojmenović M\., Kniewallner
   K\.,Aigner L\., Winkler S\., Walter A\. **“U\-Net based vessel segmentation
   for murine brains with small μMRI reference datasets“\.**Plos one \(2023\)\.
+category: Computer Vision & Augmented Reality
 doi: https://doi.org/10.1371/journal.pone.0291946
 ---
 

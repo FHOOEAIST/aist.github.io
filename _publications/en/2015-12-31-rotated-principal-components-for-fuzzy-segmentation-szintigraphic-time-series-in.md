@@ -10,5 +10,6 @@ reference: >-
   Simulation for Healthcare , Bergeggi, Italien, 2015, pp\. 6
 
   W\. Backfrieder, G\. Zwettler
+category: Computer Vision & Augmented Reality
 ---
 

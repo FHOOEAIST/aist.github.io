@@ -9,5 +9,6 @@ reference: >-
   Pinkafeld, Österreich, 2010, pp\. 79\-84
 
   G\. Zwettler, W\. Backfrieder
+category: Computer Vision & Augmented Reality
 ---
 

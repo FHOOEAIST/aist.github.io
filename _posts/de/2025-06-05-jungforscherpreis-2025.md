@@ -13,6 +13,8 @@ Wir freuen uns sehr, dass unser Kollege Christoph Praschl am 4\. Juni 2025 mit d
 
 Wir gratulieren auch unseren beiden Kolleginnen Sarah Heupl und Julia Maurer zum verliehenen Jungerforscherpreis, sowie Stephan Winkler, Jaroslaw Jacak und Markus Gerschberger zu den erhaltenen Forscherpreisen 2025\.
 
+   
+
 Bildnachweis: B\. Plank – imBILDE\.at
 
 ## Gallery
