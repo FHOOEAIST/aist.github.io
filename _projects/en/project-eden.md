@@ -4,8 +4,6 @@ title: Project Eden
 logo: /assets/images/projects/Projekt_EDEN_logo.png
 page_id: projects:projekt-eden
 permalink: /projects/project-eden/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekt-eden
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-eden
 background: /assets/images/projects/Projekt_EDEN_background.jpg
 projects:
   - title: EDEN – Emergency Detection for Elevator Networks

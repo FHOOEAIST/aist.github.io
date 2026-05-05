@@ -4,8 +4,6 @@ title: Big Power Data
 logo: /assets/images/projects/Big_Power_Data_logo.png
 page_id: projects:big-power-data
 permalink: /projects/big-power-data/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/big-power-data
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/big-power-data
 background: /assets/images/projects/Big_Power_Data_background.jpg
 projects:
   - title: Big Power Data

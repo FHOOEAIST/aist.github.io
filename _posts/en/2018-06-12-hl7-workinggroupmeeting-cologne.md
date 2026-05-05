@@ -2,8 +2,6 @@
 lang: en
 date: 2018-06-12T15:01:15+02:00
 page_id: news:hl7-arbeitsgruppentreffen-koeln
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/06/12/hl7-arbeitsgruppentreffen-koeln
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/06/12/hl7-workinggroupmeeting-cologne
 title: HL7 Workinggroupmeeting Cologne
 title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_Köln_title.jpg
 

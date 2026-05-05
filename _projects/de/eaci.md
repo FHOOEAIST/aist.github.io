@@ -4,8 +4,6 @@ title: Eaci
 logo: /assets/images/projects/Eaci_logo.png
 page_id: projects:eaci
 permalink: /projects/eaci/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/eaci
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/eaci
 background: /assets/images/projects/Eaci_background.jpg
 projects:
   - title: Eaci

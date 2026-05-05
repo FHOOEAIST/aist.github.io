@@ -4,8 +4,6 @@ title: Virtual Advisor
 logo: /assets/images/projects/Virtueller_Berater_logo.png
 page_id: projects:virtueller-berater
 permalink: /projects/virtual-advisor/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/virtueller-berater
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/virtual-advisor
 background: /assets/images/projects/Virtueller_Berater_background.png
 projects:
   - title: Virtual Advisor

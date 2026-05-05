@@ -2,8 +2,6 @@
 lang: en
 date: 2023-11-22T10:42:53+01:00
 page_id: news:vorantreiben-der-softwareoptimierung-oliver-krauss-auf-dem-63-crest-open-workshop
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/11/22/vorantreiben-der-softwareoptimierung-oliver-krauss-auf-dem-63-crest-open-workshop
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/11/22/advancing-software-optimization-oliver-krauss-at-the-63rd-crest-open-workshop
 title: "Advancing Software Optimization: Oliver Krauss at the 63rd CREST Open
   Workshop"
 

@@ -4,8 +4,6 @@ title: "Project: Epilepsie Monitoring"
 logo: /assets/images/projects/Projekt_Epilepsie_Monitoring_logo.png
 page_id: projects:epilepsie-monitoring
 permalink: /projects/project-epilepsie-monitoring/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/epilepsie-monitoring
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-epilepsie-monitoring
 background: /assets/images/projects/Projekt_Epilepsie_Monitoring_background.jpg
 projects:
   - title: "Project: Epilepsie Monitoring"

@@ -2,8 +2,6 @@
 lang: en
 date: 2025-06-05T12:33:54+02:00
 page_id: news:jungforscherpreis-2025
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/06/05/jungforscherpreis-2025
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/06/05/young-researcher-award-2025
 title: Young Researcher Award 2025
 title_image: /assets/images/news/Jungforscherpreis_2025_title.jpg
 

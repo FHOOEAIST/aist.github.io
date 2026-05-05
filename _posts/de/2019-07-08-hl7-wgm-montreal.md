@@ -3,8 +3,6 @@ lang: de
 title: HL7 WGM Montreal
 date: 2019-07-08T18:04:22+02:00
 page_id: news:hl7-wgm-montreal
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2019/07/08/hl7-wgm-montreal
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2019/07/08/2392
 title_image: /assets/images/news/HL7_WGM_Montreal_title.jpg
 
 ---

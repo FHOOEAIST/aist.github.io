@@ -4,8 +4,6 @@ title: iReduce
 logo: /assets/images/projects/iReduce_logo.png
 page_id: projects:ireduce
 permalink: /projects/ireduce/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/ireduce
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/ireduce
 background: /assets/images/projects/iReduce_background.jpg
 projects:
   - title: iReduce

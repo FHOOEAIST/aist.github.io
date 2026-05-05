@@ -3,8 +3,6 @@ lang: de
 title: ARS Electronica Festival
 date: 2019-09-06T15:00:18+02:00
 page_id: news:ars-electronica-festival
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2019/09/06/ars-electronica-festival
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2019/09/06/ars-electronica-festival-2
 title_image: /assets/images/news/ARS_Electronica_Festival_title.jpg
 
 ---

@@ -2,8 +2,6 @@
 lang: en
 date: 2024-09-12T08:09:29+02:00
 page_id: news:speed-for-cause
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2024/09/12/speed-for-cause
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2024/09/12/speed-for-cause-2
 title: Speed for Cause
 title_image: /assets/images/news/Speed_for_Cause_title.jpg
 

@@ -3,8 +3,6 @@ lang: de
 title: Ein Schritt in die Zukunft
 date: 2021-08-06T07:42:37+02:00
 page_id: news:ein-schritt-in-die-zukunft
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2021/08/06/ein-schritt-in-die-zukunft
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2021/08/06/a-step-into-the-future
 title_image: /assets/images/news/Ein_Schritt_in_die_Zukunft_title.jpg
 
 ---

@@ -3,7 +3,6 @@ lang: de
 title: HL7 Jahrestagung 2016
 date: 2016-03-15T17:13:16+01:00
 page_id: news:hl7-jahrestagung-2016
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/03/15/hl7-jahrestagung-2016
 
 ---
 

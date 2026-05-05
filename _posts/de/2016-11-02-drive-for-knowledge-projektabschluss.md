@@ -3,8 +3,6 @@ lang: de
 title: Drive for Knowledge Projektabschluss
 date: 2016-11-02T09:07:10+01:00
 page_id: news:drive-for-knowledge-projektabschluss
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/11/02/drive-for-knowledge-projektabschluss
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2016/11/02/drive-for-knowledge-project-completion
 
 ---
 

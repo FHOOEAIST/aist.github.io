@@ -4,8 +4,6 @@ title: PICA
 logo: /assets/images/projects/PICA_logo.png
 page_id: projects:pica
 permalink: /projects/pica/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/pica
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/pica
 background: /assets/images/projects/PICA_background.jpg
 projects:
   - title: PICA - Process Intelligence and Conformance Auditing

@@ -4,8 +4,6 @@ title: Projekt Spectory
 logo: /assets/images/projects/Projekt_Spectory_logo.png
 page_id: projects:projekt-spectory
 permalink: /projects/projekt-spectory/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-spectory
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-spectory
 background: /assets/images/projects/Projekt_Spectory_background.jpg
 projects:
   - title: Projekt Spectory

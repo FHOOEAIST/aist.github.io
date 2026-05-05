@@ -3,8 +3,6 @@ lang: de
 title: Campus Hagenberg – Skitag
 date: 2025-02-14T11:49:13+01:00
 page_id: news:campus-hagenberg-skitag
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/02/14/campus-hagenberg-skitag
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/02/14/campus-hagenberg-ski-day
 title_image: /assets/images/news/Campus_Hagenberg_–_Skitag_title.jpg
 
 ---

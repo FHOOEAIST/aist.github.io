@@ -3,8 +3,6 @@ lang: de
 title: 3 Preise, 2 Preisträger
 date: 2022-12-16T07:29:44+01:00
 page_id: news:3-preise-2-preistraeger
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/12/16/3-preise-2-preistraeger
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/12/16/3-prizes-2-winners
 title_image: /assets/images/news/3_Preise,_2_Preisträger_title.jpg
 
 ---

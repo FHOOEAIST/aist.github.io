@@ -4,8 +4,6 @@ title: "Project: Predictive Innovation"
 logo: /assets/images/projects/Projekt_Predictive_Innovation_logo.png
 page_id: projects:projekt-predictive-innovation
 permalink: /projects/project-predictive-innovation/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-predictive-innovation
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-predictive-innovation
 background: /assets/images/projects/Projekt_Predictive_Innovation_background.jpg
 projects:
   - title: "Project: Predictive Innovation"

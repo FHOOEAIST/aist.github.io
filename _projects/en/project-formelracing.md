@@ -4,8 +4,6 @@ title: Project Cooperation Formelracing
 logo: /assets/images/projects/Projektkooperation_Formelracing_logo.png
 page_id: projects:projekt-formelracing
 permalink: /projects/project-formelracing/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-formelracing
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-formelracing
 background: /assets/images/projects/Projektkooperation_Formelracing_background.jpg
 projects:
   - title: Drive for Knowledge
@@ -43,4 +41,3 @@ In this project a car was expanded with additionals sensors so it can be used fo
 
 ### 2018 – Towards Retooling The Microsoft HoloLens As Outdoor AR And MR Device
 Proceedings of the 30th European Modeling and Simulation Symposium EMSS2018, Budapest, Ungarn, 2018C. Praschl, O. Krauss, G. Zwettler
-

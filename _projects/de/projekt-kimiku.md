@@ -4,8 +4,6 @@ title: Projekt Kimiku
 logo: /assets/images/projects/Projekt_Kimiku_logo.svg
 page_id: projects:projekt-kimiku
 permalink: /projects/projekt-kimiku/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-kimiku
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-kimiku
 background: /assets/images/projects/Projekt_Kimiku_background.jpg
 projects:
   - title: Projekt Kimiku

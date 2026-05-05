@@ -3,8 +3,6 @@ lang: de
 title: HL7 Arbeitsgruppentreffen Madrid
 date: 2017-05-22T14:09:12+02:00
 page_id: news:hl7-arbeitsgruppentreffen-madrid
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/05/22/hl7-arbeitsgruppentreffen-madrid
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/05/22/hl7-workgroup-meeting-madrid
 title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_Madrid_title.jpg
 
 ---

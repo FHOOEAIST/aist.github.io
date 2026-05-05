@@ -4,8 +4,6 @@ title: Projekt TrueSize
 logo: /assets/images/projects/Projekt_TrueSize_logo.svg
 page_id: projects:projekt-truesize
 permalink: /projects/projekt-truesize/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-truesize
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-truesize
 background: /assets/images/projects/Projekt_TrueSize_background.jpg
 projects:
   - title: Projekt TrueSize

@@ -4,8 +4,6 @@ title: Projekt OPPA
 logo: /assets/images/projects/Projekt_OPPA_logo.png
 page_id: projects:project-oppa
 permalink: /projects/project-oppa/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/project-oppa
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-oppa
 background: /assets/images/projects/Projekt_OPPA_background.jpg
 projects:
   - title: Projekt OPPA

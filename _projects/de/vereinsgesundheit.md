@@ -4,8 +4,6 @@ title: Vereinsgesundheit
 logo: /assets/images/projects/Vereinsgesundheit_logo.png
 page_id: projects:vereinsgesundheit
 permalink: /projects/vereinsgesundheit/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/vereinsgesundheit
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/association-health
 background: /assets/images/projects/Vereinsgesundheit_background.jpg
 projects:
   - title: Vereinsgesundheit

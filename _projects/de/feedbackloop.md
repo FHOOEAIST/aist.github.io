@@ -4,8 +4,6 @@ title: Feedbackloop
 logo: /assets/images/projects/Feedbackloop_logo.png
 page_id: projects:feedbackloop
 permalink: /projects/feedbackloop/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/feedbackloop
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/feedbackloop
 background: /assets/images/projects/Feedbackloop_background.jpg
 projects:
   - title: Feedbackloop

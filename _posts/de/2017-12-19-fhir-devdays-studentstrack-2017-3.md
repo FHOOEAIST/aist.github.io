@@ -3,8 +3,6 @@ lang: de
 title: FHIR DevDays & StudentsTrack 2017
 date: 2017-12-19T14:11:19+01:00
 page_id: news:fhir-devdays-studentstrack-2017-3
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/12/19/fhir-devdays-studentstrack-2017-3
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/12/19/fhir-devdays-studentstrack-2017
 title_image: /assets/images/news/FHIR_DevDays_&_StudentsTrack_2017_title.jpg
 
 ---

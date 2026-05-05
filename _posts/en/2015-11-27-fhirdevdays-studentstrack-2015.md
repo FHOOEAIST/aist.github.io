@@ -2,8 +2,6 @@
 lang: en
 date: 2015-11-27T15:02:00+01:00
 page_id: news:fhirdevdays-studentstrack
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2015/11/27/fhirdevdays-studentstrack
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2015/11/27/fhirdevdays-studentstrack-2015
 title: FHIRDevDays & StudentsTrack 2015
 title_image: /assets/images/news/FHIRDevDays_&_StudentsTrack_2015_title.png
 

@@ -4,8 +4,6 @@ title: Projekt ARRR
 logo: /assets/images/projects/Projekt_ARRR_logo.png
 page_id: projects:projekt-arrr
 permalink: /projects/projekt-arrr/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-arrr
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-arrr
 background: /assets/images/projects/Projekt_ARRR_background.jpg
 projects:
   - title: Projekt ARRR

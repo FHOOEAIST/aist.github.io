@@ -4,8 +4,6 @@ title: Lernen im Schlaf
 logo: /assets/images/projects/Lernen_im_Schlaf_logo.png
 page_id: projects:lernen-im-schlaf
 permalink: /projects/lernen-im-schlaf/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/lernen-im-schlaf
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/learning-while-asleep
 background: /assets/images/projects/Lernen_im_Schlaf_background.png
 projects:
   - title: Lernen im Schlaf

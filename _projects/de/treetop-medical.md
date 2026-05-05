@@ -4,8 +4,6 @@ title: Treetop Medical
 logo: /assets/images/projects/Treetop_Medical_logo.png
 page_id: projects:treetop-medical
 permalink: /projects/treetop-medical/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/treetop-medical
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/treetop-medical
 background: /assets/images/projects/Treetop_Medical_background.jpg
 projects:
   - title: Treetop Medical

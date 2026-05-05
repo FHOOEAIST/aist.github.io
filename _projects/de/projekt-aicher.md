@@ -4,8 +4,6 @@ title: Projekt Aicher
 logo: /assets/images/projects/Projekt_Aicher_logo.png
 page_id: projects:projekt-aicher
 permalink: /projects/projekt-aicher/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-aicher
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-aicher
 background: /assets/images/projects/Projekt_Aicher_background.jpg
 projects:
   - title: PASS – Plan Analysis using Self-learning Solutions

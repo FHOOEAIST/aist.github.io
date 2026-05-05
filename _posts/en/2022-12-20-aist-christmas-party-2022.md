@@ -2,8 +2,6 @@
 lang: en
 date: 2022-12-20T15:13:08+01:00
 page_id: news:aist-weihnachtsfeier-2022
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/12/20/aist-weihnachtsfeier-2022
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/12/20/aist-christmas-party-2022
 title: AIST Christmas Party 2022
 title_image: /assets/images/news/AIST_Weihnachtsfeier_2022_title.jpg
 

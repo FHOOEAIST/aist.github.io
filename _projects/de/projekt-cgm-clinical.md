@@ -4,8 +4,6 @@ title: Projekt CGM Clinical
 logo: /assets/images/projects/Projekt_CGM_Clinical_logo.png
 page_id: projects:projekt-cgm-clinical
 permalink: /projects/projekt-cgm-clinical/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-cgm-clinical
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-cgm-clinical
 background: /assets/images/projects/Projekt_CGM_Clinical_background.jpg
 projects:
   - title: Projekt CGM Clinical

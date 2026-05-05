@@ -2,8 +2,6 @@
 lang: en
 date: 2023-01-12T14:59:27+01:00
 page_id: news:besuch-der-medizinischen-fakultaet-der-johannes-keppler-universitaet
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/01/12/besuch-der-medizinischen-fakultaet-der-johannes-keppler-universitaet
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/01/12/visit-to-the-medical-faculty-of-the-johannes-keppler-university
 title: Visit of the Medical Faculty of the Johannes Kepler University
 title_image: /assets/images/news/Besuch_der_Medizinischen_Fakultät_der_Johannes_Kepler_Universität_title.jpg
 

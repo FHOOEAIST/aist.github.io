@@ -4,8 +4,6 @@ title: AG-Fuzzer
 logo: /assets/images/projects/AG-Fuzzer_logo.png
 page_id: projects:ag-fuzzer
 permalink: /projects/ag-fuzzer/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/ag-fuzzer
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/ag-fuzzer
 background: /assets/images/projects/AG-Fuzzer_background.jpg
 projects:
   - title: AG-Fuzzer

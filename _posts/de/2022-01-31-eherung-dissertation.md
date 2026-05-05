@@ -3,8 +3,6 @@ lang: de
 title: Ehrung Dissertation
 date: 2022-01-31T10:28:04+01:00
 page_id: news:eherung-dissertation
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/01/31/eherung-dissertation
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/01/31/dissertation-honor
 title_image: /assets/images/news/Ehrung_Dissertation_title.jpg
 
 ---

@@ -4,8 +4,6 @@ title: Projekt EINTOPF
 logo: /assets/images/projects/Projekt_EINTOPF_logo.png
 page_id: projects:projekt-eintopf
 permalink: /projects/projekt-eintopf/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-eintopf
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-eintopf
 background: /assets/images/projects/Projekt_EINTOPF_background.jpg
 projects:
   - title: Projekt EINTOPF

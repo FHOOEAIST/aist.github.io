@@ -4,8 +4,6 @@ title: Projekt Psii Rehab
 logo: /assets/images/projects/Projekt_Psii_Rehab_logo.png
 page_id: projects:project-psii-rehab
 permalink: /projects/project-psii-rehab/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/project-psii-rehab
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-psii-rehab-2
 background: /assets/images/projects/Projekt_Psii_Rehab_background.jpg
 projects:
   - title: Projekt Psii Rehab

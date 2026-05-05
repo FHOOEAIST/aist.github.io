@@ -2,8 +2,6 @@
 lang: en
 date: 2023-07-04T08:03:51+02:00
 page_id: news:verstaerkung-der-rg-aist
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/07/04/verstaerkung-der-rg-aist
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/07/04/reinforcement-of-the-rg-aist
 title: Reinforcement of the RG AIST
 title_image: /assets/images/news/Verstärkung_der_RG_AIST_title.jpg
 

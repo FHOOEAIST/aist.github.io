@@ -4,8 +4,6 @@ title: Career Advisory System
 logo: /assets/images/projects/Career_Advisory_System_logo.png
 page_id: projects:career-advisory-system
 permalink: /projects/career-advisory-system/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/career-advisory-system
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/career-advisory-system
 background: /assets/images/projects/Career_Advisory_System_background.jpg
 projects:
   - title: Career Advisory System

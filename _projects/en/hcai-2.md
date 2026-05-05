@@ -4,8 +4,6 @@ title: Human-Centered Artificial Intelligence
 logo: /assets/images/projects/Human-Centered_Artificial_Intelligence_logo.png
 page_id: projects:6631-2
 permalink: /projects/hcai-2/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/6631-2
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/hcai-2
 background: /assets/images/projects/Human-Centered_Artificial_Intelligence_background.jpg
 projects:
   - title: Human-Centered Artificial Intelligence

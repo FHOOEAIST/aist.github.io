@@ -4,8 +4,6 @@ title: Real-ID
 logo: /assets/images/projects/Real-ID_logo.png
 page_id: projects:real-id
 permalink: /projects/real-id/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/real-id
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/real-id-3
 background: /assets/images/projects/Real-ID_background.jpg
 projects:
   - title: Real-ID

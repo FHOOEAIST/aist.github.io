@@ -3,7 +3,6 @@ lang: de
 title: Gratuliere Johannes!
 date: 2016-05-21T16:44:04+02:00
 page_id: news:gratuliere-johannes
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/05/21/gratuliere-johannes
 
 ---
 

@@ -3,8 +3,6 @@ lang: de
 title: DEXA / ITBAM 2016 in Porto
 date: 2016-12-01T15:02:08+01:00
 page_id: news:dexa-itbam-2016-in-porto
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/12/01/dexa-itbam-2016-in-porto
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2016/09/07/presentation-for-itbam16-in-porto
 title_image: /assets/images/news/DEXA_/_ITBAM_2016_in_Porto_title.jpg
 
 ---

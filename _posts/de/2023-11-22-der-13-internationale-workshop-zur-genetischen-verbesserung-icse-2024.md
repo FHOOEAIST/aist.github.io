@@ -3,8 +3,6 @@ lang: de
 title: Der 13. Internationale Workshop zur genetischen Verbesserung @ICSE 2024
 date: 2023-11-22T10:47:29+01:00
 page_id: news:der-13-internationale-workshop-zur-genetischen-verbesserung-icse-2024
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/11/22/der-13-internationale-workshop-zur-genetischen-verbesserung-icse-2024
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/11/22/the-13th-international-workshop-on-genetic-improvement-icse-2024
 
 ---
 

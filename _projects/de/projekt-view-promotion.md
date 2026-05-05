@@ -4,8 +4,6 @@ title: Projekt View Promotion
 logo: /assets/images/projects/Projekt_View_Promotion_logo.png
 page_id: projects:projekt-view-promotion
 permalink: /projects/projekt-view-promotion/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-view-promotion
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-view-promotion
 background: /assets/images/projects/Projekt_View_Promotion_background.jpg
 projects:
   - title: ARISE – Advertisement Recommendation and Intelligent Scheduling for

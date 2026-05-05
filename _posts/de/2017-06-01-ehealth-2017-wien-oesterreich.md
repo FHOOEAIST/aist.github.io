@@ -3,8 +3,6 @@ lang: de
 title: eHealth 2017 Wien, Österreich
 date: 2017-06-01T15:07:41+02:00
 page_id: news:ehealth-2017-wien-oesterreich
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/06/01/ehealth-2017-wien-oesterreich
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/06/01/ehealth-2017-vienna-austria
 
 ---
 

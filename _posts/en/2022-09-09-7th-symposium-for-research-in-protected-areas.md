@@ -2,8 +2,6 @@
 lang: en
 date: 2022-09-09T10:53:49+02:00
 page_id: news:7te-symposium-fuer-forschung-in-geschuetzten-gebieten
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/09/09/7te-symposium-fuer-forschung-in-geschuetzten-gebieten
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/09/09/7th-symposium-for-research-in-protected-areas
 title: 7th Symposium for Research in Protected Areas
 title_image: /assets/images/news/7Symposium_für_Forschung_in_geschützten_Gebieten_title.jpg
 

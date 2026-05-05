@@ -4,8 +4,6 @@ title: Replient Sidekick
 logo: /assets/images/projects/Replient_Sidekick_logo.png
 page_id: projects:replient-sidekick
 permalink: /projects/replient-sidekick/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/replient-sidekick
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/replient-side-kick
 background: /assets/images/projects/Replient_Sidekick_background.jpg
 projects:
   - title: Replient Sidekick

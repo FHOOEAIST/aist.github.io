@@ -2,8 +2,6 @@
 lang: en
 date: 2023-04-17T12:10:03+02:00
 page_id: news:videodreh-zu-bewertung-von-wildunfallrisiko
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/04/17/videodreh-zu-bewertung-von-wildunfallrisiko
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/04/17/video-shooting-for-methods-for-assessing-wildlife-accident-risk-on-roads
 title: Video shooting for methods for assessing wildlife accident risk on roads
 title_image: /assets/images/news/Videodreh_zu_Bewertung_von_Wildunfallrisiko_title.jpg
 

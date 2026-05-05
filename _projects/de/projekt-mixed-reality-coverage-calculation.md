@@ -4,8 +4,6 @@ title: "Projekt: Mixed Reality Coverage Calculation"
 logo: /assets/images/projects/Projekt_Mixed_Reality_Coverage_Calculation_logo.png
 page_id: projects:projekt-mixed-reality-coverage-calculation
 permalink: /projects/projekt-mixed-reality-coverage-calculation/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-mixed-reality-coverage-calculation
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-mixed-reality-coverage-calculation
 background: /assets/images/projects/Projekt_Mixed_Reality_Coverage_Calculation_background.jpg
 projects:
   - title: "Projekt: Mixed Reality Coverage Calculation"

@@ -4,8 +4,6 @@ title: Project Cooperation CAS
 logo: /assets/images/projects/Projektkooperation_CAS_logo.png
 page_id: projects:projekt-cas
 permalink: /projects/project-cas/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-cas
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-cas
 background: /assets/images/projects/Projektkooperation_CAS_background.jpg
 projects:
   - title: REPO – Radiology E-health PlatfOrm

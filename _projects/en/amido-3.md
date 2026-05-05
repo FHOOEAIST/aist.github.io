@@ -4,8 +4,6 @@ title: Amido
 logo: /assets/images/projects/Amido_logo.png
 page_id: projects:amido-2
 permalink: /projects/amido-3/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/amido-2
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/amido-3
 background: /assets/images/projects/Amido_background.jpg
 projects:
   - title: Amido

@@ -3,8 +3,6 @@ lang: de
 title: Forschungsbrunch @ Softwarepark
 date: 2023-05-25T13:00:41+02:00
 page_id: news:forschungsbrunch-softwarepark
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/05/25/forschungsbrunch-softwarepark
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/05/25/research-brunch-softwarepark
 title_image: /assets/images/news/Forschungsbrunch_@_Softwarepark_title.jpg
 
 ---

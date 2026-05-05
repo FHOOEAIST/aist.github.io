@@ -4,8 +4,6 @@ title: Project ORG-Manager
 logo: /assets/images/projects/Projekt_ORG-Manager_logo.png
 page_id: projects:projekt-org-manager
 permalink: /projects/project-org-manager/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-org-manager
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-org-manager
 background: /assets/images/projects/Projekt_ORG-Manager_background.jpg
 projects:
   - title: Project ORG-Manager

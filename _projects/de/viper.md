@@ -4,8 +4,6 @@ title: Vipa
 logo: /assets/images/projects/Vipa_logo.png
 page_id: projects:viper
 permalink: /projects/viper/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/viper
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/viper-2
 background: /assets/images/projects/Vipa_background.jpg
 projects:
   - title: Vipa

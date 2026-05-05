@@ -4,8 +4,6 @@ title: Autonomous Innovation
 logo: /assets/images/projects/Autonomous_Innovation_logo.png
 page_id: projects:autonomous-innovation
 permalink: /projects/autonomous-innovation/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/autonomous-innovation
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/autonomous-innovation
 background: /assets/images/projects/Autonomous_Innovation_background.jpg
 projects:
   - title: Autonomous Innovation

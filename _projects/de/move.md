@@ -4,8 +4,6 @@ title: Move
 logo: /assets/images/projects/Move_logo.png
 page_id: projects:move
 permalink: /projects/move/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/move
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/move
 background: /assets/images/projects/Move_background.jpg
 projects:
   - title: M.O.V.E. - Modeling Orthoses for Vitality Enhancement

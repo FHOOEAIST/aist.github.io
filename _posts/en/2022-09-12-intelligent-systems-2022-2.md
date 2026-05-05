@@ -2,8 +2,6 @@
 lang: en
 date: 2022-09-12T09:30:44+02:00
 page_id: news:intelligent-systems-2022
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/09/12/intelligent-systems-2022
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/09/12/intelligent-systems-2022-2
 title: Intelligent Systems 2022
 title_image: /assets/images/news/Intelligent_Systems_2022_title.png
 

@@ -4,8 +4,6 @@ title: Projekt AKFA
 logo: /assets/images/projects/Projekt_AKFA_logo.png
 page_id: projects:projekt-akfa
 permalink: /projects/projekt-akfa/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-akfa
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-akfa
 background: /assets/images/projects/Projekt_AKFA_background.jpg
 projects:
   - title: Projekt AKFA

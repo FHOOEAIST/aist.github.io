@@ -3,8 +3,6 @@ lang: de
 title: HL7 Arbeitsgruppentreffen San Diego
 date: 2017-10-01T14:52:47+02:00
 page_id: news:hl7-arbeitsgruppentreffen-san-diego
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/10/01/hl7-arbeitsgruppentreffen-san-diego
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/10/01/hl7-workgroup-meeting-san-diego
 title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_San_Diego_title.jpg
 
 ---

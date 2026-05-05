@@ -4,8 +4,6 @@ title: Project Progast+
 logo: /assets/images/projects/Projekt_Progast+_logo.svg
 page_id: projects:projekt-progast
 permalink: /projects/project-progast/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-progast
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-progast
 background: /assets/images/projects/Projekt_Progast+_background.jpg
 projects:
   - title: Project Progast+

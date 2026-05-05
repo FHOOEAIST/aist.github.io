@@ -2,8 +2,6 @@
 lang: en
 date: 2018-08-01T14:40:13+02:00
 page_id: news:issta-ecoop-2018-amsterdam-niederlande
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/08/01/issta-ecoop-2018-amsterdam-niederlande
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/08/01/issta-ecoop-2018-amsterdam-netherlands
 title: ISSTA/ECOOP 2018 Amsterdam, Netherlands
 
 ---

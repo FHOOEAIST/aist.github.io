@@ -2,8 +2,6 @@
 lang: en
 date: 2023-07-10T13:12:04+02:00
 page_id: news:post-aist-doktorat
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/07/10/post-aist-doktorat
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/07/10/post-aist-doctorate
 title: Post-AIST Doctorate
 title_image: /assets/images/news/Post-AIST_Doktorat_title.jpg
 

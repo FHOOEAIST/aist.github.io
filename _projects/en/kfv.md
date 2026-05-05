@@ -4,8 +4,6 @@ title: KfV – Method for assessing wildlife accident risk on roads
 logo: /assets/images/projects/KfV_–_Bewertung_von_Wildunfallrisiko_logo.png
 page_id: projects:kfv
 permalink: /projects/kfv/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/kfv
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/kfv
 background: /assets/images/projects/KfV_–_Bewertung_von_Wildunfallrisiko_background.jpg
 projects:
   - title: KfV – Method for assessing wildlife accident risk on roads

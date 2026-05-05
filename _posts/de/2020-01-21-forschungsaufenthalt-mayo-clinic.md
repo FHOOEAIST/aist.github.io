@@ -3,8 +3,6 @@ lang: de
 title: Forschungsaufenthalt Mayo Clinic
 date: 2020-01-21T09:28:44+01:00
 page_id: news:forschungsaufenthalt-mayo-clinic
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2020/01/21/forschungsaufenthalt-mayo-clinic
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2020/01/21/research-stay-mayo-clinic
 title_image: /assets/images/news/Forschungsaufenthalt_Mayo_Clinic_title.jpg
 
 ---

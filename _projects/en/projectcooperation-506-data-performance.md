@@ -4,8 +4,6 @@ title: Projectcooperation 506 Data & Performance
 logo: /assets/images/projects/Projektkooperation_506_Data_&_Performance_logo.png
 page_id: projects:projektkooperation-506-data-performance
 permalink: /projects/projectcooperation-506-data-performance/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projektkooperation-506-data-performance
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/projectcooperation-506-data-performance
 background: /assets/images/projects/Projektkooperation_506_Data_&_Performance_background.jpg
 projects:
   - title: Projectcooperation 506 Data & Performance

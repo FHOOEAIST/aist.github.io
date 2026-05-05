@@ -4,8 +4,6 @@ title: Ball-Tracking
 logo: /assets/images/projects/Ball-Tracking_logo.png
 page_id: projects:ball-tracking
 permalink: /projects/ball-tracking/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/ball-tracking
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/ball-tracking
 background: /assets/images/projects/Ball-Tracking_background.jpg
 projects:
   - title: Ball-Tracking

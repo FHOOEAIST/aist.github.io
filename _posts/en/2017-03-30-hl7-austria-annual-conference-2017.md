@@ -2,8 +2,6 @@
 lang: en
 date: 2017-03-30T11:53:24+02:00
 page_id: news:hl7-jahrestagung-2017
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/03/30/hl7-jahrestagung-2017
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/03/30/hl7-austria-annual-conference-2017
 title: HL7 Austria Annual Conference 2017
 title_image: /assets/images/news/HL7_Jahrestagung_2017_title.jpg
 

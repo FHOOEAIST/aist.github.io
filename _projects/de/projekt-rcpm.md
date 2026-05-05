@@ -4,8 +4,6 @@ title: Projekt RCPM
 logo: /assets/images/projects/Projekt_RCPM_logo.png
 page_id: projects:projekt-rcpm
 permalink: /projects/projekt-rcpm/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-rcpm
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-rcpm
 background: /assets/images/projects/Projekt_RCPM_background.jpg
 projects:
   - title: RCPM - Realtime Corporate Performance Management

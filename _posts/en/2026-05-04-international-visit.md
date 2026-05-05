@@ -2,8 +2,6 @@
 lang: en
 date: 2026-05-04T14:28:53+02:00
 page_id: news:internationaler-besuch
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2026/05/04/internationaler-besuch
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2026/05/04/international-visit
 title: International Visit
 title_image: /assets/images/news/Internationaler_Besuch_title.jpg
 

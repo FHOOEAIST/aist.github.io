@@ -4,8 +4,6 @@ title: FLARE
 logo: /assets/images/projects/FLARE_logo.png
 page_id: projects:flare
 permalink: /projects/flare/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/flare
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/flare
 background: /assets/images/projects/FLARE_background.jpg
 projects:
   - title: FLARE

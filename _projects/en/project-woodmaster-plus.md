@@ -4,8 +4,6 @@ title: Project Woodmaster Plus
 logo: /assets/images/projects/Projekt_Woodmaster_Plus_logo.png
 page_id: projects:projekt-woodmaster-plus
 permalink: /projects/project-woodmaster-plus/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-woodmaster-plus
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-woodmaster-plus
 background: /assets/images/projects/Projekt_Woodmaster_Plus_background.png
 projects:
   - title: Project Woodmaster Plus

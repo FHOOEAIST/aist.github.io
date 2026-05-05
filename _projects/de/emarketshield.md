@@ -4,8 +4,6 @@ title: eMarketShield
 logo: /assets/images/projects/eMarketShield_logo.png
 page_id: projects:emarketshield
 permalink: /projects/emarketshield/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/emarketshield
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/emarketshield
 background: /assets/images/projects/eMarketShield_background.jpg
 projects:
   - title: eMarketShield

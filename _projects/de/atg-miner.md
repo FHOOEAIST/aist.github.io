@@ -4,8 +4,6 @@ title: ATG-Miner
 logo: /assets/images/projects/ATG-Miner_logo.png
 page_id: projects:atg-miner
 permalink: /projects/atg-miner/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/atg-miner
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/atg-miner
 background: /assets/images/projects/ATG-Miner_background.jpg
 projects:
   - title: Attributierte Grammatik - Miner

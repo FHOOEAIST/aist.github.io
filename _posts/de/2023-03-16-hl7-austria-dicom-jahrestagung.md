@@ -3,8 +3,6 @@ lang: de
 title: HL7 Austria & DICOM Jahrestagung
 date: 2023-03-16T13:56:53+01:00
 page_id: news:hl7-austria-dicom-jahrestagung
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/03/16/hl7-austria-dicom-jahrestagung
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/03/16/hl7-austria-dicom-annual-conference
 title_image: /assets/images/news/HL7_Austria_&_DICOM_Jahrestagung_title.jpg
 
 ---

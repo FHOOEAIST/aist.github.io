@@ -4,8 +4,6 @@ title: BuildPilot
 logo: /assets/images/projects/BuildPilot_logo.png
 page_id: projects:buildpilot
 permalink: /projects/buildpilot/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/buildpilot
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/buildpilot
 background: /assets/images/projects/BuildPilot_background.jpg
 projects:
   - title: BuildPilot

@@ -4,8 +4,6 @@ title: Bambi
 logo: /assets/images/projects/Bambi_logo.png
 page_id: projects:bambi
 permalink: /projects/bambi/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/bambi
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/bambi
 background: /assets/images/projects/Bambi_background.jpg
 projects:
   - title: Bambi

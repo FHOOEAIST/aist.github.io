@@ -4,8 +4,6 @@ title: Project ITPRO
 logo: /assets/images/projects/Projekt_ITPRO_logo.png
 page_id: projects:projekt-itpro
 permalink: /projects/project-itpro/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-itpro
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-itpro
 background: /assets/images/projects/Projekt_ITPRO_background.jpg
 projects:
   - title: Project ITPRO

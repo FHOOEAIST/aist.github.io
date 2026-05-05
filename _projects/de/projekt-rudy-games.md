@@ -4,8 +4,6 @@ title: Projekt Rudy Games
 logo: /assets/images/projects/Projekt_Rudy_Games_logo.png
 page_id: projects:projekt-rudy-games
 permalink: /projects/projekt-rudy-games/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-rudy-games
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-rudy-games
 background: /assets/images/projects/Projekt_Rudy_Games_background.jpg
 projects:
   - title: i2f – Interface2Face Mixreality Game

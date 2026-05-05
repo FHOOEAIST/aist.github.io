@@ -4,8 +4,6 @@ title: Projekt CP+
 logo: /assets/images/projects/Projekt_CP+_logo.png
 page_id: projects:projekt-cp
 permalink: /projects/projekt-cp/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-cp
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-cp
 background: /assets/images/projects/Projekt_CP+_background.jpg
 projects:
   - title: Projekt CP+

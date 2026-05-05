@@ -3,8 +3,6 @@ lang: de
 title: Hoch hinaus
 date: 2022-07-19T07:46:30+02:00
 page_id: news:hoch-hinaus
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/07/19/hoch-hinaus
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/07/19/aim-high
 title_image: /assets/images/news/Hoch_hinaus_title.jpg
 
 ---

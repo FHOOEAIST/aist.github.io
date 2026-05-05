@@ -4,8 +4,6 @@ title: Projekt Mittag.at
 logo: /assets/images/projects/Projekt_Mittagat_logo.png
 page_id: projects:projekt-mittag-at
 permalink: /projects/projekt-mittag-at/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-mittag-at
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-mittag-at
 background: /assets/images/projects/Projekt_Mittagat_background.jpg
 projects:
   - title: Smart Menus

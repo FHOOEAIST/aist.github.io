@@ -2,8 +2,6 @@
 lang: en
 date: 2025-05-21T11:56:40+02:00
 page_id: news:dem-wetter-trotzend
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/05/21/dem-wetter-trotzend
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/05/21/defying-the-weather
 title: Defying the weather
 title_image: /assets/images/news/Dem_Wetter_trotzend_title.jpg
 

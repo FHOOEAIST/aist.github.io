@@ -3,8 +3,6 @@ lang: de
 title: ESEC/FSE 2017 Paderborn, Deutschland
 date: 2017-09-15T14:17:03+02:00
 page_id: news:esec-fse-2017-paderborn-deutschland
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/09/15/esec-fse-2017-paderborn-deutschland
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/09/15/esec-fse-2017-paderborn-german
 title_image: /assets/images/news/ESEC/FSE_2017_Paderborn,_Deutschland_title.jpg
 
 ---

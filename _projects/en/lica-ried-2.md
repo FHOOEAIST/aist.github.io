@@ -4,8 +4,6 @@ title: Lica Ried
 logo: /assets/images/projects/Lica_Ried_logo.png
 page_id: projects:lica-ried
 permalink: /projects/lica-ried-2/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/lica-ried
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/lica-ried-2
 background: /assets/images/projects/Lica_Ried_background.png
 projects:
   - title: Lica Ried

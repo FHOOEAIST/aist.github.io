@@ -3,8 +3,6 @@ lang: de
 title: Besuch bei RedBull in Elsbethen
 date: 2020-01-09T12:58:17+01:00
 page_id: news:besuch-bei-redbull-in-elsbethen
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2020/01/09/besuch-bei-redbull-in-elsbethen
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2020/01/09/visit-to-redbull-in-elsbethen
 title_image: /assets/images/news/Besuch_bei_RedBull_in_Elsbethen_title.jpg
 
 ---

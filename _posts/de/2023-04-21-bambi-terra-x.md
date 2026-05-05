@@ -3,8 +3,6 @@ lang: de
 title: BAMBI @ Terra X
 date: 2023-04-21T11:57:38+02:00
 page_id: news:bambi-terra-x
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/04/21/bambi-terra-x
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/04/21/bambi-terra-x-2
 title_image: /assets/images/news/BAMBI_@_Terra_X_title.jpg
 
 ---

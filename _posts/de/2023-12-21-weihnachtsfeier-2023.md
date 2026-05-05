@@ -3,8 +3,6 @@ lang: de
 title: AIST Weihnachtsfeier 2023
 date: 2023-12-21T11:47:58+01:00
 page_id: news:weihnachtsfeier-2023
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/12/21/weihnachtsfeier-2023
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/12/21/christmas-party-2023
 title_image: /assets/images/news/AIST_Weihnachtsfeier_2023_title.png
 
 ---

@@ -4,8 +4,6 @@ title: SmartBuoy 2.0
 logo: /assets/images/projects/SmartBuoy_20_logo.png
 page_id: projects:smartbouy
 permalink: /projects/smartbouy-2-0/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/smartbouy
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/smartbouy-2-0
 background: /assets/images/projects/SmartBuoy_20_background.jpg
 projects:
   - title: SmartBuoy 2.0

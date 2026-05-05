@@ -2,8 +2,6 @@
 lang: en
 date: 2025-09-04T12:07:20+02:00
 page_id: news:besuch-goce-delchev-university-2025
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/09/04/besuch-goce-delchev-university-2025
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/09/04/visit-goce-delchev-university-2025
 title: Visit Goce Delchev University 2025
 title_image: /assets/images/news/Besuch_Goce_Delchev_University_2025_title.png
 

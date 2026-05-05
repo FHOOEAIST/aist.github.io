@@ -4,8 +4,6 @@ title: Projekt StressBurn
 logo: /assets/images/projects/Projekt_StressBurn_logo.png
 page_id: projects:projekt-stressburn
 permalink: /projects/projekt-stressburn/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-stressburn
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-stressburn
 background: /assets/images/projects/Projekt_StressBurn_background.jpg
 projects:
   - title: Projekt StressBurn

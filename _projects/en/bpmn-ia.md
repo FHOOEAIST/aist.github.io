@@ -4,8 +4,6 @@ title: BPMN.IA
 logo: /assets/images/projects/BPMNIA_logo.png
 page_id: projects:bpmn-ia
 permalink: /projects/bpmn-ia/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/bpmn-ia
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/bpmn-ia
 background: /assets/images/projects/BPMNIA_background.jpg
 projects:
   - title: BPMN.IA

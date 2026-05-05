@@ -2,8 +2,6 @@
 lang: en
 date: 2019-05-15T12:09:21+02:00
 page_id: news:efmi
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2019/05/15/efmi
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2019/05/15/efmi-stc-hannover
 title: EFMI STC Hannover
 
 ---

@@ -3,8 +3,6 @@ lang: de
 title: Zeit für einen Abschied
 date: 2024-10-01T07:00:07+02:00
 page_id: news:zeit-fuer-einen-abschied
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2024/10/01/zeit-fuer-einen-abschied
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2024/10/01/time-for-a-farewell
 title_image: /assets/images/news/Zeit_für_einen_Abschied_title.jpg
 
 ---

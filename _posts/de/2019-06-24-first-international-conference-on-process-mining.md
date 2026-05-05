@@ -3,8 +3,6 @@ lang: de
 title: First International Conference on Process Mining
 date: 2019-06-24T10:20:27+02:00
 page_id: news:first-international-conference-on-process-mining
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2019/06/24/first-international-conference-on-process-mining
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2019/06/24/first-international-conference-on-process-mining-3
 
 ---
 

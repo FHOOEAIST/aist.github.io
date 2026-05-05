@@ -4,8 +4,6 @@ title: Projectcooperation Weigl
 logo: /assets/images/projects/Projektkooperation_Weigl_logo.png
 page_id: projects:projektkooperation-weigl
 permalink: /projects/projectcooperation-weigl/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projektkooperation-weigl
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/projectcooperation-weigl
 background: /assets/images/projects/Projektkooperation_Weigl_background.jpg
 projects:
   - title: Projectcooperation Weigl

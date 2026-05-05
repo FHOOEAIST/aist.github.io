@@ -4,8 +4,6 @@ title: Projekt MoxUP
 logo: /assets/images/projects/Projekt_MoxUP_logo.png
 page_id: projects:moxup
 permalink: /projects/moxup/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/moxup
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/moxup
 background: /assets/images/projects/Projekt_MoxUP_background.jpg
 projects:
   - title: Projekt MoxUP

@@ -4,8 +4,6 @@ title: Saturn
 logo: /assets/images/projects/Saturn_logo.png
 page_id: projects:saturn
 permalink: /projects/saturn/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/saturn
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/saturn
 background: /assets/images/projects/Saturn_background.jpg
 projects:
   - title: Saturn

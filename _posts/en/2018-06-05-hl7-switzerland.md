@@ -2,8 +2,6 @@
 lang: en
 date: 2018-06-05T09:41:09+02:00
 page_id: news:hl7-schweiz
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/06/05/hl7-schweiz
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/06/05/hl7-switzerland
 title: HL7 Switzerland
 
 ---

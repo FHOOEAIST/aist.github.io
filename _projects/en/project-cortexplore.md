@@ -4,8 +4,6 @@ title: Project CortEXPlore
 logo: /assets/images/projects/Projekt_cortEXPlore_logo.png
 page_id: projects:projekt-cortexplore
 permalink: /projects/project-cortexplore/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-cortexplore
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-cortexplore
 background: /assets/images/projects/Projekt_cortEXPlore_background.jpg
 projects:
   - title: Project CortEXPlore

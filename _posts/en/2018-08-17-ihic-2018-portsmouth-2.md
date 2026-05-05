@@ -2,8 +2,6 @@
 lang: en
 date: 2018-08-17T15:39:43+02:00
 page_id: news:ihic-2018-portsmouth
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/08/17/ihic-2018-portsmouth
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/08/17/ihic-2018-portsmouth-2
 title: IHIC 2018 Portsmouth
 title_image: /assets/images/news/IHIC_2018_Portsmouth_title.png
 

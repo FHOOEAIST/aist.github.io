@@ -4,8 +4,6 @@ title: Projekt Safetydrain
 logo: /assets/images/projects/Projekt_Safetydrain_logo.png
 page_id: projects:projekt-safetydrain
 permalink: /projects/projekt-safetydrain/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-safetydrain
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-safetydrain
 background: /assets/images/projects/Projekt_Safetydrain_background.jpg
 projects:
   - title: Projekt Safetydrain

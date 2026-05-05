@@ -4,8 +4,6 @@ title: Project Wildboar
 logo: /assets/images/projects/Projekt_Wildschwein_logo.png
 page_id: projects:projekt-wildschwein
 permalink: /projects/project-wildboar/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-wildschwein
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-wildboar
 background: /assets/images/projects/Projekt_Wildschwein_background.jpg
 projects:
   - title: Project Wildboar

@@ -4,8 +4,6 @@ title: Projekt Voigas
 logo: /assets/images/projects/Projekt_Voigas_logo.png
 page_id: projects:projekt-voigas
 permalink: /projects/projekt-voigas/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-voigas
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-voigas
 background: /assets/images/projects/Projekt_Voigas_background.jpg
 projects:
   - title: Projekt Voigas

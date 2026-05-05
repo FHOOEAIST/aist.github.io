@@ -4,8 +4,6 @@ title: Hokify
 logo: /assets/images/projects/Hokify_logo.png
 page_id: projects:hokify-2
 permalink: /projects/hokify-2/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/hokify-2
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/hokify-3
 background: /assets/images/projects/Hokify_background.jpg
 projects:
   - title: Hokify

@@ -2,8 +2,6 @@
 lang: en
 date: 2022-04-22T13:35:31+02:00
 page_id: news:makerspace-eroeffnung
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2022/04/22/makerspace-eroeffnung
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2022/04/22/makerspace-opening
 title: Makerspace Opening
 title_image: /assets/images/news/Makerspace_Eröffnung_title.jpg
 

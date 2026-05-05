@@ -4,8 +4,6 @@ title: Risk Map App
 logo: /assets/images/projects/Risk_Map_App_logo.png
 page_id: projects:risk-map-app
 permalink: /projects/risk-map-app/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/risk-map-app
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/risk-map-app
 background: /assets/images/projects/Risk_Map_App_background.jpg
 projects:
   - title: Risk Map App

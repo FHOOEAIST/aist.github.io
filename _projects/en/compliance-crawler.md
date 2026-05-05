@@ -4,8 +4,6 @@ title: Compliance Crawler
 logo: /assets/images/projects/Compliance_Crawler_logo.png
 page_id: projects:compliance-crawler
 permalink: /projects/compliance-crawler/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/compliance-crawler
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/compliance-crawler
 background: /assets/images/projects/Compliance_Crawler_background.jpg
 projects:
   - title: Compliance Crawler

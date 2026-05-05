@@ -3,8 +3,6 @@ lang: de
 title: International Wildlife Congress 2025
 date: 2025-09-10T09:31:24+02:00
 page_id: news:international-wildlife-congress-2025
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2025/09/10/international-wildlife-congress-2025
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2025/09/10/international-wildlife-congress-2025-2
 title_image: /assets/images/news/International_Wildlife_Congress_2025_title.jpg
 
 ---

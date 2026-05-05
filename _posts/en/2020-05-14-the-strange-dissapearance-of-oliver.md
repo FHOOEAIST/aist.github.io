@@ -2,8 +2,6 @@
 lang: en
 date: 2020-05-14T11:56:28+02:00
 page_id: news:oliver-ist-verschwunden
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2020/05/14/oliver-ist-verschwunden
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2020/05/14/the-strange-dissapearance-of-oliver
 title: The strange dissapearance of Oliver
 title_image: /assets/images/news/Oliver_ist_verschwunden…_title.jpg
 

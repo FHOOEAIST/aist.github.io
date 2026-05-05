@@ -4,8 +4,6 @@ title: SOC-Toolkit
 logo: /assets/images/projects/SOC-Toolkit_logo.png
 page_id: projects:soc-toolkit
 permalink: /projects/soc-toolkit/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/soc-toolkit
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/soc-toolkit
 background: /assets/images/projects/SOC-Toolkit_background.png
 projects:
   - title: SOC-Toolkit

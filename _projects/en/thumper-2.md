@@ -4,8 +4,6 @@ title: Thumper
 logo: /assets/images/projects/Thumper_logo.png
 page_id: projects:thumper
 permalink: /projects/thumper-2/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/thumper
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/thumper-2
 background: /assets/images/projects/Thumper_background.jpg
 projects:
   - title: Thumper

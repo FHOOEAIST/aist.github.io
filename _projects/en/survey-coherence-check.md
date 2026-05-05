@@ -4,8 +4,6 @@ title: Survey Coherence Check
 logo: /assets/images/projects/Kohärenzprüfung_von_Umfragen_logo.png
 page_id: projects:kohaerenzpruefung-von-umfrageergebnissen
 permalink: /projects/survey-coherence-check/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/kohaerenzpruefung-von-umfrageergebnissen
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/survey-coherence-check
 background: /assets/images/projects/Kohärenzprüfung_von_Umfragen_background.jpg
 projects:
   - title: Survey Coherence Check

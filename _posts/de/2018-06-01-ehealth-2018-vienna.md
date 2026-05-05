@@ -3,8 +3,6 @@ lang: de
 title: eHealth 2018 Vienna
 date: 2018-06-01T16:06:44+02:00
 page_id: news:ehealth-2018-vienna
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/06/01/ehealth-2018-vienna
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/06/01/ehealth-2018-vienna-2
 
 ---
 

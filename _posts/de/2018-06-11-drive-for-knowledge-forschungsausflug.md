@@ -3,8 +3,6 @@ lang: de
 title: Drive for Knowledge Forschungsausflug
 date: 2018-06-11T10:49:13+02:00
 page_id: news:drive-for-knowledge-forschungsausflug
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2018/06/11/drive-for-knowledge-forschungsausflug
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2018/06/11/drive-for-knowledge-researchtrip
 title_image: /assets/images/news/Drive_for_Knowledge_Forschungsausflug_title.jpg
 
 ---

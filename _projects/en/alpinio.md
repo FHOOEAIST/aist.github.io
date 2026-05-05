@@ -4,8 +4,6 @@ title: AlpinIO
 logo: /assets/images/projects/AlpinIO_logo.png
 page_id: projects:alpinio20
 permalink: /projects/alpinio/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/alpinio%20
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/alpinio
 background: /assets/images/projects/AlpinIO_background.jpg
 projects:
   - title: AlpinIO

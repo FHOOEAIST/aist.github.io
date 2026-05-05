@@ -4,8 +4,6 @@ title: Replient
 logo: /assets/images/projects/Replient_logo.png
 page_id: projects:replient
 permalink: /projects/replient/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/replient
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/replient
 background: /assets/images/projects/Replient_background.jpg
 projects:
   - title: Replient

@@ -3,8 +3,6 @@ lang: de
 title: HL7 Arbeitsgruppentreffen Baltimore
 date: 2016-12-01T15:01:16+01:00
 page_id: news:hl7-arbeitsgruppentreffen-baltimore
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2016/12/01/hl7-arbeitsgruppentreffen-baltimore
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2016/10/02/hl7-work-group-meeting-baltimore
 title_image: /assets/images/news/HL7_Arbeitsgruppentreffen_Baltimore_title.jpg
 
 ---

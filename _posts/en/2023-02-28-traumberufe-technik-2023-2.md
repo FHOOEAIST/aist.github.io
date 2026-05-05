@@ -2,8 +2,6 @@
 lang: en
 date: 2023-02-28T08:39:05+01:00
 page_id: news:traumberufe-technik-2023
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2023/02/28/traumberufe-technik-2023
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2023/02/28/traumberufe-technik-2023-2
 title: Traumberufe Technik 2023
 title_image: /assets/images/news/Traumberufe_Technik_2023_title.jpg
 

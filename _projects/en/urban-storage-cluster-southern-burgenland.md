@@ -4,8 +4,6 @@ title: Urban Storage Cluster Southern Burgenland
 logo: /assets/images/projects/Urbaner_Speichercluster_Südburgenland_logo.png
 page_id: projects:urbaner-speichercluster-suedburgenland
 permalink: /projects/urban-storage-cluster-southern-burgenland/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/urbaner-speichercluster-suedburgenland
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/urban-storage-cluster-southern-burgenland
 background: /assets/images/projects/Urbaner_Speichercluster_Südburgenland_background.png
 projects:
   - title: Urban Storage Cluster Southern Burgenland

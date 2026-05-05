@@ -4,8 +4,6 @@ title: Project SimRev
 logo: /assets/images/projects/Projekt_SimRev_logo.svg
 page_id: projects:projekt-simrev
 permalink: /projects/project-simrev/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-simrev
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/project-simrev
 background: /assets/images/projects/Projekt_SimRev_background.jpg
 projects:
   - title: Project SimRev

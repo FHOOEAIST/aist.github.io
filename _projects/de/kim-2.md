@@ -4,8 +4,6 @@ title: KIM
 logo: /assets/images/projects/KIM_logo.png
 page_id: projects:kim-2
 permalink: /projects/kim-2/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/kim-2
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/kim-3
 background: /assets/images/projects/KIM_background.jpg
 projects:
   - title: KIM - KI in Mixed Reality

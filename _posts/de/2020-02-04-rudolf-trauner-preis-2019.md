@@ -3,8 +3,6 @@ lang: de
 title: Rudolf Trauner Preis 2019
 date: 2020-02-04T08:23:45+01:00
 page_id: news:rudolf-trauner-preis-2019
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2020/02/04/rudolf-trauner-preis-2019
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2020/02/04/rudolf-trauner-prize-2019
 title_image: /assets/images/news/Rudolf_Trauner_Preis_2019_title.jpg
 
 ---

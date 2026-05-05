@@ -4,8 +4,6 @@ title: AAOS Eco+Maintenance
 logo: /assets/images/projects/AAOS_Eco+Maintenance_logo.png
 page_id: projects:aximote
 permalink: /projects/aaos-ecomaintenance/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/aximote
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/aaos-ecomaintenance
 background: /assets/images/projects/AAOS_Eco+Maintenance_background.jpg
 projects:
   - title: AAOS Eco+Maintenance

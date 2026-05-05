@@ -4,8 +4,6 @@ title: Cadus
 logo: /assets/images/projects/Cadus_logo.png
 page_id: projects:cadus-2
 permalink: /projects/cadus-2/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/cadus-2
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/cadus
 background: /assets/images/projects/Cadus_background.jpg
 projects:
   - title: Cadus

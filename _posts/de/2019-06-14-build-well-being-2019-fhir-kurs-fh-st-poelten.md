@@ -3,8 +3,6 @@ lang: de
 title: Build Well Being 2019 – FHIR Kurs – FH St. Pölten
 date: 2019-06-14T15:40:29+02:00
 page_id: news:build-well-being-2019-fhir-kurs-fh-st-poelten
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2019/06/14/build-well-being-2019-fhir-kurs-fh-st-poelten
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2019/06/14/build-well-being-2019-fhir-for-beginners-fh-st-polten
 
 ---
 

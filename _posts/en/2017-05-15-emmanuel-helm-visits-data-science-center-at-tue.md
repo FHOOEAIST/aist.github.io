@@ -2,8 +2,6 @@
 lang: en
 date: 2017-05-15T12:11:20+02:00
 page_id: news:emmanuel-helm-besucht-technische-universitaet-eindhoven
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2017/05/15/emmanuel-helm-besucht-technische-universitaet-eindhoven
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2017/05/15/emmanuel-helm-visits-data-science-center-at-tue
 title: Emmanuel Helm visits Data Science Center at TU/e
 
 ---

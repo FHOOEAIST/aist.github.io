@@ -2,8 +2,6 @@
 lang: en
 date: 2024-05-17T09:20:17+02:00
 page_id: news:8-kepler-science-day-2024
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/2024/05/17/8-kepler-science-day-2024
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/2024/05/17/8th-kepler-science-day-2024
 title: 8th Kepler Science Day (2024)
 title_image: /assets/images/news/8_Kepler_Science_Day_(2024)_title.jpg
 

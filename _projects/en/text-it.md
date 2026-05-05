@@ -4,8 +4,6 @@ title: text-it
 logo: /assets/images/projects/text-it_logo.png
 page_id: projects:text-it
 permalink: /projects/text-it/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/text-it
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/text-it
 background: /assets/images/projects/text-it_background.jpg
 projects:
   - title: text-it

@@ -4,8 +4,6 @@ title: Gemini
 logo: /assets/images/projects/Gemini_logo.png
 page_id: projects:gemini
 permalink: /projects/gemini/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/gemini
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/gemini-2
 background: /assets/images/projects/Gemini_background.jpg
 projects:
   - title: Gemini

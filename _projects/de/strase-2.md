@@ -4,8 +4,6 @@ title: StraSE
 logo: /assets/images/projects/StraSE_logo.png
 page_id: projects:strase-2
 permalink: /projects/strase-2/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/strase-2
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/strase-3
 background: /assets/images/projects/StraSE_background.jpg
 projects:
   - title: StraSE

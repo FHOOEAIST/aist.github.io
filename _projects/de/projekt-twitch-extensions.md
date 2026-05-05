@@ -4,8 +4,6 @@ title: Projekt Twitch Extensions
 logo: /assets/images/projects/Projekt_Twitch_Extensions_logo.png
 page_id: projects:projekt-twitch-extensions
 permalink: /projects/projekt-twitch-extensions/
-source_url_de: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-twitch-extensions
-source_url_en: https://aist.fh-hagenberg.at/index.php/en/projects/project-twitch-extensions
 background: /assets/images/projects/Projekt_Twitch_Extensions_background.jpg
 projects:
   - title: Projekt Twitch Extensions
