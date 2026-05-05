@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:jacqueline-schwebach-einrichtungs-bergreifende-kommunikation-f-r-gesundheitsdien
 permalink: /theses/jacqueline-schwebach-einrichtungs-bergreifende-kommunikation-f-r-gesundheitsdien/
-date: 2019-01-01
+date: 2019-12-31
 title: Inter-institutional communication for health service providers using the
   existing Austrian e-health infrastructure
 student: Jacqueline Schwebach

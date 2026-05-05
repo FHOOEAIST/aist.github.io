@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:daniel-stigler-evaluierung-von-klassifikatoren-f-r-den-einsatz-in-notfallerkennu
 permalink: /theses/daniel-stigler-evaluierung-von-klassifikatoren-f-r-den-einsatz-in-notfallerkennu/
-date: 2018-01-01
+date: 2018-12-31
 title: Evaluierung von Klassifikatoren für den Einsatz in Notfallerkennungssystemen
 student: Daniel Stigler
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-eden

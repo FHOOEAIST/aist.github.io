@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:andreas-pointner-bildverarbeitungsmethoden-zur-personenidentifikation
 permalink: /theses/andreas-pointner-bildverarbeitungsmethoden-zur-personenidentifikation/
-date: 2017-01-01
+date: 2017-12-31
 title: Bildverarbeitungsmethoden zur Personenidentifikation
 student: Andreas Pointner
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-credi2

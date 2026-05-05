@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:anna-lackerbauer-implementierung-des-ihe-mhd-profils-und-integration-in-ein-best
 permalink: /theses/anna-lackerbauer-implementierung-des-ihe-mhd-profils-und-integration-in-ein-best/
-date: 2016-01-01
+date: 2016-12-31
 title: Implementation of the IHE MHD profile and integration into an existing
   healthcare system
 student: Anna Lackerbauer

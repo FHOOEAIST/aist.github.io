@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:christoph-praschl-erkennung-von-informationsverlust-in-der-modelltransformation
 permalink: /theses/christoph-praschl-erkennung-von-informationsverlust-in-der-modelltransformation/
-date: 2019-01-01
+date: 2019-12-31
 title: Detection of information loss in the model transformation
 student: Christoph Praschl
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-aicher

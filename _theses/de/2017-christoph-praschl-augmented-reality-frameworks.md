@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:christoph-praschl-augmented-reality-frameworks
 permalink: /theses/christoph-praschl-augmented-reality-frameworks/
-date: 2017-01-01
+date: 2017-12-31
 title: Augmented Reality Frameworks
 student: Christoph Praschl
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-formelracing

@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:sophie-bauernfeind-fhir-tooling-ein-interaktiver-editor-f-r-erstellung-und-desig
 permalink: /theses/sophie-bauernfeind-fhir-tooling-ein-interaktiver-editor-f-r-erstellung-und-desig/
-date: 2021-01-01
+date: 2021-12-31
 title: "FHIR-Tooling: Ein interaktiver Editor für Erstellung und Design von
   FHIR-Shorthand Spezifikationen"
 student: Sophie Bauernfeind

@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:christoph-praschl-bildbasierte-orientierung-im-outdoorbereich
 permalink: /theses/christoph-praschl-bildbasierte-orientierung-im-outdoorbereich/
-date: 2017-01-01
+date: 2017-12-31
 title: Bildbasierte Orientierung im Outdoorbereich
 student: Christoph Praschl
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-formelracing

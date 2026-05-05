@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:martin-hanreich-semantic-clustering-of-structured-categorical-data-using-the-gpt
 permalink: /theses/martin-hanreich-semantic-clustering-of-structured-categorical-data-using-the-gpt/
-date: 2022-01-01
+date: 2022-12-31
 title: Semantic clustering of structured categorical data using the GPT-3
   language model
 student: Martin Hanreich

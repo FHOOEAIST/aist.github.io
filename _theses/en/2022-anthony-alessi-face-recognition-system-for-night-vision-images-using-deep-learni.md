@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:anthony-alessi-face-recognition-system-for-night-vision-images-using-deep-learni
 permalink: /theses/anthony-alessi-face-recognition-system-for-night-vision-images-using-deep-learni/
-date: 2022-01-01
+date: 2022-12-31
 title: Face Recognition system for Night Vision Images using Deep Learning
 student: Anthony Alessi
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/epilepsie-monitoring

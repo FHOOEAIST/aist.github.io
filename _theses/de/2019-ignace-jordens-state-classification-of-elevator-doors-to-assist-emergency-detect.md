@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:ignace-jordens-state-classification-of-elevator-doors-to-assist-emergency-detect
 permalink: /theses/ignace-jordens-state-classification-of-elevator-doors-to-assist-emergency-detect/
-date: 2019-01-01
+date: 2019-12-31
 title: State classification of elevator doors to assist emergency detection in
   elevator networks
 student: Ignace Jordens

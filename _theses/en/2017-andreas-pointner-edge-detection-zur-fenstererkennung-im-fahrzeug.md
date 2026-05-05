@@ -2,7 +2,7 @@
 lang: en
 page_id: thesis:andreas-pointner-edge-detection-zur-fenstererkennung-im-fahrzeug
 permalink: /theses/andreas-pointner-edge-detection-zur-fenstererkennung-im-fahrzeug/
-date: 2017-01-01
+date: 2017-12-31
 title: Edge detection for window recognition in vehicle
 student: Andreas Pointner
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-formelracing

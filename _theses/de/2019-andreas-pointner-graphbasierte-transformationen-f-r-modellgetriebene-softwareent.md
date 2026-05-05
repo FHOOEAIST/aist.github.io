@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:andreas-pointner-graphbasierte-transformationen-f-r-modellgetriebene-softwareent
 permalink: /theses/andreas-pointner-graphbasierte-transformationen-f-r-modellgetriebene-softwareent/
-date: 2019-01-01
+date: 2019-12-31
 title: Graphbasierte Transformationen für modellgetriebene Softwareentwicklung
 student: Andreas Pointner
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/projekt-aicher

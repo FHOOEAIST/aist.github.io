@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:anna-lackerbauer-stadtroutingsystem-f-r-menschen-mit-mobilit-tseinschr-nkung
 permalink: /theses/anna-lackerbauer-stadtroutingsystem-f-r-menschen-mit-mobilit-tseinschr-nkung/
-date: 2016-01-01
+date: 2016-12-31
 title: Stadtroutingsystem für Menschen mit Mobilitätseinschränkung
 student: Anna Lackerbauer
 ---

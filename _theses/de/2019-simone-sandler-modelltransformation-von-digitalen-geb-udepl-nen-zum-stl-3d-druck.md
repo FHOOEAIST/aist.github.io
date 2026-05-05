@@ -2,7 +2,7 @@
 lang: de
 page_id: thesis:simone-sandler-modelltransformation-von-digitalen-geb-udepl-nen-zum-stl-3d-druck
 permalink: /theses/simone-sandler-modelltransformation-von-digitalen-geb-udepl-nen-zum-stl-3d-druck/
-date: 2019-01-01
+date: 2019-12-31
 title: Modelltransformation von digitalen Gebäudeplänen zum STL 3D-Druck
 student: Simone Sandler
 project_url: https://aist.fh-hagenberg.at/index.php/de/projekte/moxup
