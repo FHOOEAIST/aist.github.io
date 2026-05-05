@@ -1,0 +1,126 @@
+
+.content-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin: 1.5rem 0;
+  align-items: start;
+}
+
+.content-columns .content-text {
+  min-width: 0;
+}
+
+.content-columns .content-image {
+  min-width: 0;
+}
+
+.content-columns .content-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--border-radius);
+}
+
+.content-columns .content-image em {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  line-height: 1.4;
+  font-style: italic;
+  margin-top: 0.375rem;
+}
+
+.content-columns .content-image .image-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.content-columns .content-image .image-stack .image-stack-item em {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  line-height: 1.4;
+  font-style: italic;
+  margin-top: 0.375rem;
+}
+
+.image-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.image-pair .image-pair-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--border-radius);
+}
+
+.image-pair .image-pair-item em {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  line-height: 1.4;
+  font-style: italic;
+  margin-top: 0.375rem;
+}
+
+.fun-fact {
+  background-color: var(--color-bg-light);
+  border-left: 4px solid var(--color-primary-light);
+  border-radius: var(--border-radius);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.fun-fact-title {
+  display: block;
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.375rem;
+}
+
+.fun-fact p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* --- Single Image with Caption --- */
+.image-captioned {
+  margin: 1.5rem 0;
+}
+
+.image-captioned img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--border-radius);
+}
+
+.image-captioned em {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  line-height: 1.4;
+  font-style: italic;
+  margin-top: 0.375rem;
+}
+
+@media (max-width: 840px) {
+  .content-columns {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .image-pair {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
