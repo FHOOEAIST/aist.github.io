@@ -6,7 +6,7 @@ permalink: /projekte/
 page_id: projects-index
 ---
 
-{% assign de_projects = site.projects | where: "lang", "de" %}
+{% assign de_projects = site.projects | where: "lang", "de" | sort: "title" %}
 {% assign now_int = site.time | date: "%Y%m%d" | plus: 0 %}
 
 <div class="page-header">
