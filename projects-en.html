@@ -22,8 +22,6 @@ page_id: projects-index
       {% assign end_parts = p.laufzeitEnd | split: "." %}
       {% assign end_int = end_parts[2] | append: end_parts[1] | append: end_parts[0] | plus: 0 %}
       {% if end_int >= now_int %}{% assign is_active = true %}{% endif %}
-    {% else %}
-      {% assign is_active = true %}
     {% endif %}
   {% endfor %}
   {% if is_active %}
@@ -41,8 +39,6 @@ page_id: projects-index
       {% assign end_parts = p.laufzeitEnd | split: "." %}
       {% assign end_int = end_parts[2] | append: end_parts[1] | append: end_parts[0] | plus: 0 %}
       {% if end_int >= now_int %}{% assign is_active = true %}{% endif %}
-    {% else %}
-      {% assign is_active = true %}
     {% endif %}
   {% endfor %}
   {% unless is_active %}
