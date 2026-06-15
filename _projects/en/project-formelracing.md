@@ -41,3 +41,4 @@ In this project a car was expanded with additionals sensors so it can be used fo
 
 ### 2018 – Towards Retooling The Microsoft HoloLens As Outdoor AR And MR Device
 Proceedings of the 30th European Modeling and Simulation Symposium EMSS2018, Budapest, Ungarn, 2018C. Praschl, O. Krauss, G. Zwettler
+
