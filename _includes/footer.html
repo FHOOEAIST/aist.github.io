@@ -91,9 +91,8 @@
                     </button>
                 </div>
                 <p>
-                    <a
-                        href="{% if site.active_lang == 'en' %}https://aist.fh-hagenberg.at/index.php/en/impressum-2{% else %}https://aist.fh-hagenberg.at/index.php/en/impressum{% endif %}"
-                        >Impressum</a
+                    <a href="{{ '/impressum/' | relative_url }}"
+                        >{% if site.active_lang == 'en' %}Imprint{% else %}Impressum{% endif %}</a
                     >
                 </p>
             </div>
