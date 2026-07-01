@@ -8,6 +8,6 @@ title: Semantikerhaltung beim Austausch elektronischer Gesundheitsdaten zur
 reference: |-
   Proceedings IV Kongress 2012, Linz, Österreich, 2012
   B\. Franz
-category: eHealth
+category: ehealth
 ---
 

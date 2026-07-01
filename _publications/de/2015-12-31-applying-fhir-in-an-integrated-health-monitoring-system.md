@@ -9,7 +9,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/4670)\)
 
   B\. Franz, A\. Schuler, O\. Krauss
-category: eHealth
+category: ehealth
 external_url: http://research.fh-ooe.at/de/publication/4670
 ---
 

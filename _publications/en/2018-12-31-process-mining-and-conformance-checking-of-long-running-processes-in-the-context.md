@@ -10,7 +10,7 @@ reference: >-
   \([Details](https://www.mdpi.com/1660-4601/15/12/2809/htm)\)
 
   Rinner C\., Helm E\., Dunkl R\., Kittler H\., Rinderle\-Ma S\.
-category: Machine Learning & Data Science
+category: ml
 external_url: https://www.mdpi.com/1660-4601/15/12/2809/htm
 ---
 

@@ -10,6 +10,6 @@ reference: >-
   pp\. 118\-119
 
   G\. Zwettler, W\. Backfrieder
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

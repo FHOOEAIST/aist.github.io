@@ -10,6 +10,6 @@ reference: >-
   Budapest, Ungarn, 2018
 
   A\. Pointner, O\. Krauss, G\. Freilinger, D\. Strieder, G\. Zwettler – GUIDE
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

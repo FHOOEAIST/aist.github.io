@@ -10,7 +10,7 @@ reference: Praschl, C\. , Kaiser, R\., and Zwettler, G\. \(2023\)\. **Generative
   Alpine Plants with Fuzzy Structures**\. In _Proceedings of the 18th
   International Joint Conference on Computer Vision, Imaging and Computer
   Graphics Theory and Applications – VISAPP\._
-category: Computer Vision & Augmented Reality
+category: cv
 doi: https://doi.org/10.5220/0011607100003417
 ---
 

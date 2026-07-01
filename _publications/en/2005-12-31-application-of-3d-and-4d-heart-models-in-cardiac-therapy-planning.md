@@ -10,6 +10,6 @@ reference: >-
 
   R\. Swoboda, W\. Backfrieder, G\. Zwettler, M\. Carpella, C\. Steinwender, F\.
   Leisch, C\. Gabriel
-category: eHealth
+category: ehealth
 ---
 

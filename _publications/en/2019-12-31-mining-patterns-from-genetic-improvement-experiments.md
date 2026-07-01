@@ -7,6 +7,6 @@ title: Mining patterns from genetic improvement experiments
 reference: |-
   Proceedings of the 6th International Workshop on Genetic Improvement
   Oliver Krauss, Hanspeter Mössenböck, Michael Affenzeller
-category: Machine Learning & Data Science
+category: ml
 ---
 

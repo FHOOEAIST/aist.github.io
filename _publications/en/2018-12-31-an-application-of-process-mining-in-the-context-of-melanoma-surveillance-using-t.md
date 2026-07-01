@@ -10,7 +10,7 @@ reference: >-
   \([Details](https://link.springer.com/chapter/10.1007/978-3-030-11641-5_14)\)
 
   Rinner C\., Helm E\., Dunkl R\., Kittler H\., Rinderle\-Ma S\.
-category: Machine Learning & Data Science
+category: ml
 external_url: https://link.springer.com/chapter/10.1007/978-3-030-11641-5_14
 ---
 

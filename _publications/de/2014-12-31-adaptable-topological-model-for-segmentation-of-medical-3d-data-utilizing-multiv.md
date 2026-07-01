@@ -10,6 +10,6 @@ reference: >-
   Kufstein, Österreich, 2014, pp\. 296\-300
 
   G\. Zwettler, W\. Backfrieder
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

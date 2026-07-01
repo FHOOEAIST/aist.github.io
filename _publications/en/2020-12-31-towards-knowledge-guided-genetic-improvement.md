@@ -9,7 +9,7 @@ reference: >-
   \([Details](https://doi.org/10.1145/3387940.3392172)\)
 
   Krauss O\., Mössenböck H\., Affenzeller M\.
-category: Machine Learning & Data Science
+category: ml
 external_url: https://doi.org/10.1145/3387940.3392172
 ---
 

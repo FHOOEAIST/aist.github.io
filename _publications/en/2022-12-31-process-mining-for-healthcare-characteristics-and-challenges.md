@@ -20,7 +20,7 @@ reference: "Jorge Munoz\\-Gama, Niels Martin, Carlos Fernandez\\-Llatas, Owen
   Mathias Weske, Moe Thandar Wynn, Francesca Zerbato\\. Process Mining for
   Healthcare: Characteristics and Challenges, Journal of Biomedical
   Informatics\\. 2022\\."
-category: eHealth
+category: ehealth
 doi: https://doi.org/10.1016/j.jbi.2022.103994
 ---
 

@@ -9,6 +9,6 @@ reference: >-
   Applications, Barcelona, Spanien, 2013, pp\. 104\-108
 
   G\. Zwettler, W\. Backfrieder
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

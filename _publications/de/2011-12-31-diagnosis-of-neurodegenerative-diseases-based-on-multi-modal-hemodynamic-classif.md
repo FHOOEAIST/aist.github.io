@@ -10,6 +10,6 @@ reference: >-
   EUROCAST 2011, Las Palmas, Spanien, 2011, pp\. 363\-365
 
   G\. Zwettler, W\. Backfrieder, R\. Pichler
-category: eHealth
+category: ehealth
 ---
 

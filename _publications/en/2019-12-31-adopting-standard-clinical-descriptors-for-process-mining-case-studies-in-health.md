@@ -8,7 +8,7 @@ title: Adopting Standard Clinical Descriptors for Process Mining Case Studies in
 reference: |-
   Process\-Oriented Data Science for Healthcare \([Details](http://pods4h.com/wp-content/uploads/2019/08/PODS4H19_paper13v2.pdf)\)
   Emmanuel Helm, David Baumgartner, Anna M\. Lin, Alvin Lin, Josef Küng
-category: eHealth
+category: ehealth
 external_url: http://pods4h.com/wp-content/uploads/2019/08/PODS4H19_paper13v2.pdf
 ---
 

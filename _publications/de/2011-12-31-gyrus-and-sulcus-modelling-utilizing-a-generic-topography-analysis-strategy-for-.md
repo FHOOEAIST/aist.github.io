@@ -10,6 +10,6 @@ reference: >-
   Italien, 2011, pp\. 111\-117
 
   G\. Zwettler, W\. Backfrieder, R\. Pichler
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

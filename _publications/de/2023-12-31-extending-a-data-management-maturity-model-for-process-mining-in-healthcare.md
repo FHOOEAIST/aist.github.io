@@ -7,7 +7,7 @@ title: Extending a Data Management Maturity Model for Process Mining in Healthca
 reference: Erhard, A\., Arthofer, K\., & Helm, E\. \(2023\)\. Extending a Data
   Management Maturity Model for Process Mining in Healthcare\. _Studies in
   Health Technology and Informatics_, _301_, 192\-197\.
-category: eHealth
+category: ehealth
 doi: https://doi.org/10.3233/SHTI230038
 ---
 

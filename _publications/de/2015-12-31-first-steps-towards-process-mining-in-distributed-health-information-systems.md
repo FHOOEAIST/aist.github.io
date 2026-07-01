@@ -10,7 +10,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/4663)\)
 
   E\. Helm, F\. Paster
-category: eHealth
+category: ehealth
 external_url: http://research.fh-ooe.at/de/publication/4663
 ---
 

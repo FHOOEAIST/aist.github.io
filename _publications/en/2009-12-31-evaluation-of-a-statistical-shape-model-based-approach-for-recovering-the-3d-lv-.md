@@ -10,6 +10,6 @@ reference: >-
   Tenerife, Spanien, 2009, pp\. 154\-160
 
   R\. Swoboda, G\. Zwettler, J\. Scharinger, C\. Steinwender, F\. Leisch
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

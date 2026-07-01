@@ -8,7 +8,7 @@ title: Strategies for Training Deep Learning Models in Medical Domains with
 reference: Gerald Zwettler, David Holmes and Werner Backfrieder\. „Strategies
   for Training Deep Learning Models in Medical Domains with Small Reference
   Datasets“\. WSCG ’20\.
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 
 Mit dem stetigen Fortschritt von Deep Learning \(DL\)

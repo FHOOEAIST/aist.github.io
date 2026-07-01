@@ -10,6 +10,6 @@ reference: >-
   Healthcare IWISH 2013 , Athens, Greece, Griechenland, 2013, pp\. 58\-64
 
   G\. Zwettler, W\. Backfrieder
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

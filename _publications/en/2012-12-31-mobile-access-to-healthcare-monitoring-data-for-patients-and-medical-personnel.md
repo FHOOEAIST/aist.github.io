@@ -9,7 +9,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/2875)\)
 
   M\. Strasser, E\. Helm, A\. Schuler, M\. Fuschlberger, B\. Altendorfer
-category: eHealth
+category: ehealth
 external_url: http://research.fh-ooe.at/de/publication/2875
 ---
 

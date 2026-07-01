@@ -9,7 +9,7 @@ reference: Oliver Krauss, Andreas Schuler, „**Identifying Energy Efficiency
   Patterns in Sorting Algorithms via Abstract Syntax Tree Mining**“ in
   Proceedings of the 22nd International Conference on Modelling and Applied
   Simulation \(MAS 2023\)_, 2023\._
-category: Machine Learning & Data Science
+category: ml
 doi: https://doi.org/10.46354/i3m.2023.mas.003
 ---
 

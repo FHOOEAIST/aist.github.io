@@ -11,6 +11,6 @@ reference: >-
 
   F\. Pfeifer, W\. Backfrieder, G\. Zwettler, R\. Swoboda, H\. Kratochwill, M\.
   Malek, R\. Hainisch
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

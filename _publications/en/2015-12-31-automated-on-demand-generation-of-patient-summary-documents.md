@@ -9,6 +9,6 @@ reference: >-
   2015, pp\. 151\-157
 
   O\. Krauss, B\. Franz, A\. Schuler
-category: eHealth
+category: ehealth
 ---
 

@@ -7,7 +7,7 @@ title: Genetic Improvement of Data for Maths Functions*
 reference: Langdon W\. and Krauss O\. \(2021\)\. Genetic Improvement of Data for
   Maths Functions\*\. In Proceedings of the Genetic and Evolutionary Computation
   Conference Companion\.
-category: Machine Learning & Data Science
+category: ml
 ---
 
 Genetic Improvement \(GI\) can be used to give better quality software and to create new functionality\.

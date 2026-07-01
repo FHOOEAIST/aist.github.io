@@ -9,7 +9,7 @@ reference: >-
   Gaussian
 
   Mixture Models“, EUROCAST 2024\.
-category: Computer Vision & Augmented Reality
+category: cv
 external_url: https://eurocast2024.fulp.ulpgc.es/documents/Eurocast_2024_Extended_Abstract_Book.pdf
 ---
 

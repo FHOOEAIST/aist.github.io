@@ -9,7 +9,7 @@ reference: >-
   \([Details](http://link.springer.com/book/10.1007%2F978-3-319-43949-5)\)
 
   E\. Helm, J\. Küng
-category: eHealth
+category: ehealth
 external_url: http://link.springer.com/book/10.1007%2F978-3-319-43949-5
 ---
 

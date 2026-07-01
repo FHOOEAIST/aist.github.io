@@ -10,7 +10,7 @@ reference: Elisabeth Mayrhuber, Oliver Krauss, Martin Hanreich, Andreas Stöckl,
   E\-Commerce Marketing Strategy Suggestions**“ in _Proceedings of International
   Conference on Electrical, Computer, Communications and Mechatronics
   Engineering \(ICECCME\), 2023\._
-category: Machine Learning & Data Science
+category: ml
 ---
 
 This paper presents an ontology and process mining\-based system that employs semantic technologies for targeted e\-commerce marketing strategy suggestions\. The proposed approach utilizes ontologies as a knowledge representation formalism to capture the domain knowledge, product descriptions, and website texts in the e\-commerce domain\. The ontology is populated with relevant attributes and corresponding values, allowing for a structured and standardized representation of users and content\.

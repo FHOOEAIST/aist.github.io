@@ -11,7 +11,7 @@ reference: >-
   \([Details](http://research.fh-ooe.at/de/publication/2836)\)
 
   M\. Strasser, E\. Helm, A\. Schuler, B\. Franz, H\. Mayr, C\. David
-category: eHealth
+category: ehealth
 external_url: http://research.fh-ooe.at/de/publication/2836
 ---
 

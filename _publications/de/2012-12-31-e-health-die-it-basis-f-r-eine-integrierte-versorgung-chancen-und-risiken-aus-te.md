@@ -8,6 +8,6 @@ title: "e-Health – Die IT-Basis für eine Integrierte Versorgung: Chancen und
 reference: |-
   Proceedings IV Kongress 2012, Linz, Österreich, 2012
   H\. Mayr, B\. Franz
-category: eHealth
+category: ehealth
 ---
 

@@ -8,7 +8,7 @@ title: Multi-Resolution Localization of Individual Logs in Wooden Piles
 reference: Praschl C\. Auserperg\-Castell P\., Forster\-Heinlein B\., Zwettler
   G\. \(2021\)\. In Proceedings of 33rd European Modeling & Simulation
   Symposium\.
-category: Computer Vision & Augmented Reality
+category: cv
 doi: https://doi.org/10.46354/i3m.2021.emss.042
 ---
 

@@ -9,6 +9,6 @@ reference: >-
   Budapest, Ungarn, 2018
 
   C\. Praschl, O\. Krauss, G\. Zwettler – Drive for Knowledge
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

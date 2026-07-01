@@ -9,7 +9,7 @@ reference: >-
   \([Details](https://dl.acm.org/authorize?N676106)\)
 
   O\. Krauss
-category: Machine Learning & Data Science
+category: ml
 external_url: https://dl.acm.org/authorize?N676106
 ---
 

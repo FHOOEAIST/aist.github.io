@@ -10,6 +10,6 @@ reference: >-
   Generations, Las Vegas, Vereinigte Staaten von Amerika, 2010
 
   B\. Franz, H\. Mayr, M\. Mayr
-category: eHealth
+category: ehealth
 ---
 

@@ -12,7 +12,7 @@ reference: >-
   News Papers Using Machine Learning**“ in _Proceedings of International
   Conference on Electrical, Computer, Communications and Mechatronics
   Engineering \(ICECCME\), 2022\._
-category: Machine Learning & Data Science
+category: ml
 ---
 
 Nowadays, news spread quickly, and it is not always clear to the reader whether an article is real or fake\. Moreover, readers use only a few sources to read the news without knowing the quality of the source\. This is due to a lack of up\-to\-date

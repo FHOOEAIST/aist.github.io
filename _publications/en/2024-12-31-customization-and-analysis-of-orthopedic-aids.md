@@ -6,7 +6,7 @@ date: 2024-12-31
 title: Customization and Analysis of Orthopedic Aids
 reference: Praschl C\., Dalkilic M\., Bauernfeind S\., Wakolbinger M\., Zwettler
   G\.“Customization and Analysis of Orthopedic Aids“, EUROCAST 2024\.
-category: Machine Learning & Data Science
+category: ml
 external_url: https://eurocast2024.fulp.ulpgc.es/documents/Eurocast_2024_Extended_Abstract_Book.pdf
 ---
 

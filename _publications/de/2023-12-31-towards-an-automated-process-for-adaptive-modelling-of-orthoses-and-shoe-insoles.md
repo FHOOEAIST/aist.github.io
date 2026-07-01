@@ -10,7 +10,7 @@ reference: Gerald Adam Zwettler, Martin Trixner, Clemens Schartmüller, Sophie
   Process for Adaptive Modelling of Orthoses and Shoe Insoles in Additive
   Manufacturin**g“ in Proceedings of the 12th International Workshop on
   Innovative Simulation for Healthcare \(IWISH 2023\)_, 2023\._
-category: eHealth
+category: ehealth
 doi: https://doi.org/10.46354/i3m.2023.iwish.005
 ---
 

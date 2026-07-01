@@ -9,6 +9,6 @@ title: "e-Care: mobile Informationssysteme im Gesundheitswesen. Elektronischer
 reference: |-
   Krankenhaus\-IT Journal, Vol\. 50, No\. 4, 2010, pp\. 60\-61
   B\. Franz
-category: eHealth
+category: ehealth
 ---
 

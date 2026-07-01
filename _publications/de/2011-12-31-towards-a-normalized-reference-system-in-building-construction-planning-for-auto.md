@@ -12,6 +12,6 @@ reference: >-
 
   G\. Zwettler, S\. Hinterholzer, P\. Track, R\. Woschitz, F\. Waschaurek, E\.
   Hagmann
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

@@ -9,6 +9,6 @@ reference: >-
   Healthcare IWISH 2017, Barcelona, Spanien, 2017
 
   W\. Backfrieder, G\. Zwettler, B\. Kerschbaumer
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

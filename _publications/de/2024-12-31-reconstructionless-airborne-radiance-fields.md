@@ -6,7 +6,7 @@ date: 2024-12-31
 title: Reconstructionless Airborne Radiance Fields
 reference: Christoph Praschl, Leopold Böss, and David C\. Schedl\. 2024\.
   Reconstructionless Airborne Radiance Fields\. SIGGRAPH 2024\.
-category: Computer Vision & Augmented Reality
+category: cv
 doi: https://doi.org/10.1145/3641234.3671077
 ---
 

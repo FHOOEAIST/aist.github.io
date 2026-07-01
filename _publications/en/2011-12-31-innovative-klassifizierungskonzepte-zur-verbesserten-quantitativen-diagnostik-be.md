@@ -11,6 +11,6 @@ reference: >-
   Fachhochschulen\), Wien \(Favoriten\), Österreich, 2011, pp\. 38\-41
 
   G\. Zwettler, W\. Backfrieder, R\. Pichler
-category: eHealth
+category: ehealth
 ---
 

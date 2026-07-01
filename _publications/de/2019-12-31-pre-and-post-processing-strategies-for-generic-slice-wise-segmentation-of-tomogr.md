@@ -9,6 +9,6 @@ title: Pre- and Post-processing Strategies for Generic Slice-wise Segmentation
 reference: |-
   Proceedings of the VISAPP 2020, Valetta, Malta, 2020, pp\. 12
   G\. Zwettler, D\. Holmes III, W\. Backfrieder
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

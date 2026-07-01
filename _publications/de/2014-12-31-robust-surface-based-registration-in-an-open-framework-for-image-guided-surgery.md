@@ -9,6 +9,6 @@ reference: >-
   Healthcare IWISH 2014, Bordeaux, France, 2014, pp\. 36\-41
 
   W\. Backfrieder, G\. Zwettler
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 

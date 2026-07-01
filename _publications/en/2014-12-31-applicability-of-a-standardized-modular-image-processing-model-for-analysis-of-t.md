@@ -11,6 +11,6 @@ reference: >-
   Kufstein, Österreich, 2014, pp\. 482\-483
 
   G\. Zwettler, W\. Backfrieder
-category: Computer Vision & Augmented Reality
+category: cv
 ---
 
