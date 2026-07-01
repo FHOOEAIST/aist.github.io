@@ -136,7 +136,6 @@ header {
   background-color: var(--color-primary);
   padding: 0;
   position: relative;
-  z-index: 100;
 }
 
 header > div {
